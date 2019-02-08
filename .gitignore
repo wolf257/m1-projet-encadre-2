@@ -1,5 +1,6 @@
 *TEST*
 .DS_S*
+*OUT*
 !Build/
 .last_cover_stats
 /META.yml
