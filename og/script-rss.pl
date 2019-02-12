@@ -23,6 +23,8 @@ my %nom_des_rubriques = (
 );
 
 my %doublons;
+my $nb_doublons = 0;
+my $nb_articles = 0;
 
 # MAIN ===========================================================
 
@@ -39,8 +41,9 @@ open(FICOUTXML, ">:encoding(utf8)", "./sortie-xml.xml") or die("message3");
 my ($compteur_folder, $compteur_file, $compteur_file_matching) = (0, 0, 0);
 &gothroughtree($folder, $rubriqueATraiter);
 
-print "\nRésultat de gothroughtree : $compteur_folder dossiers, et $compteur_file fichiers.\n";
-print "- $compteur_file_matching fichiers appartenant à notre rubrique.";
+print "\nRésultat de gothroughtree : \n- $compteur_folder dossiers, et $compteur_file fichiers.\n";
+print "- $compteur_file_matching fichiers appartenant à notre rubrique.\n";
+print "- $nb_articles articles enregistrés, plus $nb_doublons doublons que nous n'avons enregistrés qu'une fois.";
 
 &write_xml_tail(FICOUTXML);
 
@@ -143,15 +146,55 @@ sub gothroughtree {
             if ($path_elt =~ /$rubriqueATraiter\.xml/) {
                 $compteur_file_matching++;
                 print "++ $path_elt correspond.\n";
+
+                # TODO : Mettre cette partie sous fonction !
+
+                &extraction_contenu_rss_from_file($path_elt) ;
+                                
+                print "- Nb de doublons à ce points : $nb_doublons.\n";
             }
 
 
         } # fin du elsif -f
 
-    } # find du foreach
+    } # find du foreach elt
 
 } # fin du gothroughtree
 
+sub extraction_contenu_rss_from_file {
+    eval {$rss->parsefile($path_elt); };
+    if( $@ ) {
+        print "\nERREURR - file : '$path_elt'\n - message : $@\n";
+    }
+    else {
+        foreach my $item (@{$rss->{'items'}}) {
+            my $description=$item->{'description'};
+            my $titre=$item->{'title'};
+            
+            # verification des doublons
+            if ( !(exists $doublons{$titre}) ) {
+                
+                $doublons{$titre}='yes';
+                
+                # cleaning
+                ($titre, $description) = &cleaning($titre, $description);
+
+                print FICOUT "$titre\n";
+                print FICOUT "$description\n\n";
+                
+                print FICOUTXML "\t<titre num_art=\"$nb_articles\"> $titre </titre>\n";
+                print FICOUTXML "\t<description num_art=\"$nb_articles\"> $description </description>\n\n";
+
+                $nb_articles++;
+            }
+            else {
+                # $nb_articles++;
+                $nb_doublons++;
+                # print "DOUBLONS : L'article '$titre' existe déjà.\n";
+            }
+        } # fin foreach rss
+    } # fin else
+}
 sub read_and_return_content_of_folder {
     # - Ouvre le dossier donné en arg
     # - Récupère tous les fichiers/répertoires
@@ -166,6 +209,17 @@ sub read_and_return_content_of_folder {
 
     return @content;
 }
+
+sub cleaning {
+    # tous les args sont dans @_
+    my ($t, $d) = @_;
+
+    $t .= ".";
+    $d =~ s/&#38;#39;/'/g;
+
+    return $t, $d;
+}
+
 # # 1/ Lecture fichier rss en 1 seule ligne (L)
 # my $fic = shift(@ARGV);
 
