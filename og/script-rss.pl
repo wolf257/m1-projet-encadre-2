@@ -147,8 +147,6 @@ sub gothroughtree {
                 $compteur_file_matching++;
                 print "++ $path_elt correspond.\n";
 
-                # TODO : Mettre cette partie sous fonction !
-
                 &extraction_contenu_rss_from_file($path_elt) ;
                                 
                 print "- Nb de doublons à ce points : $nb_doublons.\n";
@@ -162,6 +160,7 @@ sub gothroughtree {
 } # fin du gothroughtree
 
 sub extraction_contenu_rss_from_file {
+    # check : https://metacpan.org/pod/XML::RSS
     eval {$rss->parsefile($path_elt); };
     if( $@ ) {
         print "\nERREURR - file : '$path_elt'\n - message : $@\n";
