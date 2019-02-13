@@ -36,8 +36,8 @@ print "+ Rubrique choisie : '$nom_des_rubriques{$rubriqueATraiter}' dont l'id es
 $choix_module = &askMode;
 
 # Open files output
-open(FICOUT, ">:encoding(utf8)", "./sortie-texte.txt") or die("message2");
-open(FICOUTXML, ">:encoding(utf8)", "./sortie-xml.xml") or die("message3");
+open(FICOUT, ">:encoding(utf8)", "./sortie-$rubriqueATraiter.txt") or die("message2");
+open(FICOUTXML, ">:encoding(utf8)", "./sortie-$rubriqueATraiter.xml") or die("message3");
 
 &write_xml_header(FICOUTXML);
 

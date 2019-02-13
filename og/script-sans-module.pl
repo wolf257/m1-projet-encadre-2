@@ -150,7 +150,7 @@ sub gothroughtree {
                 print "++ $path_elt correspond.\n";
 
                 &extraction_contenu_rss_from_file_sans_module($path_elt) ;
-                                
+
                 print "- Nb de doublons à ce points : $nb_doublons.\n";
             }
 
@@ -163,7 +163,7 @@ sub gothroughtree {
 
 sub extraction_contenu_rss_from_file_sans_module {
     my $ens_ligne;
-    
+
     my $fic = shift;
 
     open(FICIN, "<:encoding(utf8)", $fic) or die("message1");
@@ -177,7 +177,7 @@ sub extraction_contenu_rss_from_file_sans_module {
 
         # verification des doublons
         if ( !(exists $doublons{$titre}) ) {
-            
+
             $doublons{$titre}='yes';
 
             print FICOUT "$titre\n";
