@@ -22,6 +22,8 @@ my %nom_des_rubriques = (
     "0,2-3234,1-0,0" => 'Entreprise',
 );
 
+my $choix_module = 0;
+
 my %doublons;
 my $nb_doublons = 0;
 my $nb_articles = 0;
@@ -31,6 +33,8 @@ my $nb_articles = 0;
 $rubriqueATraiter = &askRubrique;
 print "+ Rubrique choisie : '$nom_des_rubriques{$rubriqueATraiter}' dont l'id est : $rubriqueATraiter\n\n";
 
+$choix_module = &askMode;
+
 # Open files output
 open(FICOUT, ">:encoding(utf8)", "./sortie-texte.txt") or die("message2");
 open(FICOUTXML, ">:encoding(utf8)", "./sortie-xml.xml") or die("message3");
@@ -39,14 +43,17 @@ open(FICOUTXML, ">:encoding(utf8)", "./sortie-xml.xml") or die("message3");
 
 # Traitement arbo
 my ($compteur_folder, $compteur_file, $compteur_file_matching) = (0, 0, 0);
+print("\n");
 &gothroughtree($folder, $rubriqueATraiter);
 
-print "\nRésultat de gothroughtree : \n- $compteur_folder dossiers, et $compteur_file fichiers.\n";
+my $message = ($choix_module == 1) ? "(sans module)" : "(avec xml::rss)";
+print "\nRésultat de gothroughtree $message : \n";
+# print "(sans module)" if $choix_module == 1 else "(avec xml::rss)";
+print "- $compteur_folder dossiers, et $compteur_file fichiers.\n";
 print "- $compteur_file_matching fichiers appartenant à notre rubrique.\n";
 print "- $nb_articles articles enregistrés, plus $nb_doublons doublons que nous n'avons enregistrés qu'une fois.";
 
 &write_xml_tail(FICOUTXML);
-
 
 # Close files output
 close(FICOUT);
@@ -97,6 +104,30 @@ sub askRubrique {
 
 }
 
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
+sub askMode {
+    my $choix = 0;
+
+    print "Maintenant, choisissez le mode.\n";
+
+    while(1){
+        print "\tChoix possibles : \n";
+        print "\t1 - Sans module (perl pur)\n";
+        print "\t2 - Avec module XML::RSS\n";
+        print "\tLe votre : ";
+        chomp ($choix = <STDIN>);
+
+        if ($choix == 1) { $choix = 1; last; }
+        elsif ( $choix == 2 ) { $choix = 2; last; }
+        else { redo; }
+    }
+
+    return $choix;
+}
 #==============================================
 # Nom :
 # Action :
@@ -165,9 +196,16 @@ sub gothroughtree {
 
             if ($path_elt =~ /$rubriqueATraiter\.xml/) {
                 $compteur_file_matching++;
-                print "++ $path_elt correspond.\n";
+                print "** FICHIER TROUVÉ : $path_elt.\n";
 
-                &extraction_contenu_rss_from_file_with_module($path_elt) ;
+                # &traitement_contenu_rss_from_file_with_module($path_elt) ;
+                if ($choix_module == 1)
+                {
+                    &traitement_contenu_rss_from_file_sans_module($path_elt);
+                }
+                else{
+                    &traitement_contenu_rss_from_file_with_module($path_elt);
+                }
 
                 print "- Nb de doublons à ce points : $nb_doublons.\n";
             }
@@ -179,12 +217,41 @@ sub gothroughtree {
 
 } # fin du gothroughtree
 
+
+#==============================================
+# Nom :
+# Action :
+#==============================================
+sub traitement_contenu_rss_from_file_sans_module {
+    my $ens_ligne;
+    my $motif = "<item>.*?<title>([^<]*)<\/title>.*?<description>([^<]*)</description>.*?</item>";
+
+    my $fic = shift;
+
+    open(FICIN, "<:encoding(utf8)", $fic) or die("message1");
+    $ens_ligne = &all_lines_into_one(FICIN);
+    close(FICIN);
+
+    while ($ens_ligne =~ /$motif/g) {
+        my ($titre, $description) = ($1, $2);
+
+        # cleaning
+        ($titre, $description) = &cleaning($titre, $description);
+
+        # verification des doublons
+        # + ecriture dans fichiers
+        &elimination_doublons_et_ecriture_dans_fichier($titre, $description);
+
+    } # /while
+} # /sub
+
+
 #==============================================
 # Nom :
 # Action :
 #==============================================
 
-sub extraction_contenu_rss_from_file_with_module {
+sub traitement_contenu_rss_from_file_with_module {
     # check : https://metacpan.org/pod/XML::RSS
     eval {$rss->parsefile($path_elt); };
     if( $@ ) {
@@ -195,30 +262,56 @@ sub extraction_contenu_rss_from_file_with_module {
             my $description=$item->{'description'};
             my $titre=$item->{'title'};
 
+            # cleaning
+            ($titre, $description) = &cleaning($titre, $description);
+
             # verification des doublons
-            if ( !(exists $doublons{$titre}) ) {
+            # + ecriture dans fichiers
+            &elimination_doublons_et_ecriture_dans_fichier($titre, $description);
 
-                $doublons{$titre}='yes';
-
-                # cleaning
-                ($titre, $description) = &cleaning($titre, $description);
-
-                print FICOUT "$titre\n";
-                print FICOUT "$description\n\n";
-
-                print FICOUTXML "\t<titre num_art=\"$nb_articles\"> $titre </titre>\n";
-                print FICOUTXML "\t<description num_art=\"$nb_articles\"> $description </description>\n\n";
-
-                $nb_articles++;
-            }
-            else {
-                $nb_doublons++;
-                # print "DOUBLONS : L'article '$titre' existe déjà.\n";
-            }
         } # fin foreach rss
     } # fin else
 }
 
+#==============================================
+# Nom :
+# Action :
+#==============================================
+sub elimination_doublons_et_ecriture_dans_fichier{
+        $titre = shift;
+        $description = shift;
+
+        if ( !(exists $doublons{$titre}) ) {
+
+            $doublons{$titre}='yes';
+
+            # write in both file
+            &print_title_description_in_both_files($titre, $description);
+
+            $nb_articles++;
+        }
+        else {
+            $nb_doublons++;
+            $doublons{$titre}++;
+        }
+
+}
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
+sub print_title_description_in_both_files {
+
+    $titre = shift;
+    $description = shift;
+
+    print FICOUT "$titre\n";
+    print FICOUT "$description\n\n";
+
+    print FICOUTXML "\t<titre num_art=\"$nb_articles\"> $titre </titre>\n";
+    print FICOUTXML "\t<description num_art=\"$nb_articles\"> $description </description>\n\n";
+}
 #==============================================
 # Nom :
 # Action :
@@ -237,6 +330,23 @@ sub read_and_return_content_of_folder {
     closedir(FOLDER);
 
     return @content;
+}
+
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
+sub all_lines_into_one {
+    my $compteur = 0;
+    my $ens_ligne;
+    while (my $line = <FICIN>) {
+        chomp $line;
+        $ens_ligne .= " $line.";
+        $compteur++;
+    }
+    print "- Ce fichier compte $compteur lignes.\n";
+    return $ens_ligne;
 }
 
 #==============================================
