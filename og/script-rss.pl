@@ -29,7 +29,7 @@ my $nb_articles = 0;
 # MAIN ===========================================================
 
 $rubriqueATraiter = &askRubrique;
-print "+ Rubrique choisi : '$nom_des_rubriques{$rubriqueATraiter}' dont l'id est : $rubriqueATraiter\n\n";
+print "+ Rubrique choisie : '$nom_des_rubriques{$rubriqueATraiter}' dont l'id est : $rubriqueATraiter\n\n";
 
 # Open files output
 open(FICOUT, ">:encoding(utf8)", "./sortie-texte.txt") or die("message2");
@@ -53,6 +53,11 @@ close(FICOUT);
 close(FICOUTXML);
 
 # SUBS ===========================================================
+
+#==============================================
+# Nom :
+# Action :
+#==============================================
 
 sub askRubrique {
 
@@ -92,6 +97,11 @@ sub askRubrique {
 
 }
 
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
 sub write_xml_header {
     my $fic = shift;
     print $fic "<?xml version=\"1.0\" encoding=\"utf8\" ?>\n";
@@ -100,10 +110,20 @@ sub write_xml_header {
 
 }
 
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
 sub write_xml_tail {
     my $fic = shift;
     print $fic "</racine>";
 }
+
+#==============================================
+# Nom :
+# Action :
+#==============================================
 
 sub gothroughtree {
     my $path_to_folder = shift(@_);
@@ -159,6 +179,11 @@ sub gothroughtree {
 
 } # fin du gothroughtree
 
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
 sub extraction_contenu_rss_from_file {
     # check : https://metacpan.org/pod/XML::RSS
     eval {$rss->parsefile($path_elt); };
@@ -187,13 +212,18 @@ sub extraction_contenu_rss_from_file {
                 $nb_articles++;
             }
             else {
-                # $nb_articles++;
                 $nb_doublons++;
                 # print "DOUBLONS : L'article '$titre' existe déjà.\n";
             }
         } # fin foreach rss
     } # fin else
 }
+
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
 sub read_and_return_content_of_folder {
     # - Ouvre le dossier donné en arg
     # - Récupère tous les fichiers/répertoires
@@ -209,6 +239,11 @@ sub read_and_return_content_of_folder {
     return @content;
 }
 
+#==============================================
+# Nom :
+# Action :
+#==============================================
+
 sub cleaning {
     # tous les args sont dans @_
     my ($t, $d) = @_;
@@ -218,73 +253,3 @@ sub cleaning {
 
     return $t, $d;
 }
-
-# # 1/ Lecture fichier rss en 1 seule ligne (L)
-# my $fic = shift(@ARGV);
-
-# open(FICIN, "<:encoding(utf8)", $fic) or die("message1");
-# my $ens_ligne = all_lines_into_one(FICIN);
-# close(FICIN);
-
-# sub all_lines_into_one {
-#     my $compteur = 0;
-#     my $ens_ligne;
-#     while (my $line = <FICIN>) {
-#         chomp $line;
-#         $ens_ligne .= " $line.";
-#         $compteur++;
-#     }
-#     print "Ce fichier comptait $compteur lignes.";
-#     return $ens_ligne;
-# }
-#
-#
-# # 2/ find in L les occurrences de titre et de description
-#
-# my $motif = "<item>.*?<title>([^<]*)<\/title>.*?<description>([^<]*)</description>.*?</item>";
-#
-# my $num_art = 0;
-# while ($ens_ligne =~ /$motif/g) {
-#     my ($titre, $description) = ($1, $2);
-#
-#     ($titre, $description) = &cleaning($titre, $description);
-#
-#     print FICOUT "$titre\n";
-#     print FICOUT "$description\n\n";
-#
-#     print FICOUTXML "\t<titre num_art=\"$num_art\"> $titre </titre>\n";
-#     print FICOUTXML "\t<description num_art=\"$num_art\"> $description </description>\n\n";
-#
-#     $num_art++;
-# }
-#
-# # my $motif = "<item>.*?<title>([^<]*)<\/title>.*?<description>([^<]*)</description>.*?</item>";
-# #
-# # my $num_art = 0;
-# # while ($ens_ligne =~ /$motif/g) {
-# #     my ($titre, $description) = ($1, $2);
-# #     # my $description = $2;
-# #
-# #     ($titre, $description) = &cleaning($titre, $description);
-# #
-# #     print FICOUT "$titre\n";
-# #     print FICOUT "$description\n\n";
-# #
-# #     print FICOUTXML "\t<titre num_art=\"$num_art\"> $titre </titre>\n";
-# #     print FICOUTXML "\t<description num_art=\"$num_art\"> $description </description>\n\n";
-# #
-# #     $num_art++;
-# # }
-#
-#
-#
-# #---------------------------------------------------------
-# sub cleaning {
-#     # tous les args sont dans @_
-#     my ($t, $d) = @_;
-#
-#     $t .= ".";
-#     $d =~ s/&#38;#39;/'/g;
-#
-#     return $t, $d;
-# }

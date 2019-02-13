@@ -29,7 +29,7 @@ my $nb_articles = 0;
 # MAIN ===========================================================
 
 $rubriqueATraiter = &askRubrique;
-print "+ Rubrique choisi : '$nom_des_rubriques{$rubriqueATraiter}' dont l'id est : $rubriqueATraiter\n\n";
+print "+ Rubrique choisie : '$nom_des_rubriques{$rubriqueATraiter}' dont l'id est : $rubriqueATraiter\n\n";
 
 # Open files output
 open(FICOUT, ">:encoding(utf8)", "./sortie-texte.txt") or die("message2");
