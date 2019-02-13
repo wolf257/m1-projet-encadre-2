@@ -281,18 +281,17 @@ sub elimination_doublons_et_ecriture_dans_fichier{
         $titre = shift;
         $description = shift;
 
-        if ( !(exists $doublons{$titre}) ) {
-
-            $doublons{$titre}='yes';
+        if ( exists $doublons{$titre} ) {
+            $nb_doublons++;
+            $doublons{$titre}++;
+        }
+        else {
+            $doublons{$titre}=0;
 
             # write in both file
             &print_title_description_in_both_files($titre, $description);
 
             $nb_articles++;
-        }
-        else {
-            $nb_doublons++;
-            $doublons{$titre}++;
         }
 
 }
@@ -311,6 +310,7 @@ sub print_title_description_in_both_files {
 
     print FICOUTXML "\t<titre num_art=\"$nb_articles\"> $titre </titre>\n";
     print FICOUTXML "\t<description num_art=\"$nb_articles\"> $description </description>\n\n";
+
 }
 #==============================================
 # Nom :
