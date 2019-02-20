@@ -46,7 +46,8 @@ if (defined($opt_i)) {
 }
 if (defined($opt_f)) {
   # French
-  $PClitic = '[dcjlmnstDCJLNMST]\'|[Qq]u\'|[Jj]usqu\'|[Ll]orsqu\'';
+  $Apostrophe='[\'|’]';
+  $PClitic = "[dcjlmnstDCJLNMST]$Apostrophe|[Qq]u$Apostrophe|[Jj]usqu$Apostrophe|[Ll]orsqu$Apostrophe";
   $FClitic = '-t-elles?|-t-ils?|-t-on|-ce|-elles?|-ils?|-je|-la|-les?|-leur|-lui|-mmes?|-m\'|-moi|-nous|-on|-toi|-tu|-t\'|-vous|-en|-y|-ci|-l';
 }
 
