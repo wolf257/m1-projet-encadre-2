@@ -1,0 +1,2218 @@
+<FILE-date="2018/10/03/19">
+
+<article-nb="2018/10/03/19-1">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-1"> ¤ Pour le deuxième match de la phase de poule, Paris reçoit, mercredi à 19 heures, le club historique de Belgrade dont c’est le retour dans la compétition phare européenne après 26 ans d’absence.
+<filname="PROF-0,2-3242,1-0,0-1"> ¤ 
+<article-nb="2018/10/03/19-2">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-2"> ¤ Perdu·e dans le dédale des offres de sport à la télévision ? Sélectionnez les sports et compétitions qui vous intéressent, « Le Monde » vous dit à quelles chaînes vous devez souscrire.
+<filname="PROF-0,2-3242,1-0,0-2"> ¤                     
+                                                
+
+Football, rugby, vélo, etc. : quels abonnements télé pour regarder votre sport préféré ?
+
+Perdu·e dans le dédale des offres de sport à la télévision ? Sélectionnez les sports et compétitions qui vous intéressent, « Le Monde » vous dit à quelles chaînes vous devez souscrire.
+
+
+
+LE MONDE
+ |    03.10.2018 à 15h04
+ • Mis à jour le
+03.10.2018 à 15h17
+    |
+
+            Pierre Breteau
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Quel(s) abonnement(s) prendre lorsqu’on aime regarder du sport ? Difficile de s’y retrouver dans le dédale des droits télévisés, attribués à diverses chaînes qui se partagent les sports, les compétitions et les rencontres.
+Vous voulez suivre toute la Ligue 1 et la Ligue des champions — et, au hasard, le match PSG-Etoile rouge du mercredi 3 octobre ? Pour ne rien manquer du football français, européen et toutes les compétitions, vous allez devoir débourser quelque 70 euros pour les treize événements que nous avons recensés : soit un abonnement à BeIN Sports, Canal+, Eurosport et RMC Sport.
+Vous ne voulez rien rater du rugby en Top 14 et Pro D2 ? Ce sera Canal+ ou Eurosport. Si jamais vous préférez le cyclisme, alors là vous pouvez vous en sortir un peu mieux, la plupart des grands rendez-vous, comme le Tour de France, le Tour d’Italie ou les courses classiques, sont diffusés en gratuit.
+Pour vous y retrouver (et préparer votre budget), nous avons listé les principales compétitions de football, tennis, rugby, basket et cyclisme, ainsi que la ou les chaînes qui les diffusent. Faites votre sélection !
+
+
+    #bouquetsport {
+    border-top: 4px solid #16212c;
+    border-bottom: 1px solid #eef1f5;
+    padding: 10px 0;
+    width: 100%;
+    color: #16212c;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+#bouquetsport .grasdecodeurs {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+#bouquetsport .titre {
+    padding: 6px 16px;
+    display: block;
+}
+
+#bouquetsport .texte {
+    margin: 1rem .5rem;
+    padding: 0 10px;
+}
+
+#bouquetsport .explications {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    margin: 20px 0px;
+    padding: 16px;
+    background-color: #f5f6f8;
+    color: #383f4e;
+    text-align: center;
+}
+
+#bouquetsport .source {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    padding: 10px 0;
+    text-align: right;
+    color: #8b9299;
+    font-size: 1.2rem;
+}
+
+#bouquetsport .passelect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#bouquetsport .titresport {
+    border-top: 1px solid #d2d1d2;
+    border-right: 1px solid #d2d1d2;
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding: 1rem 1.5rem;
+    position: relative;
+    cursor: pointer;
+}
+
+
+
+#bouquetsport .titresport:hover {
+    background-color: #f6f6f6;
+}
+
+
+#bouquetsport div.liste {
+    border-left: 1px solid #f6f6f6;
+    border-right: 1px solid #f6f6f6;
+    border-top: 1px solid #d2d1d2;
+}
+
+#bouquetsport div.liste:last-of-type {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #f6f6f6;
+
+}
+
+#g_basket-ball div.liste {
+    border-top: 0px solid #FFF;
+}
+
+
+
+#bouquetsport .titresport.football {
+    border-left: 6px solid #e5e7d4;
+}
+
+
+#bouquetsport .titresport.rugby {
+    border-left: 6px solid #bac6b3;
+}
+
+#bouquetsport .titresport.cyclisme {
+    border-left: 6px solid #78afad;
+}
+
+#bouquetsport .titresport.tennis {
+    border-left: 6px solid #038fb4;
+}
+
+#bouquetsport .titresport.basket-ball {
+    border-left: 6px solid #102f51;
+    border-bottom: 1px solid #d2d1d2;
+}
+
+#bouquetsport .titresport .triangle {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    -webkit-transition: -webkit-transform .25s;
+    transition: transform .25s;
+}
+
+#bouquetsport .titresport .triangle.tourne {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+#bouquetsport .groupesport {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    margin: 0;
+}
+
+#bouquetsport .groupesport .liste {
+    /*width: 100%;*/
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#bouquetsport .groupesport .liste .coche {
+    display: flex;
+    font-size: 1.4rem;
+    align-self: flex-start;
+    padding: .5rem 1.5rem .5rem 0;
+    flex: 0 50%;
+}
+
+#bouquetsport .coche label:hover {
+    cursor: pointer;
+}
+
+.dec_hr {
+    width: 100%;
+    margin: 1rem auto .5rem auto;
+    border-top: 1px solid #e8eaee;
+}
+
+#resultatdesktop {
+    display: block;
+}
+
+#resultatmobile {
+    display: none;
+}
+
+.resultatchaines {
+    border: 3px dashed #efefef;
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+/* le tooltip fixé en bas sur mobile */
+
+@media screen and (max-width: 500px) {
+    #resultatdesktop {
+        display: none;
+    }
+
+    #resultatmobile {
+        display: block;
+    }
+
+    #bouquetsport .groupesport .liste .coche {
+        font-size: 1.3rem;
+        flex: 1 0 100%;
+    }
+
+    .resultatchaines {
+        font-size: 1.3rem;
+        padding: 2rem 1rem .5rem 1rem;
+    }
+
+    #bouquetsport .titresport {
+        font-size: 1.5rem;
+    }
+
+    #bouquetsport .titre {
+        padding: 6px 0;
+    }
+
+    #bouquetsport .texte {
+        margin: 1rem 0;
+        padding: 0;
+        font-size: 1.5rem;
+    }
+
+    #bouquetsport .explications {
+        padding: 6px 2px;
+        font-size: 1.5rem;
+    }
+}
+
+                                                                                
+              ▄▓▄                                                               
+            ▄▓▓█       ▄▄▄▓▓▓▓▄╦          ▄▓▄               ▄▓▄▄                
+           ▓▓▓▓▄,,▄▄▓▓▓▓▓▓▓▓▓▓▓▓▓╕    ╓▄▓▓▓▓▓▓▓▄        ,▄▓▓▓▓▓▓▓▓▄╦            
+       ╒▌ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄  ▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▄▄▄▄▓▓▌  
+       ╫▓ ╙▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▀Γ ▀█▓▓▓▓▓▓▓▓▓▓▓▓▓█▀  ▀█▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▀Γ   
+        █▓▄ Γ▀▀▀▀▀ΓΓ ,  █▓▓▓▓▓▓▓▓▓▌  Σ▓▄,╙█▓▓▓▓▓▓▓▓▓▌   ▀█▓▄,Γ▀█▓▓▓▓▓▓▓▓█       
+                     ▐▓ ▐▓▓▓▓▓▓▓▓▓▌    ╙▓Q ▓▓▓▓▓▓▓▓▓▌       ▀█▌  ▓▓▓▓▓▓Γ        
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌          ▄▓▓▓▓▓▓▓         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌       ⌐ ▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌      ▓ ╟▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▐▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓      ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ╟▓▓▓▓▓▓▓█       ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ▐▀ ▓▓▓▓▓█▀         ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                      ╓▓▓▓█Γ            ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                      █▀                ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+               ▄▄▓▓▓▓▓▓▓▓▓▓▓▄╦          ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▓         
+          ,▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▄▓▓▌   ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▓▄,,▄▓╕   
+       ╓▄▓▓▓▓▓▓██████▓▓▓▓▓▓▓▓▓▓▓▓█▀     ▓▌ ▓▓▓▓▓▓▓▓▓▀     ▓▓ █▓▓▓▓▓▓▓▓▓▓▓▓█▀    
+     ▄▓▓██▀Γ     ≈4▄▄, ▀▓▓▓▓▓█▀Γ        ▓▌ ▓▓▓▓▓█▀Γ        ▓▌ ▀█▓▓▓▓▓▓█▀Γ       
+   ╙▓█Γ              █▓▄ ██▀            ▓▌ ██▀Γ             ▀█▄╦ ▀██▀           
+                      ╙▀                ▀`                     ▀▀               
+
+
+
+Football, rugby, vélo, etc. : à quelles chaînes devez-vous vous abonner ?
+Cette application recense plus de 70 événements sportifs diffusés à la télévision française sur neuf groupes TV différents, et ce dans cinq groupes de disciplines. Lorsqu'une chaîne gratuite et une chaîne payante diffusent le même match, notre application ne garde que la chaîne gratuite.
+Sélectionnez les événements sportifs qui vous intéressent pour savoir à quelles chaînes vous abonner, et combien cela vous coutera par mois.
+  
+
+  
+Sources : Le Monde, Média sportif
+
+
+require(["jquery", "jquery-ui/core"], function($, jqueryUICore) {
+
+    const cyclisme = {
+            "Tour de France": ["France TV", "Eurosport"],
+            "Tour d'Italie": ["L'Équipe"],
+            "Tour d'Espagne": ["Eurosport"],
+            "Paris-Roubaix": ["France TV"],
+            "Paris-Nice": ["France TV", "Eurosport"],
+            "Le Critérium du Dauphiné": ["France TV"],
+            "Tour des Flandres": ["France TV", "Eurosport"],
+            "Championnats de France": ["France TV", "Eurosport"],
+            "Championnats du Monde (CX)": ["L'Équipe"],
+            "Championnats du Monde (route)": ["France TV", "L'Équipe", "Eurosport"],
+            "La Flèche wallonne": ["France TV", "Eurosport"],
+            "Tirreno-Adriatico": ["L'Équipe"],
+            "Milan-San Remo": ["France TV"],
+            "Liège-Bastogne-Liège": ["France TV", "Eurosport"],
+            "Amstel Gold Race": ["France TV", "Eurosport"],
+            "Paris-Tours": ["France TV"],
+            "Tour d'Allemagne": ["L'Équipe", "Eurosport"],
+            "Tour de Catalogne": ["Eurosport"],
+            "Tour de Lombardie": ["L'Équipe"],
+            "Tour de Suisse": ["L'Équipe"],
+            "Tour Down Under": ["L'Équipe"],
+            "Tour du Pays Basque": ["Eurosport"],
+            "Tro Bro Leon": ["France TV"],
+            "Classique San Sebastien": ["Eurosport"],
+            "Gand-Wevelgem": ["L'Équipe"],
+            "Grand Prix E3": ["Eurosport"]
+        },
+        tennis = {
+            "Roland Garros": ["France TV", "Eurosport"],
+            "Wimbledon": ["Bein"],
+            "US Open": ["Eurosport"],
+            "Open d'Australie": ["Eurosport"],
+            "Coupe Davis": ["Bein"],
+            "Fed Cup": ["Bein"],
+            "Masters d'Indian Wells": ["Bein"],
+            "Masters de Miami": ["Bein"],
+            "Masters de Monte-Carlo": ["France TV", "Canal +"],
+            "Masters de Madrid": ["Bein"],
+            "Masters de Rome": ["Bein"],
+            "Masters du Canada": ["Bein"],
+            "Masters de Cincinnati": ["Bein"],
+            "Masters de Shanghai": ["Bein"],
+            "Masters de Paris-Bercy": ["Canal +"],
+            "Les 21 tournois du circuit WTA": ["Bein"]
+        },
+        rugby = {
+            "Top 14": ["Canal +"],
+            "Pro D2": ["Canal +", "Eurosport"],
+            "Fédérale 1": ["L'Équipe"],
+            "Six Nations": ["France TV", "Bein"],
+            "Challenge européen": ["France TV", "Bein"],
+            "Coupe d'Europe": ["France TV", "Bein"],
+            "Test matchs": ["France TV", "RMC Sport"],
+            "Coupe du Monde": ["TF1"],
+            "4 Nations": ["Canal +"],
+            "Premiership (Angleterre)": ["RMC Sport"],
+            "Super Rugby (AU & NZ)": ["Canal +"]
+        },
+        football = {
+            "Ligue 1": ["Canal +", "Bein"],
+            "Ligue 2": ["Canal +", "Bein"],
+            "D1 féminine": ["Canal +", "C8"],
+            "Coupe du monde féminine 2019": ["TF1", "Canal +"],
+            "Coupe de France": ["France TV", "Eurosport"],
+            "Coupe de la Ligue": ["France TV", "Canal +"],
+            "Ligue des nations de l'UEFA": ["TF1", "L'Équipe", "M6"],
+            "Ligue des Champions (C1)": ["RMC Sport"],
+            "Ligue Europa (C3)": ["France TV", "RMC Sport"],
+            "Serie A (Italie)": ["Bein"],
+            "Premier League (Angleterre)": ["RMC Sport"],
+            "Liga (Espagne)": ["Bein"],
+            "Bundesliga (Allemagne)": ["Bein"]
+        },
+        basketball = {
+            "NBA": ["Bein"],
+            "Euroleague": ["RMC Sport"],
+            "Pro A": ["RMC Sport"],
+            "Ligue des champions de basket": ["Canal +"],
+            "Équipes de France de basket": ["Canal +"],
+            "Eurobasket dames": ["M6", "Canal +"]
+        },
+        liste = [football, rugby, cyclisme, tennis, basketball],
+        listeString = ["Football", "Rugby", "Cyclisme", "Tennis", "Basket-ball"],
+        chainesQuiPartagent = ["Pro D2", "Coupe d'Europe", "Challenge européen"];
+
+    var dicoGlobal = {},
+        evenements = [],
+        chaines = [],
+        totalChaines = 0;
+
+    /* les tarifs */
+    const tarifs = {
+        "France TV": 0,
+        "Canal +": 30,
+        "Bein": 15,
+        "Eurosport": 9,
+        "L'Équipe": 0,
+        "RMC Sport": 19,
+        "C8": 0,
+        "TF1": 0,
+        "M6": 0
+    };
+
+    /* la boucle qui crée les coches */
+    $.each(liste, function(i, d) {
+        /* on crée une div par sport */
+        quelsport = listeString[i].toLowerCase()
+" + listeString[i] + "▲")
+        /* second boucle avec chaque événement */
+        $.each(d, function(j, e) {
+            dicoGlobal[j] = e;
+ " + j + "")
+        })
+    });
+
+    /* on bricole l'affichage au lancement */
+    $("div.liste").hide()
+    $("#g_football div.liste").slideToggle(250)
+    $("#g_football div.triangle").toggleClass("tourne")
+
+    /* les événements au clic sur les coches */
+    $("#touslessports .coche input[type='checkbox']").on("change", function() {
+        evt = $(this).data("evt")
+        if (this.checked) {
+            evenements.push(evt)
+        } else {
+            lequel = evenements.indexOf(evt);
+            evenements.splice(lequel, 1)
+        }
+        onVerifie();
+    })
+
+    /* l'événement au clic sur le titre */
+
+    $("#bouquetsport .titresport").on("click", function() {
+        $("#bouquetsport div.liste").slideUp(250, function() {
+            $(this).parent().find("div.triangle").removeClass("tourne")
+        })
+        if ($(this).next("div.liste").is(":hidden")) {
+            $(this).next("#bouquetsport div.liste").slideDown(250, function() {
+                $(this).parent().find("div.triangle").addClass("tourne")
+            });
+        }
+    });
+
+
+    /* nos fonctions */
+
+    function onVerifie() {
+        chaines = []
+        $.each(evenements, function(i, d) {
+            /* si c'est du football, faut toutes les chaines quand elles sont plusieurs */
+            if (football[d] || chainesQuiPartagent.indexOf(d) != -1) {
+                $.each(dicoGlobal[d], function(j, e) {
+                    if (chaines.indexOf(e) == -1) {
+                        chaines.push(e)
+                    }
+                })
+            } else {
+                /* sinon on ne garde que la gratuite, la première */
+                if (chaines.indexOf(dicoGlobal[d][0]) == -1) {
+                    chaines.push(dicoGlobal[d][0])
+                }
+            }
+        })
+        tarif();
+    };
+
+    function tarif() {
+        totalChaines = 0;
+        $.each(chaines, function(i, d) {
+            totalChaines += tarifs[d]
+        });
+        afficherLeResultat();
+    };
+
+    /* on génère le résultat */
+
+    function afficherLeResultat() {
+        /* on range les chaînes par prix */
+        chaines.sort(function(a, b) {
+            return tarifs[a] - tarifs[b]
+        })
+        evenements.sort()
+" + evenements.length + " événement" + ((evenements.length > 1) ? "s" : "") + " : ";
+        $.each(evenements, function(i, d) {
+            html += d
+            if (i == evenements.length - 2) { html += " et " } else if (i         })
+"
+"
+A suivre sur "
+        $.each(chaines, function(i, d) {
+            html += d
+            if (i == chaines.length - 2) { html += " et " } else if (i         })
+ 1) { prix = "Toutes ces chaînes sont gratuites" } else {
+indicatif de " + totalChaines + " euros"
+        }
+"
+        if (evenements.length == 0) {
+  ")
+        } else {
+            $("#resultatmobile, #resultatdesktop").html(html)
+        }
+    };
+    /* on règle le souci de clic */
+
+    $("#bouquetsport a").click(function(event) {
+        event.stopImmediatePropagation()
+    });
+
+});
+
+
+
+ /* CSS de l'encadré */ .module_decodeur ol li { list-style-type: decimal; } .module_decodeur ul li { list-style-type: disc; } .module_decodeur { width: 100%; padding: 24px 30px; margin: 10px 0; background: #FFFFFF; border-style: solid; border-width: 6px 1px 1px; border-color: #FB5100 #CACED0 #CACED0; font-family: Helvetica, arial, sans-serif; font-size: .8em; box-sizing: border-box; } .module_decodeur_header { border-bottom: 1px solid #E9EDF0; padding: 0 0 15.5px 0; margin: 0 0 15.5px 0; } .module_decodeur_header h2 { display: inline; background: #FB5100; padding: 6px 11px; font-family: Fette, "Arial Narrow", sans-serif; text-transform: uppercase; font-weight: normal; color: white; font-size: 1.3em; margin: 0; } .module_decodeur_logo { float: right; } .module_decodeur_logo a, .module_decodeur_logo img { border: none!important; text-decoration: :none!important; } .module_decodeur_intertitre { font-weight: bold!important; font-size: 1.1em; color: #131E2B; } .module_decodeur .encadre_dcdr_developpement .lire { padding: 8px 16px 6px; clear: both; background: #fff; border-left: 1px solid #e4e6e9; font-weight: bold; margin: 20px 0; } .module_decodeur .encadre_dcdr_developpement .lire a { border-bottom: 0; }
+
+
+
+MÉTHODOLOGIE
+
+
+Comment fonctionne notre application
+
+Notre application privilégie toujours la diffusion « gratuite » de sport. Ainsi, si vous voulez suivre le Tour de France, bien qu'il soit diffusé sur France TV et sur Eurosport, elle ne retiendra que France TV. Par ailleurs, et étant donné la complexité des offres, bouquets et autres promotions, nous avons retenu un seul prix par chaîne : 30 euros pour l'offre de Canal +, 9 pour le « player » en ligne d'Eurosport, 19 pour RMC Sport, 15 pour Bein, etc.
+Enfin, cette application ne garde aucune trace de vos choix, ils ne sont visibles que de vous, à ce moment précis, dans ce navigateur Internet.
+
+
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-3">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-3"> ¤ En tête du championnat d’Allemagne, le Borussia reçoit mercredi Monaco à l’occasion de la deuxième journée de la C1, fort d’un début de saison tonitruant.
+<filname="PROF-0,2-3242,1-0,0-3"> ¤                     
+                                                
+
+Ligue des champions : Dortmund, la jeunesse enfin au pouvoir ?
+
+En tête du championnat d’Allemagne, le Borussia reçoit mercredi Monaco à l’occasion de la deuxième journée de la C1, fort d’un début de saison tonitruant.
+
+
+
+LE MONDE
+ |    03.10.2018 à 10h02
+ • Mis à jour le
+03.10.2018 à 11h13
+    |
+
+                            Douglas de Graaf
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Rien ne se perd, tout se transforme. Deux saisons après leur affrontement en quarts de finale de Ligue des champions (3-2, 3-1 pour Monaco), le Borussia Dortmund et l’ASM effectuent mercredi 3 octobre leurs retrouvailles européennes, en s’appuyant de nouveau sur un même modèle sportif : l’achat de jeunes talents prometteurs, chargés d’animer un football tourné vers l’attaque.
+Mais cette année, la donne est différente. Là où la stratégie de Monaco (18e de Ligue 1 après huit journées) atteint ses limites, celle du Borussia (BvB) semble trouver sa pleine mesure. Invaincus en Bundesliga après six journées, les joueurs de la Ruhr occupent la tête du championnat allemand avec une différence de buts impressionnante (+ 14), deux fois supérieure à celle du Bayern Münich, leur grand rival et tombeur lors de la finale de la Ligue des champions en 2013.
+Le BvB ne dispose peut-être plus d’un buteur vedette, comme Robert Lewandowski ou Pierre-Emerick Aubameyang, mais « son effectif est l’un des meilleurs, sinon le meilleur d’Allemagne, estime Patrick Guillou, consultant spécialiste de la Bundesliga pour BeIN Sports. Sa grande force réside dans sa densité : la concurrence est telle qu’un Mario Götze, héros de la finale du Mondial 2014 avec l’Allemagne, n’est plus dans le groupe depuis plusieurs matchs ».
+Pourtant, les titulaires réguliers en attaque aux côtés du prodige américain Christian Pulisic (20 ans) et de Marco Reus, enfin épargné par les blessures, s’appellent Maximilian Philipp (24 ans), Marius Wolf (23 ans) ou Jacob Bruun Larsen (20 ans), tous issus de clubs plus modestes de Bundesliga. Des noms inconnus hors d’Allemagne, mais qui ne devraient pas le rester. En défense, la moyenne d’âge pointait à 20,7 ans samedi contre Leverkusen (4-2). Deux des piliers de l’arrière-garde, Dan-Axel Zagadou et Abdou Diallo, sont français, et promis à un brillant avenir.
+
+        Lire aussi :
+         
+
+                Football : la Bundesliga, terre d’accueil des pépites françaises
+
+
+
+Un nouveau modèle économique et sportif
+Désormais ancré dans l’ADN du club, ce pari sur la jeunesse est d’abord né d’un accident. Après le titre de champion d’Allemagne acquis en 2002, l’état-major dépense sans compter sur le marché des transferts, après avoir décidé de se coter en Bourse deux ans auparavant. Mais les recrues déçoivent et les résultats médiocres ne permettent pas de rentabiliser les investissements.
+L’entraîneur Matthias Sammer décide de réduire son salaire. Ses joueurs le suivent et renoncent à 20 % de leurs émoluments. Un geste qui n’empêche pas le Borussia de frôler la faillite et la relégation en championnat amateur en 2005. Le BvB est obligé de vendre son stade, et de le louer pour pouvoir y évoluer.
+Mais la marque « Borussia Dortmund », portée par le club le plus titré de la Ruhr (8 titres en Bundesliga et une Ligue des champions en 1997), son stade mythique du Westfalenstadion – aujourd’hui renommé Signal Iduna Park – et ses couleurs jaunes et noires historiques, pèsent lourd. Sauvé par des investisseurs comme Nike, le Borussia doit aussi sa survie à ses supporteurs, dont la campagne de sensibilisation a permis de repousser le paiement du loyer du stade, et… à son grand rival du Bayern Münich, qui a consenti un prêt de 2 millions d’euros. « On a besoin de concurrence pour grandir. Dortmund nous oblige à nous remettre en cause », justifiait Uli Hoeness, alors président du conseil de surveillance du Bayern.
+Pour éviter un nouveau désastre financier, la direction adopte le modèle économique qui fait aujourd’hui sa réussite sportive : jusqu’en 2012, pas un seul joueur n’a coûté plus de 6 millions d’euros, dont les Lewandowski, Hummels ou Gündogan, qui ne sont alors que des talents prometteurs. La plupart seront revendus bien plus cher. Démonstration avec le Français Ousmane Dembélé : acheté 15 millions d’euros à Rennes en 2016, cédé pour 90 millions de plus à Barcelone l’année suivante.
+Un recrutement davantage « Borussia compatible »
+Malgré les plus-values, ce modèle ne permet pas de rivaliser avec la toute puissance du Bayern Munich, qui s’est spécialisé dans le pillage des meilleurs éléments du BvB (Götze – aujourd’hui de retour à Dortmund – Lewandowski, Hummels) et dispose d’arguments financiers plus convaincants.
+Porté sur la voie du renouveau par de jeunes entraîneurs innovants (Jürgen Klopp de 2008 à 2015 et Thomas Tuchel de 2015 à 2017), Dortmund a misé cet été sur un technicien plus expérimenté, tout en conservant le style offensif de Klopp et Tuchel. A 60 ans, Lucien Favre a déjà roulé sa bosse en Bundesliga du côté de Mönchengladbach et reste sur une expérience aboutie à Nice (3e de Ligue 1 en 2016-2017).
+
+   
+
+
+Réputé pour son management humain, le Suisse s’attache à tisser un lien fort avec son effectif. Chaque matin, avant l’entraînement, il attend tous ses joueurs pour leur serrer la main. « Humainement et sportivement, Lucien Favre est le meilleur technicien que j’ai rencontré », affirmait en début de saison l’idole du club, Marco Reus.
+Ce choix d’un entraîneur sensible à l’affect fait partie des initiatives prises pour restaurer l’« ADN » perdu du Borussia, selon Patrick Guillou, à savoir « l’importance de l’institution ».
+28 milllions pour un espoir français
+Avec l’ancienne gloire locale Matthias Sammer de retour dans l’organigramme du BvB et un recrutement centré sur des joueurs « Borussia compatibles », Dortmund retrouve un esprit collectif qui s’exprime aussi sur le terrain : pas moins de 12 joueurs différents ont déjà trouvé le chemin des filets.
+Pour encadrer cette jeunesse, le club a aussi misé cet été sur des joueurs ayant de la « bouteille » : Axel Witsel (Belgique) et Thomas Delaney (Danemark), titulaires dans l’entrejeu de leur sélection au Mondial cet été. « Ils ne sont pas glamour, mais apportent du caractère, un leadership qui manquait à l’équipe ces dernières années », assure Patrick Guillou.
+Les dirigeants du BvB ont mis les moyens de leurs ambitions avec une balance de transferts négative (75 millions d’euros dépensés pour les arrivées, 50 millions perçus pour les départs). Le club n’a pas hésité à aligner 28 millions d’euros pour le grand espoir français Diallo, et a recruté malin en se faisant prêter le latéral du Real Madrid Achraf Hakimi, ou le buteur du FC Barcelone Paco Alcacer.
+Suffisant pour devancer le Bayern cette année ? « Munich dispose d’un vécu collectif bien plus important, avec une colonne vertébrale de joueurs qui se connaissent depuis longtemps », souligne Patrick Guillou. Mais, signe que l’écart entre les deux géants de la Bundesliga se réduit, les Bavarois n’ont plus « volé » de joueurs au Borussia depuis deux ans.
+
+Le souvenir de l’attentat
+Le 11 avril 2017, avant un quart de finale de Ligue des champions contre Monaco, trois bombes avaient explosé au passage du car transportant l’équipe du Borussia Dortmund (BvB) de son hôtel au stade, le Signal Iduna Park, faisant trois blessés, dont un joueur. La décision avait aussitôt été prise d’annuler le match et de le reporter au lendemain. Quelques jours plus tard, un Germano-Russe de 28 ans, Sergej W., sera arrêté : avec cet attentat, il voulait provoquer une chute de l’action en bourse du Borussia, sur laquelle il avait spéculé à la baisse.
+Lors des audiences du procès, qui est en cours, Marcel Schmelzer (capitaine de l’équipe en avril 2017) a reconnu que s’il essayait « d’évacuer ce souvenir, il y a toujours des moments où il revient ». « Je n’en ai pas beaucoup parlé avec les autres joueurs, mais de ce que je vois, le sujet a été largement évacué », a assuré, mardi 2 octobre, Manuel Akanji, l’un des actuels joueurs du BvB. Lui-même n’appartenait toutefois pas à cette équipe en 2017. Et, aujourd’hui, un grand nombre de ceux qui y figuraient sont partis dans d’autres clubs.
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-4">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-4"> ¤ Privés de leur public, les Lyonnais ont d’abord sombré, mardi soir face à Donetsk, avant de se reprendre. Mené 2-0, l’OL s’en sort finalement avec un match nul (2-2).
+<filname="PROF-0,2-3242,1-0,0-4"> ¤                     
+                                                
+
+Ligue des champions : sans supporteurs et longtemps sans envie, l’OL échappe au pire
+
+Privés de leur public, les Lyonnais ont d’abord sombré, mardi soir face à Donetsk, avant de se reprendre. Mené 2-0, l’OL s’en sort finalement avec un match nul (2-2).
+
+
+
+LE MONDE
+ |    02.10.2018 à 23h11
+ • Mis à jour le
+03.10.2018 à 09h43
+    |
+
+            Anthony Hernandez
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+L’excuse était déjà certainement toute trouvée. Nul besoin du coup d’afficher l’état d’esprit nécessaire à remporter un match de haut niveau. Frappé d’un huis clos, privé de son public et mené 2-0, l’Olympique lyonnais (OL) a longtemps été proche du ridicule, mardi 2 octobre au soir, lors de la deuxième journée de la Ligue des champions.
+Grâce à un sursaut d’orgueil, les Lyonnais sont finalement parvenus à égaliser et à arracher le match nul face au club ukrainien, le Shakhtar Donetsk (2-2). Lyon occupe tout de même la tête du groupe F avec quatre points, un point de plus que Manchester City. Son adversaire du soir est à deux points derrière.
+C’est un moindre mal, car à Décines, la banlieue lyonnaise qui abrite le grand stade de l’OL, tout le monde s’est ennuyé pendant soixante-dix minutes : des journalistes aux stadiers, et même jusqu’aux joueurs, particulièrement ceux de Bruno Génésio. « Je suis satisfait que mon équipe soit revenue à la marque. Jouer à huis clos, ce n’est pas le football qui doit se jouer devant du public avec une ambiance, surtout en Ligue des champions. C’était très désagréable », a plaidé l’entraîneur lyonnais.
+« On n’a pas le choix et on doit s’adapter »
+En conférence de presse la veille du match, le capitaine Nabil Fekir semblait pourtant conscient des risques liés à un huis clos : « On va essayer de faire abstraction de l’environnement. On va se concentrer sur le jeu. On n’a pas l’habitude du huis clos. Mais on n’a pas le choix et on doit s’adapter. » 
+
+Quelle tristesse. Sanctions collectives débiles.
+
+— Incognitouf (@Incognitouf 🇫🇷🌟🌟)
+
+
+require(["twitter/widgets"]);
+
+Il a fallu attendre l’entrée énergique du Néerlandais Memphis Depay pour changer la face d’une rencontre qui prenait le chemin de l’humiliation. En deux minutes (70e et 72e), les buts de Moussa Dembélé et de Léo Dubois ont permis aux Lyonnais d’échapper au ridicule. Mais Lyon, magnifique vainqueur de Manchester City en ouverture (2-1), laisse passer une belle chance de faire le trou sur l’équipe de Donetsk, qui sera à coup sûr son principal concurrent à la qualification aux huitièmes de finale.
+
+        Lire aussi :
+         
+
+                Ligue des champions : Lyon joue en sourdine
+
+
+
+Traditionnellement favorable à l’équipe hôte, normalement portée par ses supporteurs, le premier quart d’heure de la rencontre a été extrêmement poussif. Les coéquipiers du champion du monde Nabil Fekir, qui a manqué absolument tout ce qu’il a tenté, ont semblé comme anesthésiés tout au long d’une grosse première heure de jeu.
+Tribunes désespérément vides
+Avant la rencontre, le DJ de l’enceinte lyonnaise n’a pas épargné la musique agressive aux oreilles des mille spectateurs autorisés, principalement les invités de l’UEFA (Union des associations européennes de football), du club visiteur et les médias. Tout juste le niveau sonore était-il réduit, et pour cause, il n’y avait aucun risque d’être en concurrence avec le bruit descendu de tribunes désespérément vides. Il ne fallait pas compter sur les VIP installées en tribune pour prendre la relève de la foule habituelle. Les footballeurs professionnels ne sont plus coutumiers d’une telle atmosphère que vivent week-end après week-end les footballeurs du dimanche.
+
+   
+
+
+A l’entrée des joueurs, normalement acclamée, quelques journalistes, taquins ou « chambreurs », ont demandé le silence, « chut, chut », avant d’applaudir. Lorsque les vingt-deux joueurs se sont salués, chaque poignée de main a résonné d’un « clac ».
+La responsable de cette punition collective, l’UEFA, n’a en rien transigé à son rituel : publicités sur écrans géants, diffusion du célèbre hymne de la compétition et bâche géante en forme de ballon secouée frénétiquement par des jeunes gens. Tout cela pour un public invisible.
+Les vingt dernières minutes, plus excitantes, n’ont pas suffi à faire de ce match un spectacle. L’expérience, désolante, est à vivre au moins une fois pour se rendre compte de l’importance des supporteurs, trop souvent mésestimée.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-5">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-5"> ¤ L’entraîneur portugais a été démis de ses fonctions par le président nantais, Waldemar Kita. Il est remplacé par le technicien franco-bosnien, qui fut joueur avec les Canaris dans les années 1980.
+<filname="PROF-0,2-3242,1-0,0-5"> ¤                     
+                                                
+
+Football : le FC Nantes remercie Miguel Cardoso et embauche Vahid Halilhodzic
+
+L’entraîneur portugais a été démis de ses fonctions par le président nantais, Waldemar Kita. Il est remplacé par le technicien franco-bosnien, qui fut joueur avec les Canaris dans les années 1980.
+
+
+
+LE MONDE
+ |    02.10.2018 à 15h06
+ • Mis à jour le
+02.10.2018 à 15h51
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Ses valises étaient sans doute déjà prêtes : l’entraîneur portugais Miguel Cardoso a, sans surprise, été remercié par le FC Nantes mardi 2 octobre, malgré le bon point pris sur la pelouse de l’Olympique lyonnais samedi (1-1). L’annonce officielle en a été faite par la direction du club, qui a, dans le même temps, annoncé l’arrivée du Franco-Bosnien Vahid Halilhodzic, 66 ans, qui fut, dans les années 1980, un buteur opportuniste dans les rangs des Canaris.
+Ce dernier a signé un contrat de deux ans, a-t-on appris auprès de la direction du club. Ancien entraîneur de Lille, du Paris SG, de Rennes, ex-sélectionneur de l’Algérie et du Japon, Vahid Halilhodzic est arrivé en début d’après-midi au centre sportif du club, où il devait diriger son premier entraînement. Il sera accompagné de Patrick Collot et Cyril Moine, qui est également préparateur physique, et de l’entraîneur des gardiens Willy Grondin.
+
+Vahid Halilhodzic arrive à Nantes accompagné de Patrick Collot (adjoint), de Cyril Moine (préparateur physique) et… https://t.co/yaHsCgHyny— FCNantes (@FC Nantes)
+
+
+require(["twitter/widgets"]);
+
+Successeur de Claudio Ranieri, Miguel Cardoso sera resté trois mois seulement à Nantes, dans un climat de défiance entretenu par son propre président, Waldemar Kita, qui l’avait recruté. L’équipe est 19e de Ligue 1 après cette huitième journée, avec une seule victoire.
+Depuis une défaite à domicile contre Nice (1-2), Cardoso, 46 ans et professeur de sport avant de devenir entraîneur, savait son sort scellé. Il n’ignorait pas que Kita (propriétaire du Football Club de Nantes depuis 2007) avait usé, consommé, remercié douze autres entraîneurs en onze ans avant lui.
+Dans un tweet, Miguel Cardoso a remercié à la fois les joueurs, les supporteurs et la ville de Nantes.
+
+"Au milieu de l’hiver j’ai découvert en moi un invincible été"
+Albert Camus
+
+— CoachMCardoso (@Miguel Cardoso)
+
+
+require(["twitter/widgets"]);
+
+Vendredi, il vécut une conférence de presse délicate, pressé de questions sur son avenir quand, lui, souhaitait parler uniquement du déplacement à Lyon. Il tenta vainement de convaincre que des confrères comme lui « dans la merde [sic] » avaient fini par redresser la barre. Il avait cité les cas de ses compatriotes portugais Leonardo Jardim à Monaco et Paulo Fonseca (dont il était l’adjoint) au Chakhtar Donestk, en Ukraine.
+
+        Lire aussi :
+         
+
+          A Nantes, Waldemar Kita a déjà préparé les valises de Miguel Cardoso
+
+
+
+La dure réalité de la Ligue 1
+« On va le faire ensemble », avait-il promis avant de brutalement prendre congé des journalistes après onze minutes d’un drôle d’exercice.
+Avec Miguel Cardoso, le FCN devait renouer avec une certaine idée du football. Sans oser parler du « jeu à la nantaise » que les moins de 20 ans considèrent comme une légende urbaine, le technicien arrivé de Rio Ave promettait un jeu de possession, tourné vers l’attaque, loin du froid réalisme de son prédécesseur, l’Italien Claudio Ranieri, champion de la victoire 1-0 lors des six premiers mois la saison dernière.
+Mais ses belles intentions se sont fracassées sur la dure réalité de la Ligue 1, du manque de talent de ses joueurs offensifs et de l’impatience chronique de son président, qui a tôt fait de lui reprocher ses choix.
+Le ver était peut-être dans le fruit dès le départ. L’entrepreneur franco-polonais se serait laissé imposer le choix de Cardoso par les responsables de la formation et par son fils, Franck, directeur général du club.
+Image de capitaine de caserne
+Ce dernier aurait d’ailleurs assez vite changé d’avis sur un technicien très (trop ?) analytique, passé par l’université portugaise comme José Mourinho, Carlos Queiroz ou Leonardo Jardim, et adepte de très longues séances vidéo peu au goût des joueurs nantais.
+Kita père penchait déjà cet été pour Vahid Halilhodzic. Le Franco-Bosnien entretient cette image de capitaine de caserne capable de renvoyer chez eux deux joueurs (les Rennais Diatta et Réveillère en 2003) pris en pleine partie de Playstation nocturne la vieille d’un match.
+Dans les colonnes de France Football, en mai 2005, peu après avoir été remercié par le PSG, l’intéressé s’était plaint de « cette fausse image d’un adjudant borné du foot que certains ont réussi à me coller ». L’émission les « Guignols de l’info » de Canal+ l’avait en l’occurrence caricaturé sous les traits d’une marionnette autoritaire et impulsive.
+Ex-attaquant de Nantes (1981-1986) et de Paris (1986-1987), Vahid Halilhodzic a dirigé, en tant qu’entraîneur, treize clubs ou sélections nationales, dans neuf pays différents. Il a notamment conduit l’équipe d’Algérie à une qualification historique en 8e de finale du Mondial 2014, perdu contre l’Allemagne.
+Mais, souvent, son caractère éruptif a conduit à des fins de contrat brutales. Remercié par Paris (2003-2005), il a aussi été limogé par la Côte-d’Ivoire (2008-2010) puis par le Japon (2015-2018).
+Kita-Halilhozdic ressemble à l’union du feu avec le feu, tant le propriétaire du FCN n’aime rien de plus que se mêler de recrutement, de tactique et suggérer quelques ajustements à ses nombreux entraîneurs. Combien de temps le volcanique Bosnien y résistera-t-il ?
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-6">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-6"> ¤ Adversaire du PSG en Ligue des champions mercredi, l’équipe serbe a été, au début des années 1990, au cœur de l’histoire tragique menant à l’éclatement de la Yougoslavie.
+<filname="PROF-0,2-3242,1-0,0-6"> ¤                     
+
+
+Article sélectionné dans La Matinale du 02/10/2018
+Découvrir l’application
+
+
+                           
+édition abonné
+
+
+L’Etoile rouge de Belgrade, ombres et lumière d’un ancien club yougoslave
+
+Adversaire du PSG en Ligue des champions mercredi, l’équipe serbe a été, au début des années 1990, au cœur de l’histoire tragique menant à l’éclatement de la Yougoslavie.
+
+
+
+LE MONDE
+ |    02.10.2018 à 09h20
+ • Mis à jour le
+03.10.2018 à 06h38
+    |
+
+                            Alexandre Pedro
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Les palmarès sont têtus, ils ignorent les budgets, les millions investis sur la pelouse ou l’identité des VIP en loges. Quand le Paris-Saint-Germain (PSG) version qatarie n’arrive pas à rêver plus grand que les quarts de finale, l’Etoile rouge de Belgrade a déjà touché, une fois, « les grandes oreilles » de la Coupe d’Europe.
+Mercredi 3 octobre (à 19 heures) au Parc des Princes, les Parisiens reçoivent pour la deuxième journée de la Ligue des champions un ancien vainqueur de la « C1 ». Et, surtout, une équipe, qui, il y a plus d’un quart de siècle, témoignait de toute la complexité des Balkans.
+
+« On nous reproche d’être romantiques »
+Le 29 mai 1991, on parle encore de Coupe d’Europe des clubs champions, la Yougoslavie expire son dernier souffle et Basile Boli pleure la défaite de l’Olympique de Marseille aux tirs au but après un pensum de cent vingt minutes sans but.
+« Selon moi, ça a été la finale la plus moche de l’histoire de la Coupe des champions », racontait au magazine So Foot, en 2010, le défenseur serbe Sinisa Mihajlovic. Craignant la force de frappe marseillaise, Ljupko Petrovic a ordonné à ses joueurs de refuser le jeu. Message reçu. « La victoire justifie les moyens, à nous Yougoslaves, on nous reproche d’être romantiques », justifiera l’entraîneur.
+A Bari, les onze titulaires – moins le défenseur Miodrag Belodedici, déserteur de la Roumanie de Ceausescu en 1988 – sont tous des enfants du maréchal Tito et de la République fédérative socialiste de Yougoslavie. Si le noyau dur de l’équipe est serbe, le buteur Darko Pancev vient de la lointaine Macédoine, Dejan Savicevic est un petit Maradona monténégrin, Robert Prosinecki et Sinisa Mihajlovic les fruits d’unions serbo-croates.
+« Cette équipe s’est formée à une époque où il était encore normal d’avoir des joueurs issus de presque toutes les républiques, resitue le grand reporter italien Gigi Riva, auteur du livre Le Dernier...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-7">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-7"> ¤ La réception de l’Etoile rouge de Belgrade au Parc des Princes mercredi pour la Ligue des champions inquiète les pouvoirs publics depuis plusieurs semaines.
+<filname="PROF-0,2-3242,1-0,0-7"> ¤                     
+                                                
+
+Match sous tension pour Michel Besnard, le « M. Sécurité » du PSG
+
+La réception de l’Etoile rouge de Belgrade au Parc des Princes mercredi pour la Ligue des champions inquiète les pouvoirs publics depuis plusieurs semaines.
+
+
+
+LE MONDE
+ |    02.10.2018 à 09h19
+ • Mis à jour le
+03.10.2018 à 16h52
+    |
+
+            Rémi Dupré
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Habitué à œuvrer dans l’ombre, Michel Besnard goûte assez peu d’être en pleine lumière. Le voilà pourtant propulsé en première ligne avec la réception des Serbes de l’Etoile rouge de Belgrade, mercredi 3 octobre, au Parc des Princes, lors de la deuxième journée de la phase de poules de Ligue des champions. Nommé en avril, le nouveau directeur de la sécurité du Paris-Saint-Germain est attendu au tournant, alors que le contexte de la rencontre inquiète les pouvoirs publics depuis plusieurs semaines.
+
+        Lire aussi :
+         
+
+                L’Etoile rouge de Belgrade, ombres et lumière d’un ancien club yougoslave
+
+
+
+L’Union des associations européennes de football (UEFA) a interdit aux supporteurs serbes, dont la frange dite « ultras » est l’une des plus violentes du continent, de faire le déplacement dans la capitale. Et ce, après de graves débordements, en août, lors du barrage qualificatif retour entre les Autrichiens de Salzbourg et l’Etoile rouge.
+Le « parcage » visiteurs sera donc vide au Parc, dont la capacité d’accueil a été réduite à 40 000 places (contre 48 000 habituellement) en raison de la fermeture, décrétée par l’UEFA, de la tribune Auteuil. Une décision qui fait suite à l’utilisation de fumigènes et autres engins pyrotechniques par les ultras parisiens, le 7 mars, lors de l’élimination du PSG par le Real Madrid, en huitièmes de finale du tournoi.
+« Bon compromis »
+Néanmoins, le dispositif de sécurité a été renforcé avec une hausse significative du nombre de stadiers (de 1 000 à 1 200) et d’unités de forces de l’ordre. Car, si la vente de billets a été limitée dans la mesure du possible au territoire français, près de 2 000 supporteurs de l’Etoile rouge, issus de la diaspora serbe de l’Hexagone mais aussi de l’Europe entière, seront disséminés en tribunes pour le premier déplacement en Ligue des champions de leur club depuis la saison 1991-1992. « Cela va être le bordel avec un flux de personnes à gérer dans des tribunes non réservées aux visiteurs », prévient-on pourtant au Collectif ultras Paris (CUP).
+Dans ce climat anxiogène, le commandant Michel Besnard, 54 ans, qui passe pour un « grand flic » chevronné, rompu aux missions délicates, a un rôle central. Après avoir gravi les échelons de la police et de l’administration durant trois décennies, cet ancien préfet a succédé au PSG à Jean-Philippe d’Hallivillée (2006-2017), l’un des artisans du plan de sécurisation dit « Leproux », en 2010, et opposé au retour des ultras au Parc, acté, en 2016, par la direction du club.
+M. Besnard n’était pas le premier choix des dirigeants parisiens. Ces derniers auraient préféré recruter un autre « grand flic », Laurent Simonin, chef d’état-major à la direction de l’ordre public et de la circulation à la Préfecture de police de Paris et dont le nom est apparu dans l’affaire Benalla cet été. Mais sa demande de mise en disponibilité a été rejetée, en novembre 2017, par la commission de déontologie de la fonction publique.
+Directeur délégué à la cellule interministérielle de crise à l’occasion des attentats de Paris (novembre 2015) et de Nice (juillet 2016), M. Besnard avait intégré, en 2012, le cabinet du directeur général de la police nationale en tant que chef de l’unité de coordination des grands événements. C’est à ce titre qu’il a été chargé de la sécurité de l’Euro 2016 ou du Mondial de handball, en 2017.
+« Michel Besnard est un grand professionnel de la sécurité. Il a le sens de l’Etat et a travaillé deux, trois ans sur l’Euro 2016, assure le préfet Ziad Khoury, ancien directeur de la sécurité de l’Euro. Il connaît le milieu footballistique, ses codes, le comportement des supporteurs. »
+Un autre élément explique la nomination de M. Besnard à la tête de la sécurité du PSG : sa proximité depuis 2002 avec Nicolas Sarkozy, supporteur historique du club et ami de son président qatari, Nasser Al-Khelaïfi. De 2007 à 2012, sous le mandat de « Sarko », M. Besnard a occupé le poste de directeur du groupe de sécurité de la présidence de la République.
+« Besnard a l’oreille de Nasser »
+« Besnard est un “Sarkoboy”, il vient de ce réseau, confie un fin connaisseur du PSG. Il réorganise le service sécurité du club en prenant des membres de la garde rapprochée de Sarkozy. Besnard a aussi l’oreille de Nasser et a son bureau en face du sien. Sa nomination est un bon compromis pour la Préfecture de police. »
+Le principal dossier de M. Besnard – qui « préfère rester en retrait et ne donne jamais d’interview », selon le PSG – est la gestion du Collectif ultras Paris, ostracisé avant le rachat du club par Qatar Sports Investments, en 2011, et autorisé, sous condition, cinq ans plus tard à regagner le Parc des Princes pour réchauffer l’ambiance. « Il est pragmatique, à l’écoute, et a une bonne image », estime-t-on chez les ultras parisiens. « Besnard applique la feuille de route de Nasser et doit composer avec les ultras, instables », observe un proche du club.
+
+        Lire aussi :
+         
+
+                Au PSG, une alliance de circonstances entre Nasser Al-Khelaïfi et les ultras
+
+
+
+Besnard doit également travailler avec l’influent Jean-Martial Ribes, directeur de la communication du PSG, à la manœuvre lors du retour en grâce des ultras, et former un tandem avec un ancien policier des renseignements généraux, Malik Nait-Liman. Ce dernier a été nommé en août « référent supporteurs » par le club après avoir servi d’intermédiaire avec le CUP. « Besnard apprend, observe, résume-t-on aux portes du PSG. Il doit éviter les situations conflictuelles avec les ultras. Quitte à parfois fermer les yeux. »
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-8">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-8"> ¤ La plaignante dit avoir été agressée sexuellement par le joueur et avoir subi des pressions la contraignant au silence, des accusations démenties par le footballeur Portugais.
+<filname="PROF-0,2-3242,1-0,0-8"> ¤                     
+                                                
+
+L’enquête sur Cristiano Ronaldo, accusé de viol, est rouverte à Las Vegas
+
+La plaignante dit avoir été agressée sexuellement par le joueur et avoir subi des pressions la contraignant au silence, des accusations démenties par le footballeur Portugais.
+
+
+
+LE MONDE
+ |    02.10.2018 à 08h49
+ • Mis à jour le
+02.10.2018 à 10h00
+   
+
+
+
+
+
+                        
+
+
+« Fake news », a affirmé dimanche Cristiano Ronaldo sur son compte Instagram. La police de Las Vegas a annoncé, lundi 1er octobre, avoir rouvert l’enquête sur des accusations de viol portées par une Américaine de 34 ans contre la star mondiale du football, qui a catégoriquement démenti toute agression sur la jeune femme dans sa chambre d’hôtel en juin 2009.
+La plaignante, Kathryn Mayorga, affirme dans une plainte déposée le 27 septembre dans l’Etat du Nevada que Ronaldo l’a sodomisée de force le 13 juin 2009 et a exercé des pressions pour lui faire signer un accord financier la contraignant au silence. « La plainte de Mme Mayorga, les preuves physiques de son agression sexuelle (…) ne sont pas des “fake news” », a rétorqué son avocat, Leslie Stovall, dans un communiqué. Selon lui, Kathryn Mayorga espère non seulement « obtenir justice » en mettant Ronaldo face à ses responsabilités, mais aussi l’empêcher de recommencer et « encourager toutes les victimes d’agressions sexuelles » à poursuivre leurs auteurs, « aussi célèbres, riches ou puissants puissent-ils paraître ».
+« Le dossier a été rouvert »
+Le 13 juin 2009, la plaignante avait bien dénoncé un viol présumé à la police de Las Vegas, et fait l’objet d’un examen médical. « Mais à l’époque où la déposition avait été prise, la victime n’avait pas fourni aux détectives ni le lieu de l’incident ni la description du suspect », souligne la police de Las Vegas. D’après la plainte, la jeune femme s’était contentée d’évoquer « un joueur de football célèbre », et la procédure avait tourné court. Elle avait eu peur d’être « humiliée publiquement » et de subir des mesures de « rétorsion » de la part de la star, explique la plainte au civil déposée auprès du tribunal compétent pour Las Vegas.
+« Le dossier a été rouvert et nos détectives remontent les informations données par la victime », assure la police de Las Vegas. Selon son récit, Mme Mayorga avait rencontré Cristiano Ronaldo au Palms Hotel de Las Vegas le 13 juin 2009, chacun faisant partie d’un groupe. Ronaldo l’aurait alors invitée, ainsi qu’une amie et d’autres personnes, dans sa suite. Là, il aurait demandé à la jeune femme, 24 ans à l’époque, de se joindre au groupe dans un Jacuzzi. Celle-ci n’ayant pas de maillot de bain, il lui aurait proposé un short de sport et un tee-shirt, la menant à la salle de bains pour qu’elle puisse se changer.
+Selon ses dires, c’est pendant qu’elle se déshabillait que le footballeur a fait irruption dans la salle de bains, sexe apparent, pour lui demander une fellation. Mme Mayorga dit avoir refusé et demandé à quitter les lieux. Au moment où elle sortait de la salle de bains, elle accuse Ronaldo de l’avoir poussée sur un lit, pour tenter d’avoir une relation sexuelle avec elle. Et c’est parce qu’elle se protégeait le sexe de ses mains pour éviter d’être pénétrée qu’il l’aurait sodomisée, tandis qu’« elle criait “non, non, non” ». Après l’agression, Ronaldo l’aurait laissé partir, « affirmant être désolé et qu’il se comportait d’habitude comme un gentleman ».
+« Médiation privée »
+Après cette soirée, une « médiation privée » aurait été organisée entre des représentants de Ronaldo d’un côté, la plaignante, « déséquilibrée émotionnellement », et son avocat de l’autre. A l’issue de discussions décrites comme très éprouvantes pour la jeune femme par ses avocats, une transaction financière avait été conclue, accordant un versement de 375 000 dollars en échange d’une confidentialité absolue sur les faits présumés ou l’accord, ainsi que l’abandon de toute procédure.
+Pour les avocats de Kathryn Mayorga, cet accord est nul et non avenu, notamment en raison de l’état psychologique de leur cliente à l’époque et des pressions exercées à son encontre. Des « abus de faiblesse sur personne vulnérable » qui visaient, selon la plainte, à stopper l’enquête et à soustraire le footballeur à d’éventuelles poursuites judiciaires.
+Une équipe de « spécialistes de la protection de la réputation » engagée par Ronaldo aurait notamment menacé de diffuser des informations selon lesquelles la jeune femme avait sciemment eu une relation sexuelle avec le footballeur dans le but de le faire chanter. Cet argument a été utilisé dimanche par Ronaldo sur son compte Instagram : « Ils veulent se faire de la publicité sur mon nom. C’est normal. Ils veulent devenir célèbres », a-t-il dit, en réponse à une interview de Kathryn Mayorga publiée par le journal allemand Der Spiegel. Un article qualifié de « manifestement illégal » par un avocat allemand agissant pour le compte de Ronaldo. « Il viole les droits de notre client de manière exceptionnellement grave », dénonce l’avocat dans un communiqué, promettant des poursuites contre le journal et demandant à ce qu’aucun extrait de l’interview ne soit reproduit.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-9">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-9"> ¤ Sanctionné d’un match à huis clos par l’UEFA, le club français devra faire, mardi, sans son public pour affronter les Ukrainiens de Donetsk.
+<filname="PROF-0,2-3242,1-0,0-9"> ¤                     
+                                                
+
+Ligue des champions : Lyon joue en sourdine
+
+Sanctionné d’un match à huis clos par l’UEFA, le club français devra faire, mardi, sans son public pour affronter les Ukrainiens de Donetsk.
+
+
+
+LE MONDE
+ |    02.10.2018 à 06h41
+ • Mis à jour le
+02.10.2018 à 20h11
+    |
+
+            Anthony Hernandez
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Les consignes des entraîneurs, les protestations plus ou moins correctes des joueurs ou encore l’intensité des contacts, tout ce qui est d’habitude couvert par le bruit de la foule sera audible. Sanctionné par l’UEFA, l’Olympique lyonnais (OL) s’apprête à disputer à huis clos, mardi 2 octobre dans la soirée, une rencontre de Ligue des champions de football à domicile, la première de son histoire.
+Les Lyonnais, vainqueurs de Manchester City en ouverture (2-1), vont recevoir les Ukrainiens du Chakhtar Donetsk dans un stade de près de 60 000 places qui sonnera désespérément creux. Outre la presse et le personnel nécessaire à l’organisation du match, ne seront présents que trois cents invités de l’UEFA, deux cents suiveurs du club visiteur et moins d’une centaine de personnes côté OL, en incluant joueurs et staff. Autour, un dispositif de sécurité sera déployé.
+« Les joueurs sont habitués à jouer dans des enceintes avec une ambiance minimum, là il n’y aura aucun bruit. On a sollicité sans succès l’UEFA pour savoir si on avait le droit de diffuser une bande sonore d’ambiance », déplore Xavier Pierrot, stadium manager (« gestionnaire de stade ») de l’OL. Lundi, l’entraîneur, Bruno Génésio, a tenté de relativiser : « Les saisons passées, on a eu des ambiances extraordinaires ici. Il faudra faire sans et c’est regrettable. Mais il faut accepter la sanction et trouver la motivation. »
+Perte de recette de plus de 4 millions d’euros
+Jusqu’à la semaine dernière, le club du président, Jean-Michel Aulas, a espéré échapper à ce huis clos. Hormis les désagréments sportifs, la perte de recette de billetterie s’élève à plus de 4 millions d’euros. Rendue fin d’août en première instance, la sanction a été confirmée en appel le 21 septembre. Décidé à porter l’affaire devant le TAS (tribunal arbitral du sport), Lyon y a renoncé. « Le délai était trop court », confie Xavier Pierrot.
+Les faits incriminés remontent au 15 mars. Ce soir-là, l’Olympique lyonnais reçoit le CSKA Moscou en huitième de finale retour de la Ligue Europa. Avant la rencontre, hors du stade, des heurts opposent les forces de l’ordre à une centaine de supporteurs lyonnais encagoulés. L’OL est déjà sous le coup d’une période probatoire de deux ans pour un envahissement de la pelouse et des affrontements entre supporteurs, en avril 2017 lors d’une rencontre face au Besiktas Istanbul.
+
+Les juristes du club rhodanien parviennent à obtenir que le sursis soit réduit à quinze mois. Celui-ci s’achève donc en juillet, soit plus d’un mois avant que l’UEFA ne rende sa décision sur les incidents du match contre Moscou. Cela a peut-être agacé l’instance dirigeante du football européen. « On a accueilli cette décision comme une injustice. Pour nous, ces incidents ont eu lieu hors de notre responsabilité à l’extérieur du stade, sur le domaine public où l’on ne peut rien faire. L’UEFA voit les choses autrement : elle impute la faute au club organisateur », explique Xavier Pierrot.
+« Pourquoi punir 50 000 personnes ? »
+Habitué du virage nord, dont il a été abonné pendant dix ans jusqu’à la saison passée, Sébastien était présent lors de ces événements. Il trouve lui aussi la sanction sévère : « On n’a pas trop compris ce qui se passait, ça s’est déroulé à l’extérieur, devant un bar à l’arrivée des tramways [à quelques centaines de mètres du parvis du stade]. Pourquoi punir 50 000 personnes alors qu’il n’y a que cent gars qui ont chargé la police et mis le bazar ? J’ai toujours trouvé que les sanctions collectives n’avaient aucun sens. »
+Pour ce supporteur de 35 ans, le club n’a toutefois pas toujours été exempt de reproche. Il pointe une gestion de la billetterie qu’il estime défectueuse en 2017 contre Besiktas et qui avait conduit à l’afflux de plus de 20 000 supporteurs turcs.
+« On avait pourtant averti que les Turcs achetaient les billets cinq par cinq. Aulas s’était moqué de nous sur Twitter, disant que l’on était idiot et que tout était sous contrôle », rapporte-t-il avant de regretter que le dossier lyonnais s’alourdisse : « A presque chaque déplacement, il y a une bagarre, comme en Ligue Europa à Rome (2017) ou à Bergame (2017). L’UEFA a voulu envoyer un message. Comme souvent, les sanctions sont en décalage et prises un peu n’importe comment. » 
+
+        Lire aussi :
+         
+
+                Football : enquête ouverte à Manchester après le salut nazi d’un supporteur de Lyon
+
+
+
+Salut nazi
+Fin septembre, deux autres événements ont remis certains supporteurs sous le feu des projecteurs. Le 19 septembre, à Manchester, un fan lyonnais a été filmé en train d’effectuer un salut nazi. La séquence a été largement diffusée. L’OL a rapidement condamné. « C’est un acte individuel, que l’on ne peut pas empêcher mais que l’on doit sanctionner a posteriori très fermement. Nous l’avons identifié et les informations ont été transmises à la justice. Dès le lendemain matin, il a reçu un courrier pour lui signifier une interdiction de stade à vie », défend Xavier Pierrot.
+Le 23 septembre, alors que l’OL gagne l’un des sommets de la Ligue 1 face à l’OM (4-2) et que quelques débuts de bagarre éclatent dans les gradins, un tract diffusé sur les réseaux sociaux a fait polémique. Cet édito, signé par les Bad Gones — l’un des principaux groupes de supporteurs — dans un magazine interne au Kop virage nord, décrivait en termes peu amènes la ville de Marseille. Jean-Michel Aulas s’en est désolidarisé, le décrivant comme « odieux ». La justice a ouvert une enquête. Les principaux intéressés se sont défendus en évoquant « le folklore des groupes de supporteurs » et en dénonçant « une chasse aux sorcières ».
+
+        Lire aussi :
+         
+
+                Football : Lyon plus que jamais confronté à ses ultras
+
+
+
+« Une remise en question obligatoire »
+Historiquement, quand les ultras marseillais se situent plutôt à gauche politiquement, les kops lyonnais sont, eux, considérés très à droite. « C’est sûr que le noyau dur n’est pas composé de “mélenchonistes”. Le problème c’est qu’il y a parfois des relations poreuses avec le milieu identitaire lyonnais. Mais c’est faux de dire qu’ils sont 6 500 racistes. Cela représente 200 mecs, décrit Sébastien, le supporteur lyonnais. Les autres sont là pour chanter car c’est le seul endroit du stade avec une vraie ambiance et parce que l’abonnement est moins cher. »
+Encore sous le coup d’un match européen à huis clos avec sursis, l’OL a tout intérêt à se pencher sur la question de ses supporteurs. Privilégier le dialogue avec ses ultras, parfois turbulents, et faire le ménage parmi ceux, la minorité radicale, qui utilisent le stade comme une tribune politique. « Il y a une remise en question obligatoire. On doit mieux faire. Nous avons des idées à mettre en place et des fonctionnements à faire évoluer. On sait que l’on est scrutés par les médias et l’UEFA. On se doit d’être irréprochables », assène Xavier Pierrot
+Une première mesure a été annoncée et elle paraît bien secondaire. Des filets seront placés devant les virages lors des matchs de Coupe d’Europe pour éviter les jets de gobelets et de boulettes de papier. Face à Donetsk, et pour cause, la mesure sera inutile. Elle sera inaugurée le 7 novembre lors de la réception des Allemands d’Hoffenheim.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-10">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-10"> ¤ DERRIÈRE LE CHIFFRE – Après une semaine de compétition de golf à Saint-Quentin-en-Yvelines, certains commentateurs se sont emportés quant au succès populaire de l’événement.
+<filname="PROF-0,2-3242,1-0,0-10"> ¤                     
+                                                
+
+Non, la Ryder Cup n’est pas le troisième événement le plus regardé au monde (ni le Tour de France)
+
+DERRIÈRE LE CHIFFRE – Après une semaine de compétition de golf à Saint-Quentin-en-Yvelines, certains commentateurs se sont emportés quant au succès populaire de l’événement.
+
+
+
+LE MONDE
+ |    01.10.2018 à 17h16
+ • Mis à jour le
+01.10.2018 à 17h47
+    |
+
+            Pierre Breteau
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+La rubrique « Derrière le chiffre » des Décodeurs étudie des statistiques et des méthodologies apparaissant dans l’actualité.
+« Troisième événement sportif le plus suivi au monde » peut-on lire par-ci, « 150 000 spectateurs en trois jours » par-là, et même « un milliard de téléspectateurs », a-t-on pu lire après la Ryder Cup, qui s’est déroulée en France du 25 au 30 septembre. Une chose est certaine, la compétition de golf opposant les Etats-Unis et l’Europe ne peut pas prétendre aux deux premières places des épreuves les plus regardées dans le monde.
+Les deux événements planétaires les plus suivis sont intouchables : ce sont la Coupe du monde de football 2018, qui revendique 3,4 milliards de téléspectateurs sur la durée de la compétition, et, bien sûr, les Jeux olympiques (JO) avec 3,5 milliards de téléspectateurs en deux semaines. Tous deux captent l’attention d’un être humain sur deux sur la planète.
+Tous les événements sportifs sont « le troisième plus grand »
+Le reste dépend de la manière dont on compte, et de ce que l’on veut montrer. Une simple recherche sur un moteur très connu donne plus de 10 000 réponses aux mots-clés « troisième plus grand événement sportif dans le monde » : hormis la Ryder Cup, on trouve pêle-mêle les championnats du monde d’athlétisme, la Coupe du monde de rugby, le Tour de France ou le Super Bowl (la finale du championnat de football américain).
+Côté chiffres, pour la Ryder Cup, les communiqués de presse évoquent 350 millions de téléspectateurs pendant chacun des trois jours. Soit un milliard au total, même si ce sont les mêmes qui regardent trois jours de suite. La Coupe du monde de rugby 2015 totalise, quant à elle, 479 millions d’auditeurs en direct, et 1 milliard (avec les replay), selon les organisateurs.
+
+
+#graphesports {
+    border-top: 4px solid #16212c;
+    border-bottom: 1px solid #eef1f5;
+    padding: 10px 0;
+    width: 100%;
+    color: #16212c;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+#graphesports .grasdecodeurs {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+#graphesports .titre {
+    padding: 6px 16px;
+    display: block;
+}
+
+#graphesports .texte {
+    margin: 1rem .5rem;
+    padding: 0 10px;
+}
+
+#graphesports .explications {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    margin: 20px 0px;
+    padding: 10px;
+    background-color: #f5f6f8;
+    color: #383f4e;
+    text-align: center;
+}
+
+.tooltipdecodeurs .titre_tt {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-weight: bold;
+    font-size: 1.4rem;
+    letter-spacing: .07rem;
+    margin: .5rem 0;
+}
+
+.tooltipdecodeurs .bulle {
+    border-radius: 50%;
+    width: 1rem;
+    height: 1rem;
+    border: 0;
+    display: inline-block;
+    margin: -.3rem .5rem 0 0;
+    vertical-align: middle;
+    cursor: default;
+}
+
+.tooltipdecodeurs {
+    border-radius: 0;
+    padding: 2rem 1.5rem;
+    position: absolute;
+    z-index: 9999;
+    max-width: 350px;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #ccd0d3 !important;
+    border-top: 4px solid #F19300 !important;
+    background: #fff !important;
+    color: #222
+}
+
+.tooltipdecodeurs img {
+    padding: 1px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    height: 1.5rem;
+    margin-bottom: -.3rem;
+    margin-right: .5rem;
+}
+
+.tooltipdecodeurs .hr {
+    margin-top: 1rem;
+    border-top: 1px solid #e8eaee;
+    padding-bottom: 1rem;
+}
+
+.tooltipdecodeurs .gris {
+    color: #a2a9ae;
+}
+
+#graphesports .source {
+    padding: 0 10px;
+    text-align: right;
+    color: #8b9299;
+    font-size: 1.2rem;
+}
+
+#graphesports .passelect,
+#graphesports .axis {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#graphesports .graphegraphesports {
+    padding: 4px;
+    text-align: center;
+}
+
+#graphesports .barre {
+    fill: #FFc832;
+}
+
+#graphesports .barre:hover {
+    fill: #F19300;
+    cursor: pointer;
+}
+
+#graphesports .y path,
+#graphesports .y stroke,
+#graphesports .y line {
+    display: none;
+}
+
+#graphesports .x path,
+#graphesports .grid .domain,
+#graphesports .x stroke {
+    display: none;
+}
+
+.graphegraphesports label {
+    margin: 2rem;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: 0px dotted #FFF;
+    background-color: #f5f6f8;
+    padding: .8rem 1.2rem;
+    border-radius: 5px;
+    font-size: 1.3rem;
+}
+
+.graphegraphesports label:hover {
+    background-color: #dcdddf;
+}
+
+.graphegraphesports .tick text {
+    font-size: 1.1rem;
+}
+
+.contenantpays {
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+}
+
+.contenantpays .pays {
+    padding: 0 5px;
+    width: 50%;
+    text-overflow: clip ellipsis;
+    ;
+}
+
+.grid .tick line {
+    pointer-events: none;
+    stroke-dasharray: 2, 2;
+    stroke: rgba(0, 0, 0, .4);
+}
+
+/* le tooltip fixé en bas sur mobile */
+@media screen and (max-width: 500px) {
+    .tooltipdecodeurs {
+        position: fixed;
+        bottom: 0 !important;
+        left: 0 !important;
+        top: auto !important;
+        right: auto !important;
+        min-width: 100% !important;
+        border-radius: 0;
+        padding: 1.5rem;
+        z-index: 9999;
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+        border-left: 0 !important;
+        border-right: 0 !important;
+        border-bottom: 0 !important;
+        background: #fcfcfd !important;
+        color: #383f4e;
+    }
+
+    .tooltipdecodeurs:after {
+        content: '×';
+        position: absolute;
+        top: .5rem;
+        right: .5rem;
+        color: #ccd0d3;
+        font-size: 3rem;
+    }
+
+    .graphegraphesports span.dessus:hover {
+        border-bottom: 0px solid #FFF;
+    }
+}
+
+                                                                                
+              ▄▓▄                                                               
+            ▄▓▓█       ▄▄▄▓▓▓▓▄╦          ▄▓▄               ▄▓▄▄                
+           ▓▓▓▓▄,,▄▄▓▓▓▓▓▓▓▓▓▓▓▓▓╕    ╓▄▓▓▓▓▓▓▓▄        ,▄▓▓▓▓▓▓▓▓▄╦            
+       ╒▌ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄  ▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▄▄▄▄▓▓▌  
+       ╫▓ ╙▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▀Γ ▀█▓▓▓▓▓▓▓▓▓▓▓▓▓█▀  ▀█▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▀Γ   
+        █▓▄ Γ▀▀▀▀▀ΓΓ ,  █▓▓▓▓▓▓▓▓▓▌  Σ▓▄,╙█▓▓▓▓▓▓▓▓▓▌   ▀█▓▄,Γ▀█▓▓▓▓▓▓▓▓█       
+                     ▐▓ ▐▓▓▓▓▓▓▓▓▓▌    ╙▓Q ▓▓▓▓▓▓▓▓▓▌       ▀█▌  ▓▓▓▓▓▓Γ        
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌          ▄▓▓▓▓▓▓▓         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌       ⌐ ▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌      ▓ ╟▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▐▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓µ     ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ]▓▓▓▓▓▓▓▓▓      ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ]▓ ╟▓▓▓▓▓▓▓█       ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                     ▐▀ ▓▓▓▓▓█▀         ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                      ╓▓▓▓█Γ            ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+                      █▀                ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▌         
+               ▄▄▓▓▓▓▓▓▓▓▓▓▓▄╦          ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▓         
+          ,▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▄▓▓▌   ▓▌ ▓▓▓▓▓▓▓▓▓▌     ▓▌ ▓▓▓▓▓▓▓▓▓▓▄,,▄▓╕   
+       ╓▄▓▓▓▓▓▓██████▓▓▓▓▓▓▓▓▓▓▓▓█▀     ▓▌ ▓▓▓▓▓▓▓▓▓▀     ▓▓ █▓▓▓▓▓▓▓▓▓▓▓▓█▀    
+     ▄▓▓██▀Γ     ≈4▄▄, ▀▓▓▓▓▓█▀Γ        ▓▌ ▓▓▓▓▓█▀Γ        ▓▌ ▀█▓▓▓▓▓▓█▀Γ       
+   ╙▓█Γ              █▓▄ ██▀            ▓▌ ██▀Γ             ▀█▄╦ ▀██▀           
+                      ╙▀                ▀`                     ▀▀               
+
+
+Des chiffres invérifiables
+Ce graphique représente l'audience de grands événements sportifs, selon leurs organisateurs.
+
+Source : ASO, IAAF, CIO, RWC
+
+
+
+require(["jquery", "jquery-ui/core", "jquery-ui/tooltip", "d3/4.2.2"], function($, jqueryUICore, tooltip, d3) {
+
+    var largeur = document.getElementById("graphesports").offsetWidth,
+        urldrp = "//s1.lemde.fr/assets-redaction/img/drapeaux/250/";
+    var margin = {
+            top: 40,
+            right: 20,
+            bottom: 30,
+            left: largeur / 3
+        },
+        ticks = 5,
+        ratio = .75;
+    if (largeur         margin.left = largeur / 2
+        ticks = 4
+    }
+    var width = largeur - margin.left - margin.right;
+    var height = (largeur * ratio) - margin.top - margin.bottom;
+
+    var svg = d3.select(".graphegraphesports").append("svg")
+        .attr("width", "100%")
+        .attr("viewBox", "0 0 " + (width + margin.left + margin.right) + " " + (height + margin.top + margin.bottom))
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var x = d3.scaleLinear()
+        .range([0, width]);
+
+    var y = d3.scaleBand()
+        .range([height, 0]);
+
+    var xAxis = d3.axisTop(x)
+        .ticks(ticks)
+        .tickFormat(function(d) {
+= 2000) ? "s" : "") + "."
+        });
+
+    var yAxis = d3.axisLeft(y)
+        .tickFormat(function(d) { return d });
+    var data = [{ "event": "Super Bowl 2015", "audience": 115 },
+        { "event": "Ryder Cup 2018", "audience": 350 },
+        { "event": "Coupe du monde de rugby 2015", "audience": 1000 },
+        { "event": "Coupe du monde de cricket 2015", "audience": 2200 },
+        { "event": "Coupe du monde de football 2018", "audience": 3400 },
+        { "event": "Tour de France 2017", "audience": 3500 },
+        { "event": "Jeux olympiques 2016", "audience": 3500 }
+    ];
+
+
+    x.domain([0, 3500]);
+
+    y.domain(data.map(function(d) {
+            return d.event;
+        }))
+        .paddingInner(0.1);
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + -2 + ")")
+        .call(xAxis);
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
+
+    svg.selectAll(".bar")
+        .data(data)
+        .enter().append("rect")
+        .attr("class", "barre")
+        .attr("x", 0)
+        .attr("height", y.bandwidth())
+        .attr("y", function(d) {
+            return y(d.event);
+        })
+        .attr("width", function(d) {
+            return x(d.audience);
+        })
+        .attr("title", function(d) {
+            /* le tooltip */
+" + d.event + ""
+"
+" + monAudience(d.audience) + " de téléspectateurs selon les organisateurs"
+            return html
+        });
+
+
+    function monAudience(nbr) {
+= 1000) nombre = String(nbr / 1000).replace(".", ",") + " milliard" + ((nbr > 1000) ? "s" : "")
+ 1) ? "s" : "")
+        return nombre
+    }
+
+    /* la grille */
+    function make_x_gridlines() {
+        return d3.axisTop(x)
+            .ticks(ticks)
+    };
+    svg.append("g")
+        .attr("class", "grid")
+        .call(make_x_gridlines()
+            .tickSize(-height)
+            .tickFormat("")
+            .tickSizeOuter(0)
+        );
+
+
+    /* La gestion du tooltip, ici sur la classe "rect.barre"  */
+    $("#graphesports").tooltip({
+        show: {
+            effect: "fade",
+            duration: 0
+        },
+        hide: {
+            effect: "fade",
+            duration: 0
+        },
+        items: "rect.barre",
+        track: true,
+        tooltipClass: "multimedia-embed tooltipdecodeurs",
+        position: {
+            my: 'left-30 top+50',
+            at: 'right+10 center'
+        },
+        content: function() {
+            return $(this).attr("title")
+        },
+        open: function(event, ui) {
+            /* permet de fermer le tooltip en tapant sur lui-même en mobil e*/
+            var elem = $(event.target);
+            ui.tooltip.click(function() {
+                elem.tooltip('close');
+            });
+        }
+    });
+
+    $("#graphesports a").click(function(event) {
+        event.stopImmediatePropagation()
+    });
+});
+
+
+A titre de comparaison, la seule finale de la Coupe du monde de cricket 2015 entre l’Inde et le Pakistan a rassemblé un milliard de téléspectateurs en un match, selon la BBC. En cumulant les audiences de la Coupe du monde 2006, le nombre de téléspectateurs atteint… 26 milliards, et vous compterez pour six si vous avez regardé six matchs de ce tournoi.
+L’exemple du Tour de France
+En 2014, la BBC remettait en perspective le chiffre de 3,5 milliards de téléspectateurs devant le Tour de France 2013 sur son blog Small Data. Les raisons de minimiser ce chiffre sont nombreuses : au premier chef, c’est une compétition de trois semaines, on ne parle donc pas de 3,5 milliards de téléspectateurs en même temps.
+Mais comme l’organisateur du Tour, ASO, ne donne pas la méthodologie, il a fallu que l’économiste du sport Daam Van Reeth se penche sur ces chiffres pour en déduire qu’ASO cumulait tout en partant du principe qu’une étape est regardée par 15 millions à 20 millions de téléspectateurs, selon les chiffres à sa disposition et ses projections.
+Pour atteindre ces milliards, il faut comprendre comment sont comptés les gens devant la télévision : si un téléspectateur regarde les vingt et une étapes, il est compté vingt et une fois. Si le même téléspectateur regarde aussi « Village départ », l’émission d’avant l’étape du jour, il sera compté vingt et une fois de plus. Idem s’il s’envoie l’émission « Véloclub » qui suit l’étape pour débriefer, etc. Avec un peu de chance, il en verra aussi un peu sur une chaîne d’information en continu, ou au journal de 20 heures. Et voilà le travail !
+« Diffusé dans plus de [chiffre au hasard] pays »
+Le recours à l’argument « diffusé dans 180 pays » est si courant dans la promotion d’événements sportifs que c’est devenu une règle de la communication télévisuelle. Cent quatre-vingt, quand il s’agit de compter le nombre de pays de diffusion, est la fourchette haute, mais cet argument commercial ne présage en rien du succès d’un événement. Par exemple, le championnat du monde de pétanque est annoncé comme étant diffusé dans 100 pays.
+L’organisateur du Tour de France a annoncé de son côté 190 pays de diffusion, les JO tablant sur 220 (l’ONU en reconnaît 197)… Il est dès lors difficile d’annoncer plus que le grand champion des audiences, les Jeux. La coupe du monde de cricket revendique ainsi 200 pays de diffusion, comme les championnats du monde d’athlétisme, et les « Jeux européens de Bakou », en 2015, tablaient, eux, sur 50 pays, etc.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-11">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-11"> ¤ Après les incidents de dimanche, lors du match contre Nîmes, la commission de discipline de la Ligue a imposé des premières sanctions « à titre conservatoire ».
+<filname="PROF-0,2-3242,1-0,0-11"> ¤                     
+                                                
+
+Football : pour Montpellier, huis clos partiel à domicile, pas de supporteurs à l’extérieur
+
+Après les incidents de dimanche, lors du match contre Nîmes, la commission de discipline de la Ligue a imposé des premières sanctions « à titre conservatoire ».
+
+
+
+LE MONDE
+ |    01.10.2018 à 15h01
+ • Mis à jour le
+01.10.2018 à 17h56
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Deux mesures « à titre conservatoire », en attendant, peut-être, une sanction plus forte. Réunie en urgence, lundi 1er octobre, pour examiner les incidents survenus, la veille, au stade de la Mosson, à Montpellier, lors du derby contre Nîmes, la commission de discipline de la Ligue de football (LFP) a décidé, « au vu de la gravité des faits », de mettre le dossier en instruction. Elle a toutefois imposé au club de Montpellier de jouer, jusqu’à nouvel ordre, ses prochains matchs à domicile à huis clos partiel, « la tribune basse Etang de Thau et la tribune haute Petite Camargue » du stade devant être fermées (elles peuvent accueillir plus de 3 700 personnes).
+Pour ce qui concerne les matchs à l’extérieur, le club ne pourra pas être accompagné par ses supporteurs en tribune : il devra « fermer le parcage visiteur de [ses] supporters en déplacement », a décrété la commission. Seul un arrêté préfectoral peut priver les supporteurs de déplacement, mais l’instance disciplinaire de la Ligue a, elle, le pouvoir de les priver de tribune à l’extérieur.
+La rencontre Montpellier-Nîmes, dimanche (remportée 3-0 par l’hôte héraultais), qui avait été annoncée bouillante en raison des tensions latentes entre les plus ultras des supporteurs des deux clubs, respectivement ceux de la Butte Paillade et des Gladiators, a dû être interrompue deux fois – pendant environ une demi-heure – en raison des débordements du camp montpelliérain.
+« Il y a des faits qui nous sont reprochés. Il est normal que la Ligue intervienne et sanctionne. On va attendre la décision qui sera probablement prise le 17 octobre pour connaître la sanction », a réagi le président de Montpellier, Laurent Nicollin.
+« C’était “folklo” en tribune, mais c’est le Sud »
+Ce dernier avait cherché, dimanche à dédramatiser par avance la situation. « On va certainement prendre une grosse amende », avait-il lancé après le match, assurant : « Il y a eu un bon spectacle sur le terrain, c’était “folklo” en tribune, mais c’est le Sud. »
+La première interruption est survenue en première période pendant sept minutes, quand un grillage a cédé sous le poids des supporteurs héraultais fêtant l’ouverture du score, à la 28e minute de jeu. Deux personnes ont été légèrement blessées, selon la préfecture.
+Cet accident est survenu un an jour pour jour après que le grillage a cédé lors d’un Amiens-Lille, où 29 Lillois avaient été blessés au stade de la Licorne.
+
+        Lire aussi :
+         
+
+                Ligue 1 : incidents en tribunes à Montpellier, Lille écrase l’OM
+
+
+
+Un morceau de tissu met le feu aux poudres
+La situation s’est tendue quand les Gladiators ont brandi dans leur parcage une tête de diable, et pas n’importe laquelle : ce morceau de tissu représente le logo du principal groupe d’ultras montpelliérains. Or, cette bâche, habituellement déployée à chaque match à domicile, élément constitutif de l’identité de ce groupe, avait été subtilisée en mai par des Nîmois.
+Les Montpelliérains avaient prévenu que, si ces derniers exhibaient leur trophée au stade de la Mosson, ils viendraient le chercher. Quelques éléments du groupe Butte Paillade ont donc escaladé le grillage et pénétré sur la pelouse.
+On était à dix minutes de la fin de la rencontre. Les CRS sont intervenus. Le président montpelliérain, Laurent Nicollin, également : il est allé parlementer pour ramener le calme. Le match a repris après une demi-heure d’interruption.
+« Il n’y a jamais eu d’envahissement de terrain, aucun joueur n’a été en danger, les forces de sécurité du club ont arrêtés [les supporteurs] », avait argumenté Laurent Nicollin après le match, pressentant qu’il lui faudrait rendre des comptes après ces débordements. 
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-12">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-12"> ¤ La Watch Series 4 mise sur la détection des chutes et des anomalies cardiaques pour convaincre. Est-elle beaucoup plus séduisante que le premier modèle, sorti en 2015 ?
+<filname="PROF-0,2-3242,1-0,0-12"> ¤                
+
+On a testé… la nouvelle Watch d’Apple : cap sur la santé ?
+
+La Watch Series 4 mise sur la détection des chutes et des anomalies cardiaques pour convaincre. Est-elle beaucoup plus séduisante que le premier modèle, sorti en 2015 ?
+
+
+
+
+
+LE MONDE
+ |    01.10.2018 à 14h29
+ • Mis à jour le
+01.10.2018 à 17h45
+    |
+
+                            Nicolas Six
+
+
+
+
+
+Trois ans après sa sortie, l’Apple Watch a beau être la montre intelligente la plus vendue, elle est loin d’avoir totalement convaincu le grand public : les iPhone se vendent encore dix fois mieux. De nombreux consommateurs continuent à se demander pourquoi adopter un écran de plus au poignet, et pourquoi payer pour cela la somme rondelette de plusieurs centaines d’euros.
+Apple revient avec de nouveaux arguments pour tenter de convaincre. Sa Watch Series 4 commercialisée le 21 septembre (460 euros pour le modèle de base que nous testons ci-dessous) s’embellit d’un écran plus grand. Ses fonctionnalités de santé progressent. Elle peut désormais détecter les chutes et surveiller notre cœur. Mais est-ce bien efficace ?
+Une esthétique plus séduisante
+
+   
+
+
+La nouvelle Watch intègre un écran 30 % plus grand dans un boîtier élargi de 2 millimètres, une croissance quasi invisible. L’écran est un peu plus lisible, mais surtout bien plus beau, avec ses marges étroites et ses angles arrondis.
+La Watch Series 4 profite de nouveaux cadrans pour afficher l’heure. Ils donnent à la Watch une personnalité plus affirmée, un atout qui manque à son esthétique globalement fonctionnaliste. Plusieurs écrans animés peuvent être affichés, dont les plus spectaculaires figurent des flammes, du métal liquide, ou de la vapeur. Des cadrans plus fonctionnels bardés d’informations peuvent également être choisis.
+
+
+
+Des notifications accélérées
+
+   
+
+
+La Watch d’Apple duplique les notifications de votre smartphone sur votre poignet. Quand un texto arrive, deux secondes suffisent pour en prendre connaissance, contre cinq lorsque le mobile est en poche, ou dix au fond du sac.
+Cette fonction est parfaitement superflue lorsqu’on vit à un rythme paisible. Mais lorsqu’on travaille constamment à plein régime, qu’on se déplace beaucoup, qu’on communique énormément, les notifications au poignet s’avèrent utiles. D’autant que les menus de la Watch 4 sont beaucoup plus réactifs que les menus anémiques de la première version de la montre d’Apple.
+Grâce à son haut-parleur intégré, la Watch permet aussi de répondre aux appels téléphoniques et de communiquer par messages audio. C’est utile quand le smartphone est loin ou lorsqu’on veut échanger de façon ultrarapide.
+Des progrès en sport
+
+   
+
+
+En 2015, on avait laissé la toute première Watch avec une impression mitigée : trop peu de sports étaient convenablement traités, beaucoup ne disposaient pas d’un écran d’information dédié présentant des informations adaptées, comme le rythme cardiaque ou la distance parcourue par exemple. La liste des sports couverts s’est élargie :
+2015 : course, marche, vélo, rameur, vélo elliptique, stepper.2018 : fractionné, randonnée, yoga, nage.
+Désormais, la Watch est censée détecter automatiquement le type d’activité qu’on a engagé, et proposer le démarrage du cadran de mesure. Mais en pratique, la détection prend de longues minutes, et pour de nombreux sports, elle ne fonctionne tout bonnement pas.
+A qui se destinent les fonctions sportives de la Watch ? Toujours pas aux pratiquants des sports d’adresse comme le football ou le tennis. Elle cible plutôt les sports d’endurance, dans une optique d’amélioration des performances. Les coureurs en sont la première cible, ils profitent des mesures du GPS et du cardiofréquencemètre. L’écran d’information dédié aux coureurs inclut un nouvel indicateur : une estimation du temps total pour le kilomètre en cours.
+La Watch demeure capable de diffuser de la musique (préalablement chargée dans sa mémoire de 8 Go) dans un casque Bluetooth, ce qui dispense d’emmener son smartphone lorsqu’on part courir ou pédaler. Elle peut désormais diffuser des podcasts. Toutes ces nouvelles fonctions ne sont pas spécifiques à la Watch Series 4, elles sont disponibles sur les Watch 1, 2 et 3 via mise à jour du logiciel central Watch OS.
+Toujours un peu difficile d’usage
+
+   
+
+
+Les menus de la Watch demeurent incomparablement moins limpides que ceux d’un iPhone. Beaucoup d’utilisateurs peineront à se retrouver dans son carrousel de cadrans, son nuage d’applications, ses cascades de notifications, son panneau de réglages, et sa liste d’applications récentes. Cette profusion de menus se pilote avec deux boutons, plus quelques gestes tactiles, ainsi qu’une molette rotative.
+
+
+
+Cette molette réserve une petite surprise : elle est désormais crantée, ce qui la rend plus confortable. Cette sensation n’est en réalité qu’une illusion troublante créée par un astucieux vibreur. Bluffant, mais cela n’aide que très modérément la navigation dans les menus.
+Un coach de santé à l’américaine
+
+   
+
+
+L’activité physique est bonne pour la santé, la Watch tente de nous encourager dans cette voie à grand renfort de pensée positive. Elle demande d’abord de fixer un objectif d’activité : faible, moyen ou élevé. Puis, elle surveille le temps que nous passons assis, debout, et à marcher. Elle décerne des médailles lorsqu’on dépasse ses objectifs, elle distille des encouragements type « on y croit » ou « ne vous arrêtez pas là ».
+Elle adresse même des injonctions du type « levez-vous ! », ou « respirez ! », qui incite à gonfler et à vider ses poumons pendant une minute. Désormais, on peut aussi défier ses amis : c’est à celui qui aura l’activité la plus nourrie sur la semaine.
+Certains acquéreurs de la Watch sont amusés, voire agacés, et désactivent cette fonction. D’autres se prennent totalement au jeu. Toutefois, ce coach de santé n’est pas une solution à chaque problème de santé. Les scientifiques ont des doutes sur la capacité des montres d’activité à faire maigrir ou à améliorer la qualité de sommeil.
+
+        Lire aussi :
+         
+
+                La santé, argument de vente des montres connectées
+
+
+
+La surveillance cardiaque en question
+
+   
+
+
+La nouvelle Watch est loin de détecter toutes les maladies cardiaques, elle parvient à en signaler quelques-unes ; certaines formes d’arythmie ou de bradycardie. Selon les cardiologues que nous avons interrogés, il est probable qu’elle soit efficace dans certains cas, mais le temps seul nous en apportera la certitude.
+
+        Lire aussi : l’avis détaillé des trois cardiologues.
+         
+
+          Apple Watch : une « note en bas de page de la prévention cardiovasculaire » ?
+
+
+
+Les seniors sont la population cible naturelle de cette montre car ils présentent des risques cardiaques plus importants. Particulièrement les patients ayant des facteurs aggravants comme l’hypertension ou le tabagisme. Plus encore ceux dont le médecin soupçonne une fibrillation auriculaire, un trouble caractérisé par des battements rapides et irréguliers.
+Malheureusement, les fonctions cardiaques de la Watch ne sont pas encore totalement opérationnelles. Le capteur de rythme cardiaque fonctionne, il mesure les battements du cœur toutes les 4 minutes environ, mais l’électrocardiogramme est désactivé. Or c’est justement cet outil qui diagnostique la fibrillation auriculaire. Apple attend l’avis de l’autorité sanitaire pour l’activer, cela devrait prendre six à douze mois.
+L’électrocardiogramme est aussi capable de détecter un ralentissement inquiétant du cœur ou une accélération trop prononcée. La montre émet alors une alerte. Les Watch de deuxième et troisième générations en sont aussi capables, après mise à jour vers Watch OS 5. Reste à savoir comment les médecins réagiront à ce nouvel outil.
+La détection des chutes
+
+   
+
+
+Cette fonction n’est pas activée mais on peut l’allumer manuellement. C’est le signe qu’Apple ne la juge pas utile pour tout le monde. Dans certains cas toutefois, elle s’active automatiquement : lorsqu’on renseigne son âge lors de l’installation de la montre, et qu’on entre dans la catégorie de seniors. Ça n’est pas un hasard : les chutes sont la première cause de mortalité accidentelle chez les seniors. D’autres personnes craignent tout particulièrement les chutes, comme les handicapés.
+Nous avons essayé de déclencher cette alarme, en simulant des chutes lourdes par glissade arrière ou trébuchement avant, sans succès. Une étude d’Alpes Santé à Domicile pointe que d’autres bracelets détecteurs ne sentent pas toutes les chutes non plus. Mais si la Watch en détecte une partie, cela suffit à la rendre utile.
+Peut-on équiper n’importe qui ? La Watch est plutôt destinée aux technophiles qui souhaitent l’adopter. Dans ce cas, elle fait un bon compagnon, qu’on recharge facilement grâce à sa base sans fil. La Watch est valorisante, un gros atout face aux bracelets de détection de chutes de Zcare, Vitalbase, ou Vivago par exemple, qui sont assez stigmatisants.
+Il sera moins facile de convaincre les seniors technophobes de s’en équiper. Beaucoup trouveront la Watch compliquée, avec ses menus protéiformes et son minuscule écran, surtout ceux qui voient mal et dont les doigts sont émoussés. Sur ce plan, les appareils spécialisés concurrents sont beaucoup plus simples. Convaincre un senior sera souvent difficile. Selon un rapport d’Alpes Santé à Domicile, le déni du danger de chute est une résistance très courante.
+
+   
+
+
+En conclusion
+Avec son prix salé, ses fonctionnalités de santé décevantes, et sa compatibilité incomplète avec certains sports, la Watch n’est pas beaucoup plus convaincante. Elle est encore loin d’être un appareil profitable à tous, comme peut l’être un smartphone. Cependant, quelques profils d’utilisateurs l’adopteront probablement avec bonheur :
+Le senior ou le malade inquiet de sa santé. Même si la Watch est loin de détecter toutes les chutes et tous les problèmes cardiaques, elle en signale une petite partie, et protège donc modérément. Encore faut-il réussir à adopter ce petit appareil pas si simple.L’adulte surmené. Il vit à un rythme intense, il est nomade, il pratique le sport dans une optique de performances. La Watch devrait rapidement devenir un bon auxiliaire.L’amoureux de la technologie, de l’esthétique, de la créativité. Parce que la Watch est un produit admirablement pensé, que ses cadrans sont hypnotiques, et qu’on peut téléphoner de son poignet comme dans un film de science-fiction.Le freak control qui surveille ses calories à la loupe, surtout s’il aime la pensée positive à l’américaine. L’ancien modèle de Watch peut ici suffire : elle coûte 130 euros de moins.
+
+
+
+
+                     require(["lmd/core/ux/longform"], function (advertLongform) {
+                        advertLongform.moveAdvert('.js-parallaxe_slot', '#articleBody');
+                     });
+
+
+                      
+
+
+
+
+
+
+<article-nb="2018/10/03/19-13">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-13"> ¤ Il est le boute-en-train du bord de touche depuis plus de vingt ans sur Canal+. L’ancien joueur se coule dans un rôle d’histrion sympathique pour les uns, pénible pour les autres, raconte notre chroniqueur Jérôme Latta.
+<filname="PROF-0,2-3242,1-0,0-13"> ¤                     
+                                                
+
+Laurent Paganelli, à rire ou à pleurer ?
+
+Il est le boute-en-train du bord de touche depuis plus de vingt ans sur Canal+. L’ancien joueur se coule dans un rôle d’histrion sympathique pour les uns, pénible pour les autres, raconte notre chroniqueur Jérôme Latta.
+
+
+
+LE MONDE
+ |    01.10.2018 à 14h16
+    |
+
+                            Jérôme Latta
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Chronique. On n’a pas entendu sa voix dimanche soir lors de la diffusion de Lille-Marseille sur Canal +. A la suite d’un échange un peu vif avec son collègue Stéphane Guy, commentateur de Lyon-Marseille la semaine précédente, Laurent Paganelli a pris quelques jours de repos, sans que l’on sache vraiment s’il s’agit d’une décision de sa part ou d’une sorte de mise à pied. Peu importe.
+La longévité télévisuelle de celui qui a fêté, en décembre dernier, ses vingt ans d’antenne sur la chaîne autrefois cryptée, toujours au poste de « journaliste de terrain », contraste avec sa carrière de footballeur professionnel, à la fois précoce et écourtée. Plus jeune joueur de première division (15 ans et dix mois) pour ses débuts avec l’AS Saint-Étienne en 1978, il retomba vite dans un anonymat dont il ne ressortit que bien après le terme de celle-ci.
+Devenir « Paga »
+Lorsqu’il effectue ses débuts cathodiques fin 1997, il est alors en proie à des difficultés personnelles et on n’aurait pas parié sur une telle persistance. « Homme de terrain » est un poste ingrat et subalterne, une discutable spécificité française inimaginable dans beaucoup de pays, dont la valeur ajoutée ne peut osciller qu’entre le néant et l’insignifiant. Vincent Hardy y disparut, Pascal Praud s’en éleva jusqu’aux cimes médiatiques que l’on connaît. Laurent Paganelli, lui, choisit de s’y installer.
+A cette place, il se composa immédiatement un personnage – une faculté au fondement de nombreuses carrières télévisuelles – dont il ne dévia jamais. A coups de petites blagues et d’interviews burlesques, il devint « Paga », l’éternel boute-en-train du bord de touche.
+Prenant parti de l’inanité de sa mission, il la transforma en exercice de dérision. Renonçant notamment à obtenir l’impossible (c’est-à-dire des propos intéressants de la part de joueurs sur le banc ou de leurs collègues au sortir de la pelouse), il opta pour un tutoiement décomplexé et des questions inextricables, ces échanges rigolards se concluant généralement par le fameux « En tout cas, on te le souhaite ».
+Espéranto improvisé
+Il y a de plus grands sujets de clivages dans le football, mais Paganelli divise assez radicalement. D’un côté, ceux qui lui savent gré de sa « fraîcheur » et des moments de rigolade offerts dans un univers de plus en plus balisé. De l’autre, ceux qui ne voient en lui qu’un cabotin exécutant un numéro éculé afin de masquer une expertise limitée. Pour ceux-ci, ses interviews menées avec les joueurs étrangers dans un espéranto improvisé relèvent d’une bouffonnerie irrespectueuse et gênante.
+Il est vrai que le malaise n’est jamais très loin. Les blagues peuvent tomber à plat et la légèreté tourner à la désinvolture. Alors que d’autres diffuseurs disposent d’homologues multilingues, comme beIN Sports avec Anne-Laure Bonnet, Canal+ continue à jouer la carte de l’amateurisme sympathique.
+Quand il interroge le néo-Marseillais Kevin Strootman (« Ze player of ze match, today. Grande rougador you »), cette énième version d’un sketch patenté évoque l’interview de Françoise Sagan par Pierre Desproges en 1975 : un moment entre gêne et comique auquel on ne sait trop comment réagir. L’interviewé en premier lieu, qui tente de donner un sens à des questions qui n’en ont pas… et se replie vers des réponses toutes faites.
+
+Syndrome du rigolo
+Au moins se passe-t-il quelque chose. Il ne s’est rien passé près des bancs lillois et marseillais, dimanche soir, avec son remplaçant Rémy Vercoutre, gardien fraîchement retraité pourtant réputé pour ses sorties hasardeuses.
+Peut-être Laurent Paganelli aimerait-il s’arracher au syndrome du rigolo, être pris un peu plus au sérieux. Il n’a cependant pas vraiment essayé de sortir de son rôle, lors de ses essais comme chroniqueur chez Laurent Ruquier en 2008 (Europe 1) ou protagoniste de rubriques potaches (« Le défi de Paga », à la même époque sur Canal). Et quand il lance son compte Twitter en juillet dernier, c’est encore pour faire le mariole…
+L’incident de Marseille a pourtant montré que sa sensibilité affleure, qu’elle fait écho aux souffrances du prodige aux ailes brûlées – qu’il a parfois confiées. « C’est bon, la prochaine fois, je ne dirai plus rien », avait lâché Paga en conclusion de son accrochage. C’est peu probable : le différend semble réglé avec Stéphane Guy, qui lui a adressé un message aimable dimanche, et il pourrait retrouver sa place dès le week-end prochain. En tout cas, on le lui souhaite.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-14">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-14"> ¤ Dans l’ombre de Ronaldo et Messi, l’attaquante brésilienne domine le football féminin depuis une décennie. Elle a reçu lundi 24 septembre, pour la sixième fois, le prix FIFA de la meilleure joueuse mondiale.
+<filname="PROF-0,2-3242,1-0,0-14"> ¤                
+                                    
+
+Marta Vieira da Silva, la footballeuse la plus titrée
+
+
+                      Dans l’ombre de Ronaldo et Messi, l’attaquante brésilienne domine le football féminin depuis une décennie. Elle a reçu lundi 24 septembre, pour la sixième fois, le prix FIFA de la meilleure joueuse mondiale.
+
+
+
+LE MONDE
+ |    01.10.2018 à 11h00
+ • Mis à jour le
+01.10.2018 à 13h16
+    |
+
+                            Juliette Branciard
+
+
+
+
+
+
+
+
+   
+
+
+Comparée au roi Pelé, la joueuse de football a son empreinte de pied gravée dans l’enceinte du stade Maracaña.
+Reine du ballon rond
+Après avoir monopolisé, entre 2006 et 2010, le titre de meilleure joueuse mondiale remis par la FIFA, la Brésilienne s’est offert cette année un sixième trophée. Ce retour au sommet la consacre, à 32 ans, plus grande footballeuse de tous les temps, au même rang que ses homologues masculins, le Portugais Cristiano Ronaldo et l’Argentin Lionel Messi. Il ne lui reste plus qu’à décrocher le tout premier Ballon d’or féminin, qui sera décerné en décembre.
+
+        Lire aussi :
+         
+
+                Trophées FIFA 2018 : Didier Deschamps sacré entraîneur de l’année
+
+
+
+Capitaine brésilienne
+Marta a grandi dans l’Etat d’Alagoas, l’un des plus pauvres du Brésil. Formée au football de rue par ses frères, elle est repérée à 14 ans par l’entraîneuse Helena Pacheco, bluffée par la précision et la rapidité de ses passes. Elle débute sa carrière au Vasco da Gama de Rio de Janeiro, puis au Santa Cruz de l’Etat du Minas Gerais. La buteuse n’a que 17 ans lorsqu’elle intègre la Seleçao, dont elle est aujourd’hui la capitaine.
+
+        Lire aussi :
+         
+
+                JO 2016 : les Brésiliens s’enflamment pour leurs athlètes féminines même en foot
+
+
+
+Virtuose sans frontières
+En 2004, la jeune femme change d’hémisphère pour aller jouer en Suède. Durant ses cinq saisons à l’Uméa IK, l’attaquante soigne ses stats avec un ratio exceptionnel de 111 buts en 103 matchs. Passée ensuite par les clubs de Tyresö FF et FC Rosengard, la virtuose prend la nationalité suédoise en 2017, s’imaginant poursuivre sa carrière dans son pays d’adoption. Elle signe un mois plus tard avec la formation Orlando Pride, en Floride, où elle joue actuellement.
+Fille spirituelle de Pelé
+La légende vivante du football, le roi Pelé, a lui-même validé la comparaison avec sa compatriote. Celle qui le détrône au nombre de buts en sélection nationale est l’unique footballeuse à avoir son empreinte de pied gravée dans l’enceinte du stade Maracaña. Une seule ombre au tableau persiste. Comme Cristiano Ronaldo et Lionel Messi, la multiple championne a toujours échoué en Coupe du monde.
+
+
+
+<article-nb="2018/10/03/19-15">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-15"> ¤ L’Italien a gagné ses cinq matchs et donné le point de la victoire aux Européens face aux Américains (17,5 à 10,5).
+<filname="PROF-0,2-3242,1-0,0-15"> ¤                     
+                                                   
+édition abonné
+
+
+Golf : Francesco Molinari, la « macchina » de l’équipe d’Europe face à Tiger Woods
+
+L’Italien a gagné ses cinq matchs et donné le point de la victoire aux Européens face aux Américains (17,5 à 10,5).
+
+
+
+LE MONDE
+ |    01.10.2018 à 09h13
+ • Mis à jour le
+01.10.2018 à 09h39
+    |
+
+            Adrien Pécout
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Pour quelqu’un de calme, il fait de drôles de bonds. L’homme qui s’ébroue sur le pré, polo bien rentré dans le pantalon, avait promis de « rester le même que d’habitude ». Il faut croire que la Ryder Cup l’a enivré, lui aussi. Comme ces milliers de spectateurs, comme ses coéquipiers. Tous bercés d’un commun délire, dimanche 30 septembre, sur le parcours du Golf national de Saint-Quentin-en-Yvelines.
+A l’heure de soulever le trophée doré, voilà Francesco Molinari à l’extrémité gauche sur la photo de famille, drapeau italien autour du cou. Le Turinois a pourtant joué un rôle central pour l’équipe d’Europe, victorieuse de cette 42e Ryder Cup, face aux Etats-Unis. La plus prestigieuse compétition de golf par équipes. La toute première jamais organisée en France. Sans doute la seule compétition au monde, aussi, capable de dérider à ce point un golfeur. De le révéler à lui-même comme à tous, héros insoupçonné de 35 ans.
+Ici Molinari, ravi, en conférence de presse. Onze coéquipiers, un capitaine et une coupe de champagne à ses côtés : « Sincèrement, je ne fais pas la différence entre gagner cinq matchs, seulement un seul ou bien tout perdre, cela ne signifie rien pour moi si vous ne ramenez pas le trophée à la maison. » 
+Peut-être. Sauf que ses cinq succès automnaux vont le poursuivre encore longtemps, dans la mémoire de ce sport. Ils font de lui le premier Européen à rapporter cinq points sur cinq possibles en une édition, apport décisif au succès de ce week-end (17,5 points à 10,5).
+« There’s only one Molinari ! »
+Avant même sa naissance, seuls des Américains avaient réussi une telle trouée, si l’on peut dire : Larry Nelson en 1979, mais aussi Arnold Palmer, alias le « King », et Gardner Dickinson, en 1967. La performance peut donc se signaler. Surtout pour cet Italien, déjà vainqueur de deux Ryder Cup consécutives avec l’Europe (2010 et 2012), mais sans jamais encore avoir gagné un seul match : quatre défaites...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-16">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-16"> ¤ L’actualité sportive ne s’est pas limitée au record du PSG, à la Ryder Cup et au titre de champion du monde d’Alejandro Valverde.
+<filname="PROF-0,2-3242,1-0,0-16"> ¤                     
+                                                
+
+Valls chat noir, cadeau pour Hamilton et des Belges sans « seum » : ce que vous avez manqué en sport ce week-end
+
+L’actualité sportive ne s’est pas limitée au record du PSG, à la Ryder Cup et au titre de champion du monde d’Alejandro Valverde.
+
+
+
+LE MONDE
+ |    01.10.2018 à 06h31
+ • Mis à jour le
+01.10.2018 à 07h52
+    |
+
+            Clément Guillou et 
+                                Youmni Kezzouf
+
+
+
+
+
+
+
+
+                        
+
+
+Oui, l’Europe a récupéré la Ryder Cup en écrasant les Etats-Unis sur le parcours de l’Albatros, dans les Yvelines.
+
+   
+
+
+Oui, Alejandro Valverde est devenu champion du monde de cyclisme à Innsbruck, devant Romain Bardet.
+
+   
+
+
+Oui, le Paris-Saint-Germain a égalé le record de victoires consécutives en ouverture du championnat – en mâchouillant du coton.
+Mais il s’est passé autre chose ce week-end dans le monde du sport. Et vous êtes peut-être passés à côté.
+Les trois leçons du week-end
+Le petit cousin tu n’inviteras pas
+
+Barcelona. Ara, al Camp Nou. Endavant @FCBarcelona! https://t.co/2P29ysUZsF— manuelvalls (@Manuel Valls)
+
+
+require(["twitter/widgets"]);
+
+Vendredi 21 mars : les rédactions parisiennes reçoivent un communiqué annonçant une conférence de presse de Manuel Valls, qui annoncera quatre jours plus tard sa candidature à la mairie de Barcelone.
+Dimanche 23 mars : le FC Barcelone entame une série de trois matchs sans victoire, contre les terribles équipes de Gérone, Leganes et Bilbao. Un hasard ? Peut-être. Mais peut-être pas.
+La dernière fois que Manuel Valls avait vu jouer le Barça, les Barcelonais avaient perdu 4-0 au Parc des Princes, en 2016 (certains disent qu’il y a eu un match retour). Samedi, le Barça s’est montré incapable de battre l’Athlétic Bilbao (1-1), sous les yeux de l’ancien premier ministre en campagne.
+Pas de chance pour Manuel Valls, qui aime rappeler que l’hymne du club catalan a été composé par son grand cousin, un certain… Manuel Valls.
+Beau joueur, Ernesto Valerde n’a pas voulu mettre cette nouvelle contre-performance sur le dos du Français et a tout assumé. Il avait fait le choix de mettre Leonardo Messi au repos, mais il a fallu que l’Argentin entre en jeu pour métamorphoser l’équipe.
+Conséquence de cette série, le Barça a perdu l’opportunité de distancer en tête de la Liga le Real Madrid, auteur d’un match nul 1-1 contre son voisin de l’Atlético.
+Ton employeur, tu écouteras
+
+   
+
+
+« C’était une journée difficile. C’est évidemment un bon résultat pour l’équipe, nous avons obtenu le maximum de points, mais pour moi, comme tout le monde l’a vu, la course a été assez difficile. »
+Voilà la réaction de Valteri Bottas, pilote finlandais de formule 1, à l’arrivée du Grand Prix de Sotchi. Une casse moteur ? Un tout droit dans le gravier ? Même pas : Bottas a terminé deuxième du Grand Prix. Le hic, c’est qu’il aurait dû le gagner.
+Mais ses intérêts n’étaient pas les mêmes que ceux de son écurie Mercedes, qui voulait profiter du Grand Prix de Russie pour accroître l’avance de Lewis Hamilton sur Sebastian Vettel au championnat du monde. Elle a donc poliment mais fermement demandé au Finlandais, pilote numéro deux chez Mercedes, de laisser passer l’Anglais au 25e tour, et à Bottas de ralentir Vettel.
+Le Finlandais a demandé s’il pouvait reprendre sa place dans le dernier tour, mais son équipe n’a pas honoré sa requête. Doublé Mercedes, donc mais pas dans le sens où le sport l’aurait voulu.
+Hamilton, qui a tenu à faire monter son équipier à ses côtés sur la première marche du podium, a assuré « ne jamais s’être senti ainsi après une victoire », évoquant « des sentiments contradictoires ». L’an dernier, le même Hamilton avait contrevenu aux consignes en laissant le même Bottas récupérer sa troisième place lors du GP de Hongrie.
+Les consignes d’équipe sont une pratique relativement courante en formule 1, que les organisateurs avaient vainement tenté d’interdire jusqu’en 2011. Les patrons d’écurie s’étaient rabattus sur des messages plus ou moins codés pour faire comprendre à leurs employés qu’ils devaient se relever.
+Une icône, tu immortaliseras
+
+La voici .. l’œuvre #Fidélité dévoilée à l’instant sur le parvis du stade Marcel-Michelin #YellowArmy https://t.co/7mT7rApE0p— ASMOfficiel (@ASM Rugby)
+
+
+require(["twitter/widgets"]);
+
+Il paraît qu’elle n’a pas été construite en l’honneur d’Aurélien Rougerie, mais plutôt en hommage à tous ceux qui entourent le club de Clermont, des joueurs au staff, en passant par les fans. Même le sponsor maillot, visiblement.
+Sur le socle de la statue, en pierre de Volvic, les noms de ceux qui ont fait l’histoire du club ont été gravés, depuis sa création en 1911 jusqu’au titre de 2017. Mais l’imposante statue de bronze qui a été dévoilée ce week-end devant le stade Marcel-Michelin, nommée Fidélité, prend bien les traits de la légende locale, soulevant un bouclier de Brennus.
+Aurélien Rougerie, joueur emblématique de l’ASM, retraité depuis la saison dernière après avoir disputé plus de 400 matchs en jaune, a passé sa carrière exclusivement en Auvergne, durant 19 saisons.
+Surtout, le capitaine était là pour les deux titres remportés par Clermont (en onze finales disputées), en 2010 et en 2017.
+L’équipe du week-end : les Belgian Cats
+« On est la Belgique, putain, on est dans les quatre du monde. On va jouer pour la médaille. Et oL’avantage avec les équipes surprises, c’est qu’elles sont parfois également sans filtres. Les mots ci-dessus énoncés avec moult poings sur le cœur et cris de joie appartiennent à la Belge Julie Vanloo après la large victoire de ses Belgian Cats sur la France en quarts de finale du Mondial féminin de basket, vendredi.
+
+        Lire aussi :
+         
+
+          Balayées par la déferlante belge, les Bleues abandonnent leurs rêves de podium
+
+
+
+Au sujet de ce surnom, le Chaudron de Blanqui a envoyé ses limiers enquêter, et il s’avère qu’en Wallonie le surnom n’est pas francisé. « L’équipe masculine s’appelle les Lions, alors on a cherché un félin, et c’est un néerlandophone qui a suggéré ce surnom, qui a bien pris. Et c’est après qu’on a vu le sous-entendu en français », glisse un membre de l’encadrement belge. Etymologie mise à part, la Belgique a terminé à la quatrième place de la Coupe du monde après avoir regardé dans les yeux les Américaines pendant près de trente minutes en demi-finales. Une médaille en chocolat au goût amer après la défaite dans la petite finale contre les Espagnoles (67-60), mais les Belges ont illuminé la compétition.
+
+   
+
+
+Dans la foulée d’une Emma Meesseman stratosphérique – meilleure rebondeuse du tournoi, seconde scoreuse et élue dans le meilleur cinq du Mondial –, les joueuses de Philip Mestdagh ont déroulé un basket collectif fait de mouvements incessants, de quête de la partenaire démarquée et de shoots soyeux. Pas mal pour une nation faisant ses débuts en Coupe du monde. « Il y a dix mois, on n’aurait jamais pu imaginer résister contre des pays du top mondial, a souligné le sélectionneur. On peut-être fiers de notre 4e place. » 
+
+        Lire aussi :
+         
+
+                Les Etats-Unis championnes du monde de basket, la force de l’habitude
+
+
+
+Le chiffre du week-end : 1
+C’est sur son seul ballon du match que Daniel Sturridge a inscrit le but du week-end dans le football européen, plutôt important qui plus est : à la 89e minute, il permettait à Liverpool d’égaliser 1-1 sur la pelouse de Chelsea. Sturridge était entré en jeu et n’a plus touché la balle avant le coup de sifflet final.
+
+Chelsea 1-[1] Liverpool : Sturridge 89
+— HadathPl (@HadathPL)
+
+
+require(["twitter/widgets"]);
+
+L’ex-enfant prodige du football anglais, quoique remplaçant dans l’attaque de Liverpool, traverse une période faste statistiquement. Quatre buts en sept matches, dont cinq où il est entré en jeu, lui permettent d’afficher une statistique remarquable : Sturridge a inscrit un but toutes les 47 minutes.
+Manchester City profite de ce premier match sans victoire de Liverpool cette saison pour prendre la tête du championnat anglais, à la différence de buts. Chelsea est troisième et Manchester United 10e, après une nouvelle défaite à West Ham.
+Les wikis du week-end
+Facile
+Auteur d’un doublé ce week-end, je participe activement au bon début de saison de ma nouvelle équipe.
+
+   
+
+
+Difficile
+Lors de la victoire de la Roma dans le derby romain (3-1), qui rattrape le triste début de saison des giallorossi, je suis devenu le deuxième joueur de l’histoire à marquer dans un derby romain avec la Lazio et la Roma. Comme chacun sait, le premier était l’attaquant suédois Arne Selmosson, dans les années 1950.
+
+   
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-17">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-17"> ¤ Les coéquipières de Diana Taurasi ont battu l’Australie de Liz Cambage en finale de la Coupe du monde féminine de basket et remportent leur troisième titre mondial d’affilée.
+<filname="PROF-0,2-3242,1-0,0-17"> ¤                     
+                                                
+
+Les Etats-Unis championnes du monde de basket, la force de l’habitude
+
+Les coéquipières de Diana Taurasi ont battu l’Australie de Liz Cambage en finale de la Coupe du monde féminine de basket et remportent leur troisième titre mondial d’affilée.
+
+
+
+LE MONDE
+ |    30.09.2018 à 23h21
+ • Mis à jour le
+01.10.2018 à 08h34
+    |
+
+            Clément Martel (Tenerife, envoyé spécial)
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Il est des constantes rassurantes. L’allongement des journées à la fin de l’hiver, la marée qui revient chaque jour, et la victoire de l’équipe américaine de basket dans les compétitions internationales. Comme leurs cinq dernières épreuves (Jeux olympiques et Mondiaux), les Américaines ont remporté, dimanche 30 septembre, la Coupe du monde féminine de basket, prenant la mesure de l’Australie de Liz Cambage en finale (73-56).
+Un score-fleuve qui ne raconte guère la physionomie accrochée de la rencontre, mais l’équipe américaine met un point d’honneur à aller jusqu’au bout. « Notre réputation d’équipe qui met quarante points à l’adversaire dès les cinq premières minutes n’est pas justifiée, avertissait pourtant la meneuse Sue Bird après les quarts de finale. Le niveau de tous les pays continue de monter, on prend les victoires comme elles sont. »
+La vétérane américaine sait de quoi elle parle. En sélection depuis 2002, elle a remporté quatre titres olympiques et, désormais, autant de mondiaux. Elle était également de la partie en 2006, quand son équipe s’est inclinée en demi-finales face à la Russie. « La meilleure chose qui pouvait nous arriver à l’époque », glisse-t-elle. Depuis, sa Team USA a enchaîné une impressionnante série de cinquante et unes victoires d’affilée en compétition officielle.
+Le duo Bird et Taurasi, seize ans à la baguette
+Dirigée sur le terrain depuis seize ans par le duo Sue Bird-Diana Taurasi (respectivement 37 et 36 ans), l’équipe américaine maintient son niveau d’exigence au plus haut et intègre les nouvelles. En finale, face à l’Australie, elles ont pris garde à empêcher l’ouragan Cambage de dévaster leur raquette, faisant tout pour éloigner la gigantesque pivot des Opals du cercle. Une stratégie – grâce à l’envergure de la géante Brittney Griner – qui a permis à Team USA de rapidement prendre une dizaine de points d’avance. Finalement, la joueuse australienne termine la partie avec sept points, bien loin de son rendement depuis le début du tournoi (dont elle a été élue dans le meilleur cinq).
+
+        Lire aussi :
+         
+
+          Le phénomène Liz Cambage à l’assaut de l’or mondial
+
+
+
+L’équipe fonctionne avec sérénité, atteignant même une forme d’autogestion. Avant les matchs et lors de temps morts des rencontres – même quand elles sont accrochées –, il n’est pas rare de voir Dawn Stanley en marge du groupe, qui écoute les anciennes Sue Bird et Diana Taurasi. A la fin du temps mort, la coach pose un système et ses ouailles repartent sur le terrain. « Ça rend notre boulot bien plus simple, se félicite l’entraîneuse américaine. On peut mettre l’accent sur une ou deux choses importantes qu’elles doivent faire, et le reste est aux mains des joueuses. [Bird et Taurasi] sont là depuis tellement longtemps, elles forment le cœur de l’équipe. Et c’est un avantage énorme sur les autres nations, d’autant qu’on a moins de temps pour se préparer pour ces tournois. »
+Car la WNBA, où évoluent toutes les championnes du monde, se déroule pendant l’été – quand la surpuissance NBA fait relâche. Et plusieurs joueuses – Sue Bird, Breanna Stewart, sacrée meilleure joueuse du Mondial, et Jewell Loyd – sacrées avec le Seattle Storm, n’ont rejoint l’équipe nationale qu’une semaine avant l’entame du Mondial. Là où la France a bénéficié de deux mois de préparation pour affiner son jeu.
+
+        Lire aussi :
+         
+
+          Les Bleues et l’écueil mondial
+
+
+
+Formée des meilleures joueuses du monde, l’équipe américaine avance sûre de sa force. Même menées, les joueuses ne se départissent pas de leurs certitudes. « On savait qu’Emma [Meesseman] allait prendre feu. Mais que si on arrivait à contenir les autres, ça allait le faire, expliquait Elena Delle Donne après la demi-finale contre la Belgique. On a rehaussé le niveau en défense, empêché leurs transitions, et on les a fatiguées. On a une telle profondeur d’effectif que si on continue de pousser et pousser, on fatigue les autres équipes. »
+« Charge de travail répartie uniformément »
+« Elles sont toutes des joueuses de WNBA, ce sont des stars, on voit qu’elles savent contrôler le jeu, confirme la meneuse belge Julie Lallemand, dont l’équipe a tenu un peu plus d’une mi-temps avant de lâcher prise face aux Américaines. Même quand on est à égalité avec elles, elles restent sans pression et savent que leur talent va faire la différence à un moment. Elles ont un talent incroyable. Elles peuvent shooter, elles peuvent jouer à l’intérieur comme à l’extérieur, et elles jouent vraiment ensemble. Voilà la force des Etats-Unis. »
+Une force collective que chaque joueuse souligne. « Ce qui est fou dans cette équipe, c’est que la charge de travail est répartie uniformément. Tout le monde fait sa part, explique Diana Taurasi, auteure de deux performances de haut vol en demies et en finale. Je coupe, je passe la balle aux meilleures joueuses du monde et attends un trois-points ouvert. C’est littéralement mon job en équipe américaine depuis douze ans. Comment ne pas être heureuse de pareil fonctionnement ? » A voir sa joie enfantine et celle de Bird au coup de sifflet final, l’équipe américaine, qui remporte pour la première fois de son histoire trois Mondiaux d’affilée (seule l’URSS y était parvenue jusque-là), n’est pas rassasiée.
+
+La France 5e, l’Espagne sur le podium
+Après leur désillusion en quarts de finale – une large défaite contre la Belgique –, la France a su se remobiliser. Opposées successivement au Nigeria et à la Chine en matchs de classement, les joueuses de Valérie Garnier ont remporté les deux rencontres et achèvent la compétition à la cinquième place (victoire 81-67 contre les Chinoises). Si elles se sont révélées incapables d’atteindre les demi-finales et le podium espéré, les Bleues réalisent leur meilleure performance en Mondial depuis plus de dix ans.
+Dans le match pour la troisième place, l’hôte de la compétition, l’Espagne, a pris le meilleur sur de vaillantes Belges qui achèvent leur premier Mondial à la quatrième place. Battues par l’Australie en demi-finales, les coéquipières d’Alba Torrens se hissent sur le podium mondial pour la troisième fois d’affilée et confirment leur place de meilleure nation européenne.
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-18">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-18"> ¤ Une tentative d’envahissement de terrain par les supporteurs montpelliérains a été réprimée par les forces de l’ordre, mais le match a été interrompu une trentaine de minutes.
+<filname="PROF-0,2-3242,1-0,0-18"> ¤                     
+                                                
+
+Ligue 1 : incidents en tribunes à Montpellier, Lille écrase l’OM
+
+Une tentative d’envahissement de terrain par les supporteurs montpelliérains a été réprimée par les forces de l’ordre, mais le match a été interrompu une trentaine de minutes.
+
+
+
+LE MONDE
+ |    30.09.2018 à 21h02
+ • Mis à jour le
+30.09.2018 à 23h03
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Un grillage qui cède sous la pression de supporters en folie, deux interruptions de match, et une ambiance de braise : Montpellier, qui a sèchement battu Nîmes (3-0), est passé par toutes les émotions pour remporter le premier derby du Languedoc depuis 25 ans, dimanche 30 septembre.
+Grâce à leur succès dans ce bouillant « derby », les Montpelliérains grimpent à la troisième place du classement.
+
+Marseille chute à Lille, Rennes en difficulté
+Dans les autres matches du jour, le Lille OSC a dominé Marseille 3-0 au stade Pierre-Mauroy. La rencontre s’est emballée en deuxième période : Nicolas Pépé a provoqué deux pénaltys, convertissant le premier et laissant le deuxième à Jonathan Bamba. Le même Bamba a marqué un troisième but dans les arrêts de jeu. Lille est désormais deuxième de Ligue 1 avec 16 points, Marseille sixième.
+Le Stade Rennais a été tenu en échec par Toulouse 1-1. Todibo, à la 88è minute, a répondu à Mbaye Niang qui avait ouvert le score sur pénalty. Le système d’arbitrage vidéo (VAR) ne fonctionnait pas lors de cette rencontre. Le TFC est 7è du classement et Rennes 16è, à deux points de la zone de relégation.
+
+
+Dominateurs, et bien meilleurs dans le jeu, ils ont eu la peau des Crocodiles grâce à des buts d’Ambroise Oyongo (28e), Andy Delort (s.p. 45+9) et Gaëtan Laborde (79e), contre des Nîmois méconnaissables, loin de leur réputation d’équipe joueuse comme de leur tradition de combattants.
+Et pourtant, les supporters montpelliérains ont risqué de perdre cette victoire historique sur tapis vert en entraînant l’interruption du match pendant environ une demi-heure. La deuxième de la rencontre...
+Après le but du 3-0, quelques éléments du groupe Butte Paillade ont escaladé le grillage et pénétré sur la pelouse. Les CRS sont intervenus, tout comme le président du club, Laurent Nicollin, allé parlementer avec eux pour ramener le calme.
+Des supporteurs nîmois avaient provoqué leurs voisins en brandissant dans leur parcage une tête de diable, et pas n’importe laquelle : ce bout de tissu représentait le logo du principal groupe d’ultras montpelliérains. La bâche que ces supporteurs déployaient à chaque match à domicile, élément constitutif de leur identité de groupe, avait été subtilisée en mai dernier par des Nîmois, qui ont ainsi exhibé leur trophée au stade de la Mosson.
+L’humour puis le coup de sang
+Ces incidents pourraient coûter cher au MHSC.
+Le match avait déjà été interrompu en première période pendant sept minutes quand un des grillages avait cédé sous le poids des supporters fêtant l’ouverture du score d’Oyongo, à la 28e minute de jeu. Deux personnes ont été légèrement blessées, selon la préfecture.
+Cet accident est survenu exactement un an après que le grillage a cédé lors d’un Amiens-Lille, où 29 Lillois avaient été blessés.
+Avant le coup de sang des supporters, l’ambiance était fiévreuse mais chambreuse.
+Butte Paillade a déployé une banderole rappelant avec humour que si Nîmes avait bien gagné la fameuse demi-finale de 1996, c’est bien Montpellier qui a un palmarès: Coupe de France 1990 et Ligue 1 2012.
+
+   
+
+
+Sur le dessin, des enfants répondent à un vieux crocodile: « C’est bon, ça fait 100 fois que tu nous la racontes », pendant qu’un Montpelliérain raconte à des jeunes les titres de La Paillade.
+Les Nîmois ont répliqué sur une banderole que leurs rivaux étaient « comme votre nouvelle gare: inutile ».
+« Aucun joueur n’a été en danger »
+Après toutes les chansons hostiles des deux camps, le match s’est terminé sur « Et un, et deux et trois zéro! » Feu le président « Loulou » Nicollin aurait adoré gagner le derby 3-0. Mais qu’aurait-il dit à ses supporteurs ?
+Son fils Laurent, patron du club, s’est voulu compréhensif :
+« La seule chose que je précise: il n’y a jamais eu d’envahissement de terrain, aucun joueur n’a été en danger, les forces de sécurité du club les ont arrêtés. Il y a eu un bon spectacle sur le terrain, c’était “folklo” en tribune mais c’est le Sud. On a va certainement prendre un grosse amende. Mon trésorier doit s’arracher les cheveux. (Mais) je le répète, parce que vous (les journalistes, ndlr) avez le don d’être excessifs: il n’y a pas eu d’envahissement de terrain », a-t-il déclaré.
+La commission de discipline jugera lundi de la part de folklore et de la part d’insécurité dans le stade de la Mosson : elle se réunira en urgence, à 12h00, « pour étudier les suites à donner aux événements ayant entraîné à deux reprises une longue interruption du match ».
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-19">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-19"> ¤ Romain Bardet a pris la deuxième place du championnat du monde, concluant, à la place de Julian Alaphilippe, une partition collective jouée à la quasi-perfection.
+<filname="PROF-0,2-3242,1-0,0-19"> ¤                     
+                                                
+
+Cyclisme : battue par Valverde, la France sans titre mais sans regrets
+
+Romain Bardet a pris la deuxième place du championnat du monde, concluant, à la place de Julian Alaphilippe, une partition collective jouée à la quasi-perfection.
+
+
+
+LE MONDE
+ |    30.09.2018 à 20h25
+ • Mis à jour le
+01.10.2018 à 07h53
+    |
+
+            Clément Guillou
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+L’équipe de France avait des faux-airs de Belgique, dimanche 30 septembre à Innsbrück : la plus belle équipe n’est pas devenue championne du monde, battue par un Alejandro Valverde avec qui il ne fallait pas en conclure au sprint.
+Comme les Belges à la Coupe du monde de football en Russie, l’équipe de France ne repart pas sans rien : la médaille d’argent de Romain Bardet est de valeur, compte tenu de l’incroyable désert tricolore dans ce siècle – une seule médaille, en bronze, pour Anthony Geslin en 2005 juste derrière... Valverde.
+
+        Revivez le live :
+         
+
+          Cyclisme : Alejandro Valverde champion du monde, Bardet médaille d’argent
+
+
+
+Comme les Belges en Russie, elle refusait de se reprocher quoi que ce soit, convaincue qu’il n’y avait rien à faire pour déjouer les plans de celui surnommé « l’imbattable » en Espagne, et qui fera, compte tenu de sa suspension pour dopage en 2010, un ambassadeur gênant du cyclisme l’an prochain.
+A chaud, Romain Bardet était dégoûté, à moins que ce ne soit les jambes brûlantes qui lui faisaient cette gueule arrachée, derrière la ligne. Plus tiède, médaille autour du cou, il semblait avoir retrouvé sourire :
+« Au sprint, je savais que ce serait difficile contre Alejandro Valverde. Mais, une fois au sommet, il n’y avait pas beaucoup d’opportunités. J’ai fait le maximum. Je ne vais pas faire la fine bouche de la deuxième place. »
+« On est toujours déçu quand on fait deuxième »
+Dans le cyclisme français, la vérité sans filtre sort souvent de la bouche de Cyrille Guimard, un homme qu’on appelait « Napoléon » à l’époque où il conduisait, sans ceinture, la Renault suivant Bernard Hinault sur les routes du Tour de France. Que pense-t-il de cette course au scénario décevant, qui s’est résumée à une course de côte dans l’effrayant Gramartboden ?
+« On est toujours déçu quand on fait deuxième. Mais j’ai beaucoup de satisfaction sur le comportement de l’équipe, qui a fait la course que l’on avait décidée à 98 %. Tous ont donné le meilleur d’eux-mêmes. On est battu par plus fort sans avoir de regret, on ne peut rien ajouter. Aujourd’hui, Valverde était au-dessus de Romain Bardet, de Julian Alaphilippe et de Thibaut Pinot. On n’a pas fait d’erreur. »
+
+        Lire aussi :
+         
+
+                Cyclisme : Julian Alaphilippe au cœur de la stratégie française au Mondial
+
+
+
+
+   
+
+
+Cyrille Guimard défend ainsi son choix : celui d’avoir tout misé sur Julian Alaphilippe. Il n’a pas demandé à Romain Bardet ou Thibaut Pinot d’attaquer dans les difficultés précédentes, et a préféré compter sur la force du nombre dans le derrnier mur, dont il pressentait à raison qu’il serait décisif. « Le but était de bien contrôler, pour qu’il n’y ait pas d’attaque jusqu’au pied de la dernière bosse », confirmait Rudy Molard. Mais la tactique « bien huilée » (Bardet), n’a pas payé. A mi-pente, le favori français s’est figé, pris de crampes dans ces descentes où certains s’étaient mis à zigzaguer, comme un flash-back du cyclisme d’avant-Guerre.
+La France n’est donc toujours pas championne du monde. C’est une disette qui dure, mais Guimard a, en deux ans, redonné une façade plus convenable à l’équipe de France élite.
+A Doha, en 2016, elle était partie au combat divisée entre ses sprinteurs Nacer Bouhanni et Arnaud Démare, mais unie dans la démobilisation. Elle a, cette fois, offert le spectacle d’une formation soudée, au-dessus des ambitions personnelles et des équipes de marque –celles qui payent ces champions le reste de l’année.
+Anthony Roux et Rudy Molard ont accompli leur devoir sans coup férir. Thibaut Pinot avait pour consigne de sortir avec d’autres outsiders, le cas échéant : il le fit au sommet de l’avant-dernière bosse. Puis de hausser le rythme dès le pied du dernier mur, ce qu’il fit encore, et avec quelle autorité puisque seuls cinq hommes s’accrochaient à sa roue : Bardet, Alaphilippe, Valverde, Michael Woods et Gianni Moscon. Une sélection des meilleurs grains. Et il lui restait encore du jus, plus haut, pour passer au sommet en même temps que Julian Alaphilippe, et prendre finalement la neuvième place à l’arrivée.
+« Les crampes, on ne les voit pas venir »
+Des Bleus, Thibaut Pinot était le seul à annoncer la couleur arc-en-ciel avant la course. Il était encore le seul, à l’arrivée, à souligner que « collectivement on était fort, donc on visait le titre ».
+Pas de regret personnel pour autant, assurait Pinot :
+« J’avais mon but, mon rôle, je l’ai accepté. Je ne voulais surtout pas qu’on me reproche quoi que ce soit à l’arrivée. Pour moi, Julian était plus fort que moi sur une course comme ça, c’était normal que je me sacrifie pour lui. Au pied de la bosse, je lui ai demandé s’il voulait toujours qu’on durcisse, il m’a dit oui. Les crampes, on ne les voit pas venir. »
+« Il y avait beaucoup de pression sur Julian, peut-être beaucoup trop, reprenait Guimard. Mais il a assumé son rôle à la perfection. »
+L’intéressé ne se cherchait pas d’excuse à l’arrivée d’une course sans doute trop usante pour lui. Posé sur coussin d’air depuis l’été, gagnant tout ce qui se présentait sous ses roues, le détonnant Alaphilippe n’avait « pas ressenti depuis longtemps cette sensation de ne plus pouvoir pédaler ». Elle sera oubliée dans deux semaines, quand il tentera de conquérir son premier « Monument », sur le Tour de Lombardie. Pinot et Bardet seront deux autres des favoris, ce qui situe la force collective d’une génération qui a placé le cyclisme français au deuxième rang du classement mondial par nations. Derrière la Belgique.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-20">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3242,1-0,0-20"> ¤ En s’imposant 3-0 en fin de match, les Lillois, portés par Nicolas Pépé, se hissent à la deuxième place du classement de Ligue 1.
+<filname="PROF-0,2-3242,1-0,0-20"> ¤ 

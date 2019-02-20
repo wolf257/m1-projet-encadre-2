@@ -1,0 +1,1287 @@
+<FILE-date="2018/10/03/19">
+
+<article-nb="2018/10/03/19-1">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-1"> ¤ Le vote sera clos vendredi 5 octobre à minuit.
+<filname="PROF-0,2-3234,1-0,0-1"> ¤                     
+                                                
+
+En images, les quatre candidats au prix « Coup de cœur » des Grands Prix de la finance solidaire
+
+Le vote sera clos vendredi 5 octobre à minuit.
+
+
+
+LE MONDE
+ |    03.10.2018 à 16h16
+ • Mis à jour le
+03.10.2018 à 16h29
+    |
+
+            Joël Morio
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Vous avez jusqu’à vendredi 5 octobre minuit pour départager en votant les quatre jeunes structures solidaires qui sont en compétition pour le prix « Coup de cœur » du public décerné dans le cadre des Grands Prix de la finance solidaire.
+Le gagnant recevra une dotation de 5 000 euros, grâce au soutien de nos partenaires : la MAIF, France active, Fondation Crédit Coopératif et Mirova, la filiale de Natixis spécialisée dans l’investissement responsable.
+La remise des prix aura lieu le lundi 5 novembre, à la Maison des métallos, à Paris.
+Voici, en images, la présentation de chacun des candidats.
+         data-ui="carousel"
+         data-module="portfolio"
+         data-wrapper=".gallery"
+         data-interval="false"
+         data-is-atom
+         tabindex="10"
+>
+
+
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+
+
+Précedent
+
+1/10
+
+Suivant
+
+
+
+
+
+
+
+
+
+
+› Accéder au portfolio
+
+
+
+require(['lmd/ui/carousel', 'lmd/module/portfolio']);
+
+
+         data-ui="carousel"
+         data-module="portfolio"
+         data-wrapper=".gallery"
+         data-interval="false"
+         data-is-atom
+         tabindex="10"
+>
+
+
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+
+
+Précedent
+
+1/8
+
+Suivant
+
+
+
+
+
+
+
+
+
+
+› Accéder au portfolio
+
+
+
+require(['lmd/ui/carousel', 'lmd/module/portfolio']);
+
+
+         data-ui="carousel"
+         data-module="portfolio"
+         data-wrapper=".gallery"
+         data-interval="false"
+         data-is-atom
+         tabindex="10"
+>
+
+
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+
+
+Précedent
+
+1/10
+
+Suivant
+
+
+
+
+
+
+
+
+
+
+› Accéder au portfolio
+
+
+
+require(['lmd/ui/carousel', 'lmd/module/portfolio']);
+
+
+         data-ui="carousel"
+         data-module="portfolio"
+         data-wrapper=".gallery"
+         data-interval="false"
+         data-is-atom
+         tabindex="10"
+>
+
+
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+                    data-slide-title=""
+            data-slide-description=""
+            data-slide-item-lie=""
+
+        
+
+
+Précedent
+
+1/12
+
+Suivant
+
+
+
+
+
+
+
+
+
+
+› Accéder au portfolio
+
+
+
+require(['lmd/ui/carousel', 'lmd/module/portfolio']);
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-2">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-2"> ¤ Fondateur de la théorie des organisations, l’universitaire, mort le 27 septembre, a révolutionné de nombreux domaines de l’économie, de la psychologie, de la sociologie, des sciences de l’éducation et de la philosophie politique
+<filname="PROF-0,2-3234,1-0,0-2"> ¤                     
+                                                   
+édition abonné
+
+
+Mort de l’économiste américain James Gardner March
+
+Fondateur de la théorie des organisations, l’universitaire, mort le 27 septembre, a révolutionné de nombreux domaines de l’économie, de la psychologie, de la sociologie, des sciences de l’éducation et de la philosophie politique
+
+
+
+LE MONDE
+ |    03.10.2018 à 15h49
+ • Mis à jour le
+03.10.2018 à 16h29
+    |
+
+Thierry Weil (Chaire Futurs du travail et de l'industrie à Mines Paristech)
+
+
+
+
+
+
+
+                        
+
+
+                                                        
+La prestigieuse Harvard Business Review publia, en décembre 2003, le résultat d’une enquête menée auprès de 200 « gourous » du management, leur demandant quels étaient les penseurs vivants qui les avaient le plus influencés. Le nom qui revenait régulièrement était celui du célèbre Pr Peter Drucker ; mais le deuxième, James March, était inconnu du grand public. Pourtant, cet universitaire discret, mort le 27 septembre, en Californie, a révolutionné de nombreux domaines de l’économie, de la psychologie, de la sociologie, des sciences de l’éducation et de la philosophie politique.
+James March, né le 15 janvier 1928, est un des fondateurs de la théorie des organisations (comment les comportements individuels s’articulent pour produire le comportement d’une organisation), de l’apprentissage organisationnel (comment les organisations font évoluer leur vision du monde et leurs règles de fonctionnement) et du néo-institutionnalisme (quelles institutions structurent favorablement le comportement des individus, des organisations et de la société).
+« Don Quichotte » pour comprendre les organisations
+Il a aussi marqué des générations d’étudiants enthousiastes, qu’il fit travailler à partir d’œuvres littéraires comme Don Quichotte et Guerre et Paix, plutôt que sur les classiques « études de cas » de décisions managériales comme dans les business schools.
+Selon les économistes traditionnels, un décideur étudie les conséquences des différents choix possibles et sélectionne celui qui produit le meilleur résultat. Mais, comme l’a montré James March, un décideur submergé ne peut inventorier et évaluer toutes les actions envisageables. Au lieu d’optimiser chaque choix, il s’arrête à la première solution conduisant à un résultat jugé satisfaisant selon ses critères du moment.
+Les choses se compliquent au sein des organisations, où la décision résulte de coalitions politiques entre des protagonistes aux convictions et intérêts parfois...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-3">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-3"> ¤ L’envol est une structure qui lutte contre l’exclusion par l’art. Elle fait partie des quatre candidats aux prix « Coup de cœur du public » des Grands Prix de la finance solidaire.
+<filname="PROF-0,2-3234,1-0,0-3"> ¤ 
+<article-nb="2018/10/03/19-4">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-4"> ¤ Ilots Paysans est une association qui permet à des nouveaux agriculteurs de tester leurs projets. Elle fait partie des quatre candidats aux prix « Coup de cœur du public » des Grands Prix de la finance solidaire.
+<filname="PROF-0,2-3234,1-0,0-4"> ¤ 
+<article-nb="2018/10/03/19-5">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-5"> ¤ Le Comptoir de campagne, un réseau de commerce qui veut revitaliser les villages. Il fait partie des quatre candidats aux prix « Coup de cœur du public » des Grands Prix de la finance solidaire.
+<filname="PROF-0,2-3234,1-0,0-5"> ¤ 
+<article-nb="2018/10/03/19-6">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-6"> ¤ Benevolt est une plate-forme numérique qui fait se rencontrer des retraités candidats au bénévolat et des associations. Elle fait partie des quatre candidats aux prix « Coup de cœur du public » des Grands Prix de la finance solidaire.
+<filname="PROF-0,2-3234,1-0,0-6"> ¤ 
+<article-nb="2018/10/03/19-7">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-7"> ¤ La barre des 90 millions de voyageurs étrangers devrait être dépassée, mais ceux-ci se concentrent sur quelques destinations.
+<filname="PROF-0,2-3234,1-0,0-7"> ¤                     
+                                                
+
+Tourisme : la France n’a jamais accueilli autant de visiteurs étrangers
+
+La barre des 90 millions de voyageurs étrangers devrait être dépassée, mais ceux-ci se concentrent sur quelques destinations.
+
+
+
+LE MONDE
+ |    03.10.2018 à 12h30
+ • Mis à jour le
+03.10.2018 à 13h52
+    |
+
+            Philippe Jacqué
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+C’est un curieux contraste. La France n’a jamais accueilli autant de touristes étrangers de son histoire, mais l’industrie touristique tricolore fait un peu grise mine, car les Français ont non seulement tardé à partir en vacances, mais, en plus, ils ont préféré les contrées éloignées aux littoraux hexagonaux cet été.
+Ce bilan mitigé n’inquiète pas Jean-Baptiste Lemoyne, le secrétaire d’Etat auprès du ministre des affaires étrangères, chargé du dossier tourisme, qui se félicite des résultats estivaux. « Juillet et août ont été solides pour le secteur, avec des chiffres excellents pour la clientèle internationale, assure-t-il au Monde. La France va confirmer sa place de champion du monde du tourisme. Après 87 millions de touristes étrangers accueillis en 2017, nous devrions dépasser le seuil de 90 millions [en 2018]. » C’est en ligne avec l’objectif de 100 millions fixé d’ici à 2022.
+Selon l’Insee, le nombre de nuitées pour les clients internationaux a progressé de 5,3 % sur les deux mois d’été. Cependant, reconnaît-il, « celles pour la clientèle française sont en recul de 1,2 % sur la même période, car les Français retrouvent le goût du voyage à l’étranger. La Tunisie, la Croatie ou la Grèce ont accueilli nombre de nos concitoyens ».
+
+        Lire aussi :
+         
+
+                La montagne retrouve son attrait touristique en été
+
+
+
+« Une envie d’ailleurs » pour les touristes français
+Les données du Syndicat des entreprises du tour operating, publiées fin septembre, confirment cette tendance. Les voyagistes ont attiré plus de deux millions de clients, en croissance de 10,3 % par rapport à 2017. « Ce n’est pas une totale surprise, juge Didier Arino, du cabinet Protourisme. Le tourisme fonctionne par cycle et, depuis 2009 et la crise, les Français ont littéralement redécouvert le pays. Désormais, il y a une envie d’ailleurs pour diverses raisons. » Le consultant cite pêle-mêle le mauvais temps en début d’année, les grèves au printemps d’Air France ou de la SNCF ainsi que les offres, toujours plus accessibles, des compagnies aériennes à bas coûts…
+« Si l’on prend les chiffres globalement, juge M. Lemoyne, la tendance reste tout de même positive pour l’industrie touristique française. Sur les huit premiers mois de l’année, le taux de croissance est de 2,3 %, et de 6,6 % pour la clientèle étrangère. Et les prévisions pour la fin d’année sont bonnes, avec une croissance des réservations d’avions de 4,9 %. Surtout, les réservations en provenance des Etats-Unis sont en hausse de près de 15 % et de plus de 25 % en provenance du Japon. »
+Les chiffres, dans leur ensemble, sont certes solides, mais ils cachent une France à plusieurs vitesses. « Si l’on regarde le marché par segment, on remarque que les touristes d’affaires et de congrès sont sur une très bonne dynamique, explique Didier Arino. De même, l’hôtellerie de luxe est sur une bonne tendance, avec le retour des clients étrangers. Or ces deux segments sont concentrés en Ile-de-France et en Provence-Alpes-Côte d’Azur [PACA]. Pour les autres régions, c’est beaucoup plus compliqué. » 
+L’Ile-de-France et PACA ont réalisé un premier semestre record
+
+   
+
+
+De fait, l’Ile-de-France et PACA ont réalisé un premier semestre record. En Ile-de-France, le comité régional du tourisme indiquait, courant août, un résultat historique avec 17,1 millions de nuitées hôtelières pour les six premiers mois de l’année, en augmentation de 4,1 % sur un an, « et ce, malgré les grèves dans les transports ferroviaires qui ont affecté essentiellement les clientèles françaises et, dans une moindre mesure, quelques clientèles européennes de proximité », a relevé l’organisme francilien.
+En PACA, même écho. La région provençale a affiché, au premier semestre, « le meilleur niveau de fréquentation touristique jamais enregistré depuis dix ans », selon le comité régional du tourisme provençal, avec 10,1 millions de nuitées en hôtellerie. D’autres destinations comme Bordeaux, le Mont-Blanc ou le Val de Loire sont également très dynamiques. En revanche, les zones rurales et le littoral atlantique ont particulièrement souffert cet été, avec une stabilisation, voire une baisse importante des recettes pour les hôteliers et restaurateurs avec l’absence de la clientèle hexagonale.
+Au niveau général, « la dépense moyenne par visiteur international était en augmentation de 10,7 % l’an dernier, alors qu’en Espagne elle était en recul de près de 6 %, indique M. Lemoyne. Notre objectif est de passer de 54 milliards à 60 milliards d’euros de recettes au total en 2020. C’est le niveau atteint par l’Espagne [en 2017]. »
+
+        Lire aussi :
+         
+
+                Toujours plus de touristes à Paris, l’essor des visiteurs asiatiques « se tasse »
+
+
+
+Preuve de la dynamique des dépenses des clientèles internationales, Planet, l’un des spécialistes de la détaxe réservée aux visiteurs extra-européens, a constaté, pendant l’été, une croissance des ventes de 4 % à 6 % sur juillet et août. « Par rapport au reste de l’Europe, la France et l’Italie se distinguent franchement, alors que les ventes sont en baisse au Royaume-Uni », indique Denis Leroy, le PDG de Planet en France et pour le Benelux.
+« Mieux irriguer les territoires »
+Reste que la polarisation des visiteurs vers cinq à six zones spécifiques en France inquiète. Certains territoires flirtent avec le « surtourisme » tant décrié depuis quelques mois. « Les touristes internationaux, qui portent la croissance, ont tendance à visiter les lieux les plus connus, confirme le secrétaire d’Etat. Nous devons donc prévenir tout risque de saturation touristique en développant, par exemple, davantage la connectivité directe des grands aéroports des métropoles françaises avec les grandes nations mondiales. »
+Selon Didier Arino, le « surtourisme » est à relativiser en France, car le pays est plus divers que d’autres destinations. Pour le consultant, « nous avons surtout un problème de sous-tourisme. Si sur 10 % du territoire, nous avons un très grand nombre de voyageurs, dans les 90 % restants, la fréquentation est en berne. »
+
+        Lire aussi :
+         
+
+                Les Chinois dopent le tourisme en France
+
+
+
+Pour le gouvernement, « il vaut mieux irriguer les territoires », assure M. Lemoyne. Pour cela, Atout France, l’opérateur national qui gère la promotion du tourisme en dehors de nos frontières, développe avec les régions et la Banque des territoires (Caisse des dépôts et consignations) un dispositif, doté de 500 millions d’euros, afin de favoriser la montée en gamme des hébergements et équipements touristiques.
+
+Les chiffres
+158,9 milliards
+C’est, en euros, le chiffre d’affaires du tourisme en France pour l’année 2016, dernier millésime publié par l’Insee. Cela correspond à 7,1 % du produit intérieur brut.
+87 millions
+C’est le nombre de touristes internationaux accueillis en France en 2017. En 2018, ce nombre devrait dépasser 90 millions. Ils représentent environ 54 milliards d’euros de recettes pour le pays.
+307,2 millions
+C’est le nombre de nuitées enregistrées par l’ensemble de l’offre hôtelière française en 2017, en progression de 6,1 % par rapport à 2016.
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-8">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-8"> ¤ Les ouvrages nommés au Prix du livre RH, qui sera décerné jeudi 4 octobre, interrogent sur la place des salariés dans l’organisation de l’entreprise.
+<filname="PROF-0,2-3234,1-0,0-8"> ¤                     
+                                                   
+édition abonné
+
+
+Prix du livre RH: L’individu ballotté par les mutations du travail
+
+Les ouvrages nommés au Prix du livre RH, qui sera décerné jeudi 4 octobre, interrogent sur la place des salariés dans l’organisation de l’entreprise.
+
+
+
+LE MONDE
+ |    03.10.2018 à 11h51
+ • Mis à jour le
+03.10.2018 à 15h41
+    |
+
+            Anne Rodier
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+« Le fait de faire la tâche qui est la nôtre et de ne point être un touche-à-tout est justice » : cette réflexion que nous offre Platon dans La République est furieusement actuelle pour un DRH confronté aux mutations du travail nécessaires pour intégrer l’intelligence artificielle et autres nouvelles technologies dans leur entreprise.
+Dans la perspective d’une profonde refonte de l’organisation, quelle place doit avoir chaque salarié ? Chacun doit-il avoir sa propre tâche et s’y tenir ? Faut-il favoriser la polyvalence… les « multitâches », au risque de brouiller les frontières entre les métiers ? Le salarié doit-il étendre son activité au-delà de l’entreprise ? Que dit la littérature managériale du devenir de l’individu ?
+
+L’édition 2018 du Prix du livre RH, qui récompense chaque année le meilleur ouvrage en ressources humaines, apporte des éléments de réponse, en abordant des sujets aussi divers que le déplacement des frontières entre le travail et l’activité personnelle à l’heure où n’importe quelle microtâche se monnaye sur une plate-forme numérique ; la banalisation de l’addiction en entreprise pour résister au stress, pour « faire le job », mais aussi comme facteur d’intégration dans une communauté professionnelle ; les ressorts de l’engagement au travail ; et enfin la complexité de la fabrique des différences femmes-hommes dans l’entreprise.
+Casser les silos
+Dans son essai Les Nouvelles Frontières du travail à l’ère numérique (Seuil, 2017), le sociologue Patrice Flichy revient sur la banalisation de la polyactivité, interroge les liens entre hobby, passion et travail. Avec le numérique, chaque individu peut augmenter son domaine d’activités en mobilisant de nouvelles compétences acquises par autodidaxie. « Ainsi des zones de débordement apparaissent entre le travail dans l’entreprise et l’autre travail », décrit-il. Pour le sociologue, c’est la notion de travail qui change pour...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-9">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-9"> ¤ « Se doper pour travailler » décrit un phénomène d’une ampleur considérable et identifie les motivations des « consommateurs » ainsi que les réflexions menées dans les entreprises pour protéger les salariés.
+<filname="PROF-0,2-3234,1-0,0-9"> ¤                     
+                                                   
+édition abonné
+
+
+Pourquoi les salariés se droguent-ils au travail?
+
+« Se doper pour travailler » décrit un phénomène d’une ampleur considérable et identifie les motivations des « consommateurs » ainsi que les réflexions menées dans les entreprises pour protéger les salariés.
+
+
+
+LE MONDE
+ |    03.10.2018 à 11h41
+ • Mis à jour le
+03.10.2018 à 16h07
+    |
+
+            Anne Rodier
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Livre. Cannabis, amphétamines, alcool ? Quand la transformation du travail semble impossible, la transformation de soi apparaît comme une alternative. L’essai Se doper pour travailler (Erès) le démontre à travers plusieurs enquêtes de terrain sur l’usage des substances psychoactives (SPA) au travail, dans le BTP, la police, dans les cabinets d’avocats, dans les aéroports, en France, et à l’international.
+L’objectif de l’ouvrage est d’ancrer la prévention à l’analyse du travail réel dans une approche multidisciplinaire (sociologique, juridique, psychologique, ergonomique, etc.). Car « les usages de SPA répondent aux enjeux de l’activité de travail », souligne la chercheuse Dominique Lhuilier.
+
+Se doper pour travailler est le résultat d’un travail collectif, mené sous la direction des chercheurs Renaud Crespin (CNRS), Dominique Lhuilier (CNAM) et Gladys Lutz. Il décrit un phénomène d’une ampleur considérable et identifie les motivations des « consommateurs », les fonctions professionnelles du recours aux substances psychoactives, ainsi que les réflexions menées dans les entreprises sur l’organisation d’une action syndicale possible pour protéger les salariés, car l’enjeu de santé publique est important.
+Energie, concentration, productivité
+Le dopage au quotidien « est très fréquent », affirment les auteurs. Il n’est pas généralisé, mais il n’est réservé ni à une catégorie socio-professionnelle ni à un secteur d’activité. Des ouvriers, des cadres, des employés, des intérimaires consomment des drogues et des psychotropes.
+Pourquoi ? Pour se dépasser, pour garder le rythme, pour supporter la souffrance physique ou psychique, pour anesthésier les peurs, pour s’intégrer à une équipe, bref pour rester adaptés aux conditions de leur emploi. « Les produits leur permettent de trouver l’énergie qui leur fait défaut, la concentration qu’ils espèrent et la productivité qu’ils recherchent...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-10">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-10"> ¤ Le constructeur de voitures de sport a reçu un accueil prudent des investisseurs, mercredi, malgré une valorisation de plus de quatre milliards de livres.
+<filname="PROF-0,2-3234,1-0,0-10"> ¤                     
+                                                
+
+Aston Martin fait une entrée mitigée en Bourse de Londres
+
+Le constructeur de voitures de sport a reçu un accueil prudent des investisseurs, mercredi, malgré une valorisation de plus de quatre milliards de livres.
+
+
+
+LE MONDE
+ |    03.10.2018 à 11h40
+ • Mis à jour le
+03.10.2018 à 12h47
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+L’opération est l’une des plus attendues de l’année à Londres, et la plus importante dans le secteur automobile depuis celle du fabricant de voitures de luxe Ferrari à Wall Street en 2015 : le constructeur de voitures de sport Aston Martin est entré, mercredi 3 octobre, à la Bourse de Londres.
+Aston Martin fait figure d’exception au Royaume-Uni, puisque non seulement il devient le seul groupe automobile coté à la Bourse de Londres, mais il est également l’un des très rares constructeurs purement britanniques. Les investisseurs ont toutefois été prudents d’entrée, le titre enregistrant une forte baisse sur le marché, perdant 4,02 %, à 18,24 pence, vers 7 h 45 à Londres (9 h 45 à Paris). Une valeur bien inférieure à son prix d’entrée en Bourse, fixé à 19 livres (21,30 euros) par action, ce qui lui a octroyé une valorisation de 4,33 milliards de livres (4,82 milliards d’euros).
+« A court terme, cela pourrait suggérer que les actions ont pu être fixées à un prix trop élevé », compte tenu des performances financières actuelles du groupe, ce qui pousse certains investisseurs à céder leurs titres, relève Michael Hewson, analyste à CMC Markets. Le constructeur, qui a placé 25 % de son capital sur le marché, peut espérer une intégration au sein de l’indice vedette de la Bourse de Londres, le FTSE-100, pour peu que son action ne s’enfonce pas davantage.
+
+        Lire aussi :
+         
+
+          Décollage réussi pour l’Aston Martin DB11 Volante
+
+
+
+Plus de 5 000 véhicules vendus en 2017
+Cette entrée en Bourse « représente une étape historique pour Aston Martin », « nous sommes ravis de l’accueil positif que nous avons reçu de la part des investisseurs à travers le monde », se félicitait Andy Palmer, directeur général de la société, cité dans un communiqué publié avant l’ouverture. L’opération prévoit la vente d’actions de la part de ses principaux propriétaires, le fonds italien Investindustrial, les investisseurs koweïtiens d’Adeem Investments et la société d’investissement Primewagon.
+Après des difficultés en début de décennie, Aston Martin se porte mieux désormais. Il est même revenu dans le vert en 2017, pour la première fois depuis 2010, vendant plus de 5 000 véhicules, un record depuis 2008. Il prévoit en 2018 de produire entre 6 200 et 6 400 voitures et veut approcher les 10 000 dès 2020. Ses voitures se sont vendues au prix moyen de 167 000 livres au premier semestre — environ 187 000 euros.
+Fondé en 1913 par deux associés dans un atelier londonien, Aston Martin a gagné ses lettres de noblesse en participant très tôt à la compétition automobile, puis grâce à de nombreux films de la série James Bond, au cours desquels Sean Connery (avec Goldfinger, en 1964) ou Daniel Craig (dans Spectre, en 2015) ont piloté ses modèles.
+Le constructeur produit ses voitures exclusivement en Angleterre, notamment à Gaydon (comté de Warwickshire), où se trouve son siège social, et sur deux autres sites. Il prévoit d’ouvrir une nouvelle usine au pays de Galles au premier semestre 2019.
+
+        Lire aussi :
+         
+
+          Aston Martin Vanquish S, la fin d’une époque
+
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-11">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-11"> ¤ Christophe Falcoz analyse les concepts de parité, de mixité et d’égalité pour aider les entreprises à établir un diagnostic précis, indispensable pour avancer efficacement vers une « égalité réelle ».
+<filname="PROF-0,2-3234,1-0,0-11"> ¤                     
+                                                   
+édition abonné
+
+
+L’égalité en perspective
+
+Christophe Falcoz analyse les concepts de parité, de mixité et d’égalité pour aider les entreprises à établir un diagnostic précis, indispensable pour avancer efficacement vers une « égalité réelle ».
+
+
+
+LE MONDE
+ |    03.10.2018 à 11h37
+ • Mis à jour le
+03.10.2018 à 11h55
+    |
+
+            Anne Rodier
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Livre. « Au rythme actuel, il faudra attendre encore plus d’un siècle et demi au niveau mondial avant que les écarts de salaire entre femmes et hommes disparaissent. » Cette lointaine perspective décrite par Christophe Falcoz, professeur associé à l’IEA Lyon, ne l’a pas découragé pour se lancer dans l’étude de « l’égalité réelle » entre les femmes et les hommes au travail.
+Son manuel L’Egalité femmes-hommes au travail analyse distinctement les concepts de parité, de mixité et d’égalité pour aider les entreprises à établir un diagnostic précis, indispensable pour avancer efficacement vers une « égalité réelle ». Comment ? En redéfinissant, par exemple, les classifications, les grilles de compétences et les échelles de promotion.
+Pour Christophe Falcoz, la France est aujourd’hui « au milieu du gué », avec des écarts de salaires qui se résorbent, mais lentement et surtout, des femmes qui restent cantonnées dans un petit nombre de métiers. Ainsi, « seuls 19 métiers sur 86 sont mixtes ». L’observation des pratiques des entreprises montre en quoi la confusion, parfois sciemment entretenue, entre mixité et égalité peut-être source d’effets pervers.
+« A travail de valeur égale, salaire égal » en 1972
+Son ouvrage rappelle ce qui, jusque-là, a permis d’avancer vers l’égalité, à savoir les évolutions législatives. A la sortie de la deuxième guerre mondiale, les arrêtés Parodi (1945) ont ainsi fait disparaître la référence au salaire féminin, puis la loi de 1972 a instauré le principe « à travail de valeur égale, salaire égal ».
+
+Enfin, plus récemment la loi Copé-Zimmerman introduisit le quota de femmes dans les conseils d’administration. Mais les écarts de salaire restent importants et augmentent avec l’âge et les responsabilités.
+Le directeur de recherches en sciences de gestion accorde une place primordiale au rôle des responsables des ressources...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-12">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-12"> ¤ Après une année 2017 record et alors que le Mondial de l’auto ouvre ses portes le 4 octobre à Paris, les constructeurs s’apprêtent à affronter des temps plus incertains, du fait du Brexit, des nouvelles normes et du ralentissement du marché chinois.
+<filname="PROF-0,2-3234,1-0,0-12"> ¤                     
+                                                   
+édition abonné
+
+
+L’industrie automobile fait face à une série d’obstacles
+
+Après une année 2017 record et alors que le Mondial de l’auto ouvre ses portes le 4 octobre à Paris, les constructeurs s’apprêtent à affronter des temps plus incertains, du fait du Brexit, des nouvelles normes et du ralentissement du marché chinois.
+
+
+
+LE MONDE
+ |    03.10.2018 à 11h29
+    |
+
+                            Éric Béziat
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Les carrosseries rutilent, les conférences de presse s’enchaînent, les partenariats se nouent, le champagne pétille dans les flûtes… En ce mardi 2 octobre, toute l’industrie de la voiture, réunie pour le Mondial de l’automobile à Paris, porte de Versailles, semble fêter avec entrain des années de croissance ininterrompue et les promesses de bouleversements technologiques qui conduisent le monde vers une mobilité électrique, autonome et connectée.
+
+Pourtant, quelque chose a changé dans les têtes des patrons du secteur depuis quelque temps. Semblable à la bise désagréable qui souffle sur Paris, un léger vent d’inquiétude rafraîchit l’ambiance dans les stands. Jacques Aschenbroich, PDG du groupe français Valeo, l’un des grands équipementiers mondiaux, s’en fait l’écho. « Dès la fin juillet, nous avons alerté sur la montée de phénomènes négatifs, a expliqué le patron de Valeo au Monde quelques jours avant le Mondial : difficultés d’homologation des véhicules en Europe avec la nouvelle norme WLTP [d’homologation des véhicules], fragilisation du marché chinois, prix des matières premières, impacts des taxes aux Etats-Unis. »
+« Trois mois après, nous sommes en plein dedans, poursuit M. Aschenbroich. Tout le monde admet que le WLTP a été plus complexe que prévu à mettre en place et que ce problème va peser sur la production européenne au troisième trimestre. En Chine, les immatriculations ont baissé de 7 % en août. A ces difficultés immédiates s’ajoutent des incertitudes pour 2019. Devons-nous nous préparer à un Brexit dur au mois de mars ? La Chine va-t-elle flancher durablement ? La guerre commerciale entre Chine et Etats-Unis va-t-elle s’envenimer ? »
+Grandes inconnues
+Aller à la rencontre des PDG et des hauts cadres de l’automobile dans les pavillons du Parc des expositions de la porte de Versailles confirme cet état d’esprit. Les inconnues sont grandes, et cette industrie qui fonctionne...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-13">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-13"> ¤ Un triplé féminin préside désormais aux destinées des départements de recherche de trois célèbres institutions économiques internationales.
+<filname="PROF-0,2-3234,1-0,0-13"> ¤                     
+                                                
+
+Au FMI, à la Banque mondiale, à l’OCDE : les femmes prennent le pouvoir
+
+Un triplé féminin préside désormais aux destinées des départements de recherche de trois célèbres institutions économiques internationales.
+
+
+
+LE MONDE
+ |    03.10.2018 à 11h01
+ • Mis à jour le
+03.10.2018 à 13h13
+    |
+
+            Marie de Vergès
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Certains auront sans doute noté que Gita Gopinath, nommée par le Fonds monétaire international (FMI), lundi 1er octobre, au rang de chef économiste, est une éminente spécialiste des taux de change. D’autres, que cette Américaine est née et a grandi en Inde, comme l’un de ses prédécesseurs au FMI, Raghuram Rajan (2003-2006). D’autres, enfin, plus certainement, remarqueront qu’elle est une femme. La première, même, à devenir économiste en chef du Fonds. Et que grâce à elle, un triplé féminin préside désormais aux destinées des départements de recherche de trois célèbres institutions économiques internationales.
+
+        Lire aussi :
+         
+
+                Natacha Valla à la BCE : l’ambition tranquille
+
+
+
+De fait, en avril, la Banque mondiale a choisi une professeure d’économie de l’université Yale, Pinelopi Koujianou Goldberg, pour remplacer Paul Romer en tant que chef économiste de l’institution phare du développement. Quelques semaines plus tard, début juin, c’est l’Organisation de coopération et de développement économiques (OCDE) qui annonçait avoir jeté son dévolu sur la Française Laurence Boone, ancienne conseillère de François Hollande à l’Elysée.
+
+        Lire aussi :
+         
+
+                Laurence Boone, chef économiste de l’OCDE : « Les risques de crise sont en train de se matérialiser »
+
+
+
+Les défenseurs de la cause féminine en économie ne boudent pas leur plaisir face à cette nouvelle trinité. « Cela traduit, évidemment, une prise de conscience d’un ras-le-bol mondial par rapport aux discriminations. Et c’est d’autant plus réjouissant que l’économie est un champ de la science où le sexisme est particulièrement important, marqué par le conservatisme et un plafond de verre solide », réagit Emmanuelle Auriol, présidente du comité Women in Economics au sein de la European Economic Association (EEA), une association d’économistes du continent.
+Une influence sur l’orientation de la recherche
+Le débat a fortement rebondi ces derniers mois, soutenu par une batterie de statistiques. En Europe, seulement 20 % des économistes confirmés sont des femmes, et elles ne sont que 15 % parmi les professeurs à plein temps aux Etats-Unis. Encore un exemple ? Une seule représentante de la gent féminine a reçu le prix Nobel d’économie depuis sa création, en 1969 (l’Américaine Elinor Ostrom, en 2009).
+Interrogée dans les médias, Gita Gopinath a affirmé n’avoir jamais, elle-même, souffert de discrimination féminine – quand bien même elles ne sont qu’une poignée de femmes professeures titulaires dans le département de Harvard où elle enseigne aujourd’hui.
+
+        Lire aussi :
+         
+
+                « Les modèles économiques ne sont en rien des boules de cristal »
+
+
+
+Au-delà des questions de sous-représentation, certains espèrent que ces nominations en cascade pourront influencer le cœur et l’orientation de la recherche économique. Car les enquêtes démontrent que les femmes, en moyenne, ont une approche un peu différente de leurs homologues masculins. « Nous avons moins tendance à croire que le marché se régule tout seul, nous sommes généralement plus interventionnistes et aussi plus redistributives », résume Soledad Zignago, économiste à la Banque de France et impliquée dans ce débat.
+La littérature scientifique montre aussi que les femmes s’intéressent davantage à des sujets tels que l’éducation, la santé, les inégalités ou le genre. Autant de sujets – cela tombe bien – sur lesquels le FMI, comme la Banque mondiale et l’OCDE, est supposé s’exprimer.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-14">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-14"> ¤ La Commission veut faire entendre raison à un gouvernement qui, en prévoyant de laisser filer le déficit, la défie, sans pour autant provoquer une crise politique. Un exercice d’équilibriste délicat.
+<filname="PROF-0,2-3234,1-0,0-14"> ¤                     
+                                                
+
+Budget italien : Bruxelles maintient la pression sur Rome
+
+La Commission veut faire entendre raison à un gouvernement qui, en prévoyant de laisser filer le déficit, la défie, sans pour autant provoquer une crise politique. Un exercice d’équilibriste délicat.
+
+
+
+LE MONDE
+ |    03.10.2018 à 10h47
+ • Mis à jour le
+03.10.2018 à 11h14
+    |
+
+            Cécile Ducourtieux (Bruxelles, bureau européen)
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Les invectives fusent ; la Commission de Bruxelles reste ferme. « Nous devons éviter que l’Italie réclame des conditions spéciales qui conduiraient à la fin de l’euro si elles étaient concédées à tous », avait prévenu Jean-Claude Juncker, le président de l’institution, lundi 1er octobre, quatre jours après l’annonce d’un accord entre le Mouvement 5 étoiles (M5S, « antisystème ») et la Ligue (extrême droite) visant à laisser filer le déficit public transalpin à 2,4 % du produit intérieur brut (PIB) entre 2019 et 2021 – loin des 0,8 % espérés par Bruxelles dès l’an prochain.
+La réponse du vice-premier ministre Matteo Salvini n’a pas tardé. « Je parle avec des personnes sobres qui ne font pas de comparaisons ne tenant pas la route », a-t-il répliqué, mardi, attaquant M. Juncker sur son prétendu penchant pour l’alcool.
+La Commission sait qu’elle fait face à un gros problème avec l’Italie, troisième économie de la zone euro, pays fondateur de l’Union et dont le gouvernement populiste donne le sentiment, non seulement de ne pas vouloir respecter les règles du pacte de stabilité et de croissance, mais aussi de chercher le conflit avec « Bruxelles » et « les marchés », représentants patentés du « système ».
+« Ouvert à un dialogue »
+Pas question cependant d’adopter une ligne conciliante. Le commissaire européen à l’économie, Pierre Moscovici, avait déclaré dès vendredi qu’en l’état le projet de budget italien paraissait « hors des clous ». Son collègue letton Valdis Dombrovskis, vice-président de la Commission, a renchéri, mardi, expliquant que l’exécutif européen restait « ouvert à un dialogue » avec l’Italie, tout en soulignant que « ce que nous observons pour le moment ne semble pas être compatible avec le pacte de stabilité et de croissance ».
+En mettant la pression sur la coalition à Rome, afin que son projet de budget 2019 soit révisé, la Commission poursuit au moins deux objectifs, et envoie autant de messages aux acteurs financiers. Elle tient à faire respecter le pacte de stabilité et de croissance, une loi commune très contestée, mais encore considérée comme le seul outil de convergence des économies de la zone euro. Elle veut en outre préserver la stabilité de ladite zone, qui pourrait pâtir d’une perte de confiance des investisseurs dans la dette italienne.
+Faire entendre raison à un gouvernement qui la défie, sans provoquer de crise politique avec Rome et en empêchant une crise financière… Pour la Commission Juncker, pourtant rompue aux tempêtes, le pilotage du cas « Italie » s’annonce excessivement délicat.
+
+        Lire aussi :
+         
+
+                La confusion autour du budget italien inquiète les Européens
+
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-15">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-15"> ¤ Les enchères record enregistrées en Italie sur la vente de fréquences de téléphonie mobile 5G font resurgir le spectre de la crise des télécoms, alors que l’endettement des opérateurs s’envole, explique Philippe Escande, éditorialiste économique au « Monde ».
+<filname="PROF-0,2-3234,1-0,0-15"> ¤                     
+                                                   
+édition abonné
+
+
+« Dans les télécoms, c’est plutôt la soupe à la grimace que l’enthousiasme des pionniers »
+
+Les enchères record enregistrées en Italie sur la vente de fréquences de téléphonie mobile 5G font resurgir le spectre de la crise des télécoms, alors que l’endettement des opérateurs s’envole, explique Philippe Escande, éditorialiste économique au « Monde ».
+
+
+
+LE MONDE
+ |    03.10.2018 à 10h35
+ • Mis à jour le
+03.10.2018 à 10h36
+    |
+
+            Philippe Escande
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Une fois, deux fois, adjugé ! Le marteau du commissaire-priseur est tombé à Rome, et les vendeurs se frottent les mains. Un record. La vente aux enchères de fréquences hertziennes pour la téléphonie mobile de 5e génération (5G) par le gouvernement italien a dépassé les espérances. Le régulateur des télécommunications attendait 2,5 milliards d’euros, il va empocher 6,5 milliards. Cette somme considérable sera payée par les opérateurs téléphoniques en compétition sur le sol italien. Les deux premiers, Telecom Italia et le britannique Vodafone, ont ouvert en grand leur portefeuille et payé, chacun, 2,4 milliards. L’italien Wind Tre (517 millions) et le français Iliad/Free (1,2 milliard) se partagent le reste.
+
+Il faut dire que la 5G porte, à elle seule, la promesse d’un nouveau territoire pour des opérateurs téléphoniques en pleine crise existentielle. Elle permettra de télécharger un film en quelques secondes, résoudra le problème actuel de la saturation des réseaux et, surtout, ouvrira le marché à de nouvelles applications prometteuses, comme l’Internet des objets ou la voiture autonome. Vodafone a fait, en septembre, la démonstration de la première conversation en hologramme par téléphone mobile, entre son siège de Newbury (sud) et Manchester (nord-ouest). Comme en 1876, quand Graham Bell appelait son assistant dans la pièce à côté : la première conversation téléphonique de l’Histoire.
+La guerre fait rage
+Mais, pour l’instant, c’est plutôt la soupe à la grimace que l’enthousiasme des pionniers qui prévaut. Cette explosion des prix rappelle aux anciens la folie des enchères Universal Mobile Telecommunications System, la nouvelle norme de l’époque, dont les prix astronomiques avaient précipité le secteur dans la plus grave crise de son histoire. Les sommes en jeu sont moins considérables, mais l’endettement des opérateurs inquiète, notamment celui de Telefonica et de Telecom Italia. Tous les acteurs sont en effet pris dans le...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-16">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-16"> ¤ Les prévisions budgétaires de Rome soulèvent le scepticisme à Bruxelles et parmi les investisseurs. Les coûts d’emprunt du pays sont repartis à la hausse.
+<filname="PROF-0,2-3234,1-0,0-16"> ¤                     
+                                                   
+édition abonné
+
+
+La confusion autour du budget italien inquiète les Européens
+
+Les prévisions budgétaires de Rome soulèvent le scepticisme à Bruxelles et parmi les investisseurs. Les coûts d’emprunt du pays sont repartis à la hausse.
+
+
+
+LE MONDE
+ |    03.10.2018 à 10h35
+ • Mis à jour le
+03.10.2018 à 13h25
+    |
+
+            Marie Charrel et 
+Jérôme Gautheret (Rome, correspondant)
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Le document se présente comme un texte d’environ 150 pages, censé fixer le cadre du budget italien pour 2019, et les objectifs poursuivis pour les deux années suivantes. Enfin, il devrait se présenter ainsi, parce que, à dire vrai, personne ne l’a encore vu. On parle de versions concurrentes rédigées par des responsables politiques plus que par les fonctionnaires du Trésor, dans lesquelles les principaux chiffres restent en blanc, ou bien sont écrits au crayon à papier…
+Dans la soirée du jeudi 27 septembre, à Rome, Luigi Di Maio et les autres ministres issus du Mouvement 5 étoiles (M5S, « antisystème ») étaient apparus sur le balcon du palais Chigi, siège de la présidence du conseil, pour célébrer l’accord auquel ils étaient parvenus avec leur partenaire de coalition, la Ligue (extrême droite), et le ministre de l’économie, Giovanni Tria. Le « budget du peuple », qui, « pour la première fois de l’histoire », était « au service des Italiens », semblait ficelé.
+
+Depuis, plus rien n’est clair. Les réunions au sommet se multiplient et des informations contradictoires circulent, dans un désordre absolu. Ainsi, on a appris, mardi 2 octobre, que le revenu de citoyenneté, pierre angulaire du programme du M5S, verrait son montant divisé par deux pour qui est propriétaire de sa résidence principale, tandis qu’il serait réservé aux Italiens « résidents depuis au moins dix ans » et refusé « aux Roms et aux migrants » – deux limites difficilement conciliables avec les normes européennes…
+« Sans réformes structurelles substantielles, une accélération de la croissance est peu crédible », juge Lorenzo Codogno, ex-économiste en chef du Trésor italien
+Mardi soir, Luigi Di Maio affirmait que la version finale du texte serait présentée mercredi au Parlement. Il fustige ceux qui contestent le document avant de l’avoir lu, tout en se montrant évasif sur le détail du projet. Les grandes lignes ? Elles « ne...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-17">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-17"> ¤ A l’occasion du Mondial de l’auto, portrait de Mathieu Poirel, élève ingénieur spécialisé dans ce secteur, qui compte relever le défi de l’intelligence artificielle embarquée.
+<filname="PROF-0,2-3234,1-0,0-17"> ¤                     
+                                                
+
+« C’est à notre génération de trouver les réponses pour la voiture autonome »
+
+A l’occasion du Mondial de l’auto, portrait de Mathieu Poirel, élève ingénieur spécialisé dans ce secteur, qui compte relever le défi de l’intelligence artificielle embarquée.
+
+
+
+LE MONDE
+ |    03.10.2018 à 10h32
+ • Mis à jour le
+03.10.2018 à 10h58
+    |
+
+            Eric Nunès
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Le premier des rêves d’enfant de Mathieu Poirel, concernant son projet de vie, c’était de devenir un « Top Gun » tricolore, un héros moderne qui brasse les nuages aux commandes d’un Rafale. Manque de chance, cette option a été balayée par « une mauvaise vue ». Le jeune garçon n’est donc pas apte à suivre, dans les cieux, les volutes laissées par Saint-Exupéry. Son plan B, juste après fendre l’air à Mach 2 : imaginer la voiture de demain. A 21 ans, le projet se dessine très précisément.
+Souriant et sérieux, lunettes cerclées de bois et allure de premier de la classe, Mathieu Poirel est étudiant en 4e année d’ingénierie automobile à l’Ecole supérieure des techniques aéronautiques et de construction automobile (Estaca), sur le campus de Paris-Saclay. La voiture, il est tombé dedans quand il était petit : ses deux parents travaillent en effet dans le secteur.
+« C’est à notre génération de trouver les réponses »
+Quel est le truc le plus dingue sur lequel veut travailler un apprenti ingénieur ? Réaliser la plus belle voiture du monde ? Inutile, elle existe déjà, « c’est la Ferrari 250 GTO 1963. Un moteur robuste et élégant surmonté d’une carrosserie où toutes les lignes ont été pensées par Enzo Ferrari », rappelle l’étudiant. C’était il y a plus de cinquante ans. L’avenir de l’automobile est ailleurs.
+« Il existe 210 écoles d’ingénieurs en France, j’aurais pu choisir un autre secteur. Mais, ici, j’assouvis ma passion. » Mathieu Poirel
+« Le futur de notre industrie, c’est la voiture autonome, tranche le futur ingénieur. Comment va-t-elle s’intégrer dans le réseau routier, dans la circulation ? Comment les usagers vont-ils s’habituer et accepter cette évolution du transport individuel ? Ce sont les problématiques auxquelles les ingénieurs sont confrontés et c’est à notre génération de trouver les réponses. »
+Industrie plus que centenaire, l’automobile garde son pouvoir de fascination. Les défis technologiques, sociaux et environnementaux qu’elle va devoir relever attisent l’intérêt des élèves ingénieurs. « Il existe 210 écoles d’ingénieurs en France, j’aurais pu choisir un autre secteur », reconnaît Mathieu Poirel. D’autres voies sont encore possibles, et beaucoup seraient potentiellement plus rémunératrices que celle de l’industrie automobile, lui fait-on observer. « Mais, ici, j’assouvis ma passion », répond-il. Etre ingénieur automobile, « c’est s’impliquer dans des réalisations concrètes, un travail d’équipe avec un investissement partagé et illimité ».
+L’intelligence artificielle qui contrôlera les transports individuels de demain, il en sera probablement l’un des concepteurs : « C’est la seule révolution dans l’automobile depuis vingt ans. » Hors de question de ne pas y participer. Le « Top Gun » s’est trouvé un nouveau défi.
+
+        Lire aussi :
+         
+
+                Les salons de l’automobile en perte de vitesse
+
+
+
+
+« Le Monde » organise son Salon des grandes écoles les 10 et 11 novembre
+La 13e édition du Salon des grandes écoles (SaGE) aura lieu samedi 10 et dimanche 11 novembre à Paris, aux Docks, cité de la mode et du design (13e arrondissement), de 10 heures à 18 heures.
+Plus de cent cinquante écoles de commerce, d’ingénieurs, IAE, IEP, écoles spécialisées et prépas y seront représentées, permettant d’échanger sur les différents programmes et leur accessibilité (post-bac, post-prépa ou après un bac + 2, + 3 ou + 4). Lycéens, étudiants et parents pourront également assister à des conférences thématiques animées par des journalistes du Monde Campus. Une équipe de vingt coachs pourra également conseiller lycéens, étudiants et parents pour définir leur projet d’orientation, préparer les concours ou rédiger leur CV.
+L’entrée en sera gratuite, la préinscription en ligne est conseillée pour accéder plus rapidement au Salon.
+Liste des exposants et informations pratiques sont à retrouver sur le site Internet du SaGE.
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-18">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-18"> ¤ Pour l’ancien ministre de la culture, dans une tribune au « Monde », à l’initiative de la loi adoptée en 2003, considérer les dispositions de ce texte comme des niches fiscales est insupportable.
+<filname="PROF-0,2-3234,1-0,0-18"> ¤                     
+                                                   
+édition abonné
+
+
+Jean-Jacques Aillagon : « Ne touchons qu’avec prudence à la loi sur le mécénat »
+
+Pour l’ancien ministre de la culture, dans une tribune au « Monde », à l’initiative de la loi adoptée en 2003, considérer les dispositions de ce texte comme des niches fiscales est insupportable.
+
+
+
+LE MONDE
+ |    03.10.2018 à 10h12
+ • Mis à jour le
+03.10.2018 à 10h59
+    |
+
+Jean-Jacques Aillagon (Ancien ministre de la culture)
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Tribune. La loi sur le mécénat et les fondations, loi du 1er août 2003 que j’ai eu l’honneur de porter devant le Parlement, fait aujourd’hui l’objet de débats [dans son projet de loi de finances 2019 présenté lundi 24 septembre, le gouvernement envisage notamment de diminuer les réductions d’impôt dont bénéficient les entreprises qui font du mécénat]. Ces débats sont bienvenus. Je n’aurai pas la prétention de penser que la loi à laquelle certains accolent mon nom est un terminus et qu’elle ne serait pas susceptible d’être en certains points améliorée.
+Que l’on se garde aussi de céder à l’« overdose législative », l’un des grands maux politiques de notre pays
+Cependant, que l’on n’oublie pas que cette loi porte sur le mécénat en faveur de toutes les causes d’intérêt général et non sur le mécénat au bénéfice des seuls projets culturels, même si c’est un ministre de la culture qui en a eu l’initiative. C’est l’orientation exclusive du débat actuel sur les seules modalités du mécénat culturel qui m’amène à faire ce rappel, craignant d’ailleurs que cette obsession ne soit que l’une des expressions supplémentaires de la détestation de certains pour la dépense culturelle de la collectivité nationale.
+Que l’on se garde aussi de céder à l’« overdose législative », l’un des grands maux politiques de notre pays, le Parlement s’y épuisant dans un activisme qui, comme celui de Pénélope, défait la nuit ce qui a été fait le jour. Les bonnes lois ne sont-elles pas des lois stables et sûres, celles dont la société s’approprie l’usage, ce qui est le cas de la loi sur le mécénat ?
+Inconséquence
+Ce qui est, par ailleurs, insupportable, c’est l’inconséquence avec laquelle certains, désignant comme des « niches » les dispositions fiscales de la loi, manifestent leur incompréhension totale de la philosophie politique qui en a soutenu l’élaboration. Cette loi affirme que la prise en charge de l’intérêt général ne relève pas...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-19">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-19"> ¤ Le sociologue et l’anthropologue Alain Caillé et Jean-Edouard Grésy formulent une hypothèse, à la croisée de l’anthropologie, de la philosophie et de la psychologie : « les troubles psychiques résultent d’un mauvais ajustement entre les moments du donner, du recevoir et du rendre ».
+<filname="PROF-0,2-3234,1-0,0-19"> ¤                     
+                                                   
+édition abonné
+
+
+Au cœur de la dimension informelle du travail
+
+Le sociologue et l’anthropologue Alain Caillé et Jean-Edouard Grésy formulent une hypothèse, à la croisée de l’anthropologie, de la philosophie et de la psychologie : « les troubles psychiques résultent d’un mauvais ajustement entre les moments du donner, du recevoir et du rendre ».
+
+
+
+LE MONDE
+ |    03.10.2018 à 09h04
+    |
+
+                            Margherita Nasi
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Livre. Pourquoi est-ce que ça va mal ? Comment ? Que faire pour que ça aille mieux ? C’est à ces questions que répondent, chacune à leur manière, les multiples écoles de psychologie clinique, de psychanalyse, de développement personnel, de coaching, etc. Il existe pourtant une autre approche à ces questions, à peu près jamais utilisée : la question du lien entre don et reconnaissance.
+Cette approche trouve son origine chez un anthropologue : Marcel Mauss, auteur, en 1925, du célèbre Essai sur le don, dans lequel il montre que les sociétés archaïques ne reposaient pas sur le marché, mais sur le don, sur ce qu’il appelait la triple obligation de donner, recevoir et rendre les présents. « Obligation est faite aux acteurs sociaux, pour qu’ils deviennent pleinement sociaux et soient reconnus comme tels, de se montrer généreux », résument Alain Caillé et Jean-Edouard Grésy.
+Dans Œil pour œil, don pour don, le sociologue et l’anthropologue formulent une hypothèse, à la croisée de l’anthropologie, de la philosophie et de la psychologie : « les troubles psychiques résultent d’un mauvais ajustement entre les moments du donner, du recevoir et du rendre ».
+Attente d’une juste reconnaissance
+En permanence, et dans toutes les relations sociales, on attend la juste reconnaissance, explicite parfois, implicite le plus souvent. Toute existence s’inscrit au cœur du cycle demander, donner, recevoir et rendre, et les troubles psychiques sont autant de blocages dans ce cycle fondamental. « Toujours prompts à donner, nous ne savons pas recevoir, ni même rendre. Ou encore, enfermés dans un sentiment de dette ou de faute, nous nous sentons en permanence obligés de rendre. »
+
+Après avoir présenté, non sans humour, les ratés du donner, du recevoir et du rendre, Alain Caillé et Jean-Edouard Grésy se demandent ce qui engendre ces échecs et comment il est possible d’espérer en sortir. Une...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/10/03/19-20">
+<filnamedate="20181003"><AAMM="201810"><AAMMJJ="20181003"><AAMMJJHH="2018100319">
+<filname="SURF-0,2-3234,1-0,0-20"> ¤ Devenue premier partenaire commercial du continent et un puissant créancier, la Chine inquiète aussi bien en Afrique qu’aux Etats-Unis.
+<filname="PROF-0,2-3234,1-0,0-20"> ¤                     
+                                                   
+édition abonné
+
+
+Dette africaine et casse-tête chinois
+
+Devenue premier partenaire commercial du continent et un puissant créancier, la Chine inquiète aussi bien en Afrique qu’aux Etats-Unis.
+
+
+
+LE MONDE
+ |    03.10.2018 à 08h14
+    |
+
+            Marie de Vergès
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+En Afrique aussi, on peut aussi atteindre le point Godwin. « Chine égale Hitler » : ce panneau brandi, début septembre, dans les rues de Lusaka, la capitale zambienne, a valu à son auteur, James Lukuku, d’être envoyé illico pour quelques heures derrières les barreaux. « Les Chinois ont pris le contrôle de notre économie par le biais de dettes criminelles », s’est justifié plus tard ce chef d’une petite formation politique, interrogé par l’AFP.
+James Lukuku était seul à battre le pavé. Ses doléances rejoignent pourtant les inquiétudes de ceux, toujours plus nombreux, qui accusent le géant asiatique de piéger une partie de l’Afrique en la poussant à contracter des crédits impossibles à rembourser. Ce que l’administration américaine, en pleine rivalité économique avec Pékin, a baptisé la « diplomatie de la dette ». La Zambie est un cas d’école. Dans ce pays d’Afrique australe, deuxième producteur de cuivre du continent, la Chine a construit à tout-va ces dernières années. Des routes ou terminaux d’aéroports financés à grand renfort de prêts chinois. Au risque, selon la rumeur, de voir l’Etat incapable d’honorer ses traites et contraint de céder à ce puissant créancier le contrôle de certains actifs sensibles, telle la compagnie nationale d’électricité.
+
+Quinze pays africains en situation de surendettement
+Des pays se retrouvant « enchaînés par la dette » à cause d’une Chine en pleine « guerre économique » : sans prendre plus de gants que James Lukuku, voici aussi ce que dénonçait fin septembre Ray Washburne, patron de l’Overseas Private Investment Corporation (OPIC), l’agence de développement américaine, dans une interview au Financial Times. Ce républicain y confirmait le plan de Washington de lancer une institution capable d’investir 60 milliards de dollars (52 milliards d’euros) dans les pays en développement. Une initiative dont le montant fait étrangement écho à l’enveloppe promise...
+
+
+
+
+                        
+
+                        
+

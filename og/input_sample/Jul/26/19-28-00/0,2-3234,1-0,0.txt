@@ -1,0 +1,1967 @@
+<FILE-date="2018/07/26/19">
+
+<article-nb="2018/07/26/19-1">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-1"> ¤ Après avoir chuté à la clôture de Wall Street, mercredi soir, le titre du réseau social a perdu plus de 100 milliards de dollars de capitalisation boursière, jeudi.
+<filname="PROF-0,2-3234,1-0,0-1"> ¤                     
+                                                
+
+Facebook s’effondre de nouveau à l’ouverture de la Bourse à New York
+
+Après avoir chuté à la clôture de Wall Street, mercredi soir, le titre du réseau social a perdu plus de 100 milliards de dollars de capitalisation boursière, jeudi.
+
+
+
+Le Monde
+ |    26.07.2018 à 17h22
+ • Mis à jour le
+26.07.2018 à 17h44
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Touché de plein fouet par des résultats et prévisions décevants, le titre du réseau social Facebook a plongé à l’ouverture de la Bourse de New York, jeudi 26 juillet, et emportait dans son sillage plus de 100 milliards de dollars de capitalisation boursière.
+Après avoir perdu jusqu’à 19,6 % en tout début de séance, le titre de l’entreprise dévissait vers 13 h 50 (heure de Paris) de 18,34 % à 177,61 dollars. A ce niveau, cela correspond à une perte de 115 milliards de dollars de capitalisation boursière.
+Forte d’une envolée de 23,3 % depuis le début de l’année, l’action Facebook avait pourtant grimpé mercredi à un niveau inédit, atteignant 217,50 dollars. Mais le groupe, englué depuis plusieurs mois dans les polémiques, a pris les investisseurs et analystes financiers de court mercredi soir en annonçant ses résultats du deuxième trimestre.
+Même si le nombre d’utilisateurs mensuels actifs de Facebook s’affichait au 30 juin en hausse de 11 % sur un an à 2,23 milliards, et que son chiffre d’affaires sur la période a progressé de 42 % à 13,2 milliards, les observateurs s’attendaient à mieux.
+
+        Lire aussi :
+         
+
+                Le ralentissement de Facebook sévèrement sanctionné par les marchés
+
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-2">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-2"> ¤ Donald Trump et Jean-Claude Juncker ont annoncé une nouvelle négociation de libre-échange entre l’Europe et les Etats-Unis.
+<filname="PROF-0,2-3234,1-0,0-2"> ¤ 
+<article-nb="2018/07/26/19-3">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-3"> ¤ EN UN GRAPHIQUE – Malgré une faible augmentation au dernier trimestre, la tendance est plutôt à une baisse (modeste) du chômage depuis l’arrivée d’Emmanuel Macron à l’Elysée.
+<filname="PROF-0,2-3234,1-0,0-3"> ¤                     
+                                                
+
+Le chômage diminue légèrement depuis le début de la présidence d’Emmanuel Macron
+
+EN UN GRAPHIQUE – Malgré une faible augmentation au dernier trimestre, la tendance est plutôt à une baisse (modeste) du chômage depuis l’arrivée d’Emmanuel Macron à l’Elysée.
+
+
+
+Le Monde
+ |    26.07.2018 à 14h51
+ • Mis à jour le
+26.07.2018 à 15h17
+    |
+
+                            Thibaut Faussabry
+
+
+
+
+
+
+
+
+                        
+
+
+Le dernier bilan de Pôle emploi, publié le 25 juillet, n’est guère réjouissant pour le gouvernement : au deuxième trimestre 2018, le nombre de chômeurs a légèrement augmenté, après avoir connu une baisse substantielle en début d’année.
+Entre mars et juin, il a crû de 0,2 % (+ 6 700 personnes, en comptant la France métropolitaine et les DOM-COM, hors Mayotte), et de 0,1 % (+ 4 600, pour la seule France métropolitaine), selon l’indicateur le plus souvent utilisé, qui compte les demandeurs d’emploi sans aucune activité et tenus de chercher un emploi (catégorie A).
+Mais, au-delà de ces chiffres conjoncturels, la tendance est plutôt à la baisse du chômage depuis le début du quinquennat d’Emmanuel Macron, même si celle-ci reste modeste.
+Le chômage est en recul de 1,1 % si l’on considère uniquement la catégorie A, mais de seulement 0,4 % en intégrant l’ensemble des chômeurs, y compris ceux qui travaillent partiellement.
+
+
+	#container_15325356620{
+		padding:5px 5px 0px 10px;
+		width:100%;
+		background-color:#f5f6f8;
+	}
+	#graphe_15325356620{
+		height:500px;
+	}
+	#container_15325356620 .titre{
+		position:relative;margin: 10px 0;
+		font-size: 1.5rem;
+		font-family: "Helvetica Neue", Helvetica, Arial, FreeSans, sans-serif;
+		font-weight: bold;
+		position: relative;
+		}
+	#container_15325356620 .subtitle{
+		display:block;
+		margin: 10px 0;
+		font-size: 1.3rem;
+}
+	.highcharts-tooltip span {
+		height: auto;
+		min-width: 170px;
+		z-index: 9998!important;
+		overflow: auto;
+		opacity: 1;
+		white-space: normal !important;
+	}
+	#container_15325356620.highcharts-xaxis-labels text
+	{
+		font-size: 10px!important;
+}
+	#container_15325356620.highcharts-legend-item text
+	{
+		font-size: 11px!important;
+	}
+	.tooltiplarge {
+		width: 230px;
+	}
+	#container_15325356620 .credits{
+		text-align: right;
+		margin-right: 5px;
+		padding-bottom: 5px;
+	}
+
+
+
+Une baisse de 1,1 % du nombre de demandeurs d'emploi de catégorie A depuis un an
+Nombre de personnes inscrites à Pôle emploi par trimestre en France (sauf Mayotte), corrigé des variations saisonnières et des jours ouvrables.
+
+Source : Pôle emploi
+
+
+
+require(['highcharts/4.1.9','highcharts-standalone'], function() {
+	Highcharts.setOptions({
+		lang: {
+			decimalPoint: ',',
+			thousandsSep: ' ',
+			months: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin',  'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
+			shortMonths: [ 'jan.' , 'fév.' , 'mars' , 'avr.' , 'mai' , 'juin' , 'juil.' , 'août' , 'sept.' , 'oct.' , 'nov.' , 'déc.'],
+			weekdays: ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'],
+			noData: 'Pas de données à afficher', 
+			numericSymbols: [null, 'M', 'G', 'T', 'P', 'E']
+		}
+	});
+	var annotation_spe = {
+		"Catégorie A":"- 1,1 %",
+		"Catégories A-B-C":"+ 1,5 %",
+		"Catégories A-B-C-D-E":"- 0,4 %",
+	};
+
+	var chart = new Highcharts.Chart({
+	chart:{
+		renderTo:"graphe_15325356620",
+		backgroundColor: "rgba(255,255,255,0)",
+		borderRadius: 0,
+		alignTicks:false,
+		type: "line",
+		spacingBottom: 10,
+		style:{
+			fontFamily:'Helvetica,arial,sans-serif'
+		}
+	},
+	colors:["#0386c3","#FFc832","#ff3232","#F19300","#28beaa","#285a82","#821400","#191919"],
+	credits:{
+		enabled:false},
+	title: {
+		text: ""
+	},
+	subtitle: {
+		text: ""
+	},
+	plotOptions: {
+		series: {
+			dataLabels: {
+				inside: false,
+				allowOverlap: true,
+				formatter: function(){
+					if(this.x=="2017-T4") return "-------- "+annotation_spe[this.series.name]+" --------";
+					else return "";
+				},
+				style: {
+					textShadow: 'none',
+					color: '#FB5100'
+				},
+				y: -3
+			},
+			connectNulls:true,
+			stacking:null,
+			marker:{
+				symbol:"circle",
+				fillColor:"#FFF",
+				lineWidth: 2,
+				radius:3,
+				lineColor:null
+			},
+			states:{
+				hover:{
+					lineWidthPlus : 0
+				}
+			}
+		},
+		pie:{
+			dataLabels:{
+				distance:30, 
+				softConnector:false
+			}
+		}
+	},
+	yAxis:[{
+		id:"0",
+		allowDecimals:false,
+		type:"linear",
+		title: {
+			text:""
+		},
+		labels: {
+			useHTML: false,
+			format: "{value} ",
+			zIndex: -1
+		},
+		min: 0.1,
+		max: 8000000,
+		startOnTick: true,
+		endOnTick:true,
+		reversed:false,
+		plotLines: [{
+			color: "#cccccc",
+			width: "",
+			value: "" ,
+			label: {
+				useHTML: false,
+				text:"",
+				align: "left",
+				x: -3
+			}
+		}],
+		plotBands: [{
+			color: "#cccccc",
+			from: "",
+			to: "",
+			label: {
+				useHTML: false,
+				text: "",
+				textAlign: "",
+				align: "left",
+				verticalAlign: "top",
+				x: "",
+				y: -5
+			}
+		}]
+	},{
+		id:"1",
+		allowDecimals:false,
+		type:"linear",
+		title: {
+			text:""
+		},
+		labels: {
+			useHTML: false,
+			format: "{value} ",
+			zIndex: -1
+		},
+		min: null,
+		max: null,
+		startOnTick: true,
+		endOnTick:true,
+		reversed:false,
+		opposite:true
+	}],
+	xAxis: {
+		type: "linear",
+		 categories:["2015-T1","2015-T2","2015-T3","2015-T4","2016-T1","2016-T2","2016-T3","2016-T4","2017-T1","2017-T2","2017-T3","2017-T4","2018-T1","2018-T2"],
+		title: {
+			text: ""
+		},
+		labels: {
+			useHTML: false,
+			step: "",
+			format: "{value}"
+		},
+		plotLines: [{
+			color: "#cccccc",
+			width: "",
+			value: "",
+			label: {
+				useHTML: false,
+				text: "",
+				textAlign: "",
+				verticalAlign: "top",
+				x: 5,
+				y: ""
+			}
+		}],
+		plotBands: [{
+			color: "rgba(0,0,0,.05)",
+			from: 9,
+			to: 14,
+			label: {
+				useHTML: false,
+d'Emmanuel Macron",
+				textAlign: "center",
+				align: "center",
+				verticalAlign: "top",
+				x: "",
+				y: 15,
+				style:{
+					fontWeight:'bold',
+					color:'#FB5100'
+				}
+			}
+		}]
+	},
+	legend:{
+		enabled:1,
+		layout:"horizontal", 
+		verticalAlign:"bottom", 
+		align:"center",
+		y:-10
+	},
+
+	series:[
+  {
+    "name": "Catégorie A",
+    "color": "#0386c3",
+    "data": [
+      [
+        "",
+        3765500
+      ],
+      [
+        "",
+        3810200
+      ],
+      [
+        "",
+        3812500
+      ],
+      [
+        "",
+        3839300
+      ],
+      [
+        "",
+        3821300
+      ],
+      [
+        "",
+        3776000
+      ],
+      [
+        "",
+        3766700
+      ],
+      [
+        "",
+        3726600
+      ],
+      [
+        "",
+        3741200
+      ],
+      [
+        "",
+        3741700
+      ],
+      [
+        "",
+        3757600
+      ],
+      [
+        "",
+        3727500
+      ],
+      [
+        "",
+        3695400
+      ],
+      [
+        "",
+        3702100
+      ]
+    ],
+    "type": "",
+    "lineWidth": 2,
+    "yAxis": 0,
+    "stack": "null",
+    "visible": true,
+    "dataLabels": {
+      "enabled": true
+    }
+  },
+  {
+    "name": "Catégories A-B-C",
+    "color": "#FFc832",
+    "data": [
+      [
+        "",
+        5570900
+      ],
+      [
+        "",
+        5685500
+      ],
+      [
+        "",
+        5713500
+      ],
+      [
+        "",
+        5755800
+      ],
+      [
+        "",
+        5766000
+      ],
+      [
+        "",
+        5725700
+      ],
+      [
+        "",
+        5771800
+      ],
+      [
+        "",
+        5770300
+      ],
+      [
+        "",
+        5809100
+      ],
+      [
+        "",
+        5853300
+      ],
+      [
+        "",
+        5922400
+      ],
+      [
+        "",
+        5928500
+      ],
+      [
+        "",
+        5930400
+      ],
+      [
+        "",
+        5941200
+      ]
+    ],
+    "type": "",
+    "lineWidth": 2,
+    "yAxis": 0,
+    "stack": "null",
+    "visible": true,
+    "dataLabels": {
+      "enabled": true
+    }
+  },
+  {
+    "name": "Catégories A-B-C-D-E",
+    "color": "#ff3232",
+    "data": [
+      [
+        "",
+        6258100
+      ],
+      [
+        "",
+        6378600
+      ],
+      [
+        "",
+        6430700
+      ],
+      [
+        "",
+        6483800
+      ],
+      [
+        "",
+        6495000
+      ],
+      [
+        "",
+        6478200
+      ],
+      [
+        "",
+        6555900
+      ],
+      [
+        "",
+        6568100
+      ],
+      [
+        "",
+        6582300
+      ],
+      [
+        "",
+        6605600
+      ],
+      [
+        "",
+        6655600
+      ],
+      [
+        "",
+        6627100
+      ],
+      [
+        "",
+        6592100
+      ],
+      [
+        "",
+        6577500
+      ]
+    ],
+    "type": "",
+    "lineWidth": 2,
+    "yAxis": 0,
+    "stack": "null",
+    "visible": true,
+    "dataLabels": {
+      "enabled": true
+    }
+  }
+],
+	tooltip: {
+		useHTML: true,
+		shared: true,
+		valueDecimals: 0,
+		valuePrefix: "",
+		valueSuffix: "",
+		backgroundColor: '#FFF',
+		borderColor: '#ccd0d3',
+		borderRadius: 8,
+		borderWidth: 0,
+		dateTimeLabelFormats: {
+			hour: "",
+		},
+		shadow: false,
+		style: {"padding":"15px", "font-family":"Helvetica,Arial!important", "color":"#16212c"},
+{point.key}',
+\u25CF {series.name} : {point.y}',
+		hideDelay: 200,
+		borderWidth: 1,
+		borderColor: "#AAA",
+		formatter: function(tooltip) {
+			return tooltip.defaultFormatter.call(this, tooltip);
+		},
+	}
+});
+
+	function findLength(str) {
+ 100) {
+			el = document.getElementsByClassName('highcharts-tooltip')[1].firstChild;
+			if (el.classList) {el.classList.add('tooltiplarge');}
+			else {el.className += ' ' + 'tooltiplarge';}
+		}	
+	}
+
+});
+
+
+Il existe une autre façon de mesurer le chômage, en le rapportant à la population active, c’est-à-dire à l’ensemble des personnes disponibles pour travailler. Ce comptage de l’Insee, qui suit les recommandations du Bureau international du travail (BIT), est reconnu internationalement, contrairement à celui de Pôle emploi.
+Dans ce cas, il apparaît également que le taux de chômage a légèrement baissé depuis l’arrivée au pouvoir de M. Macron, passant de 9,4 % à 9,2 % (pour la métropole et les DOM-COM, hors Mayotte) — ou de 9,1 % à 8,9 % pour la seule métropole.
+Ce chiffre reste encore loin de l’objectif de 7 % que s’est fixé le président pour la fin de son mandat, en 2022.
+
+
+	#container_15325371160{
+		padding:5px 5px 0px 10px;
+		width:100%;
+		background-color:#f5f6f8;
+	}
+	#graphe_15325371160{
+		height:400px;
+	}
+	#container_15325371160 .titre{
+		position:relative;margin: 10px 0;
+		font-size: 1.5rem;
+		font-family: "Helvetica Neue", Helvetica, Arial, FreeSans, sans-serif;
+		font-weight: bold;
+		position: relative;
+		}
+	#container_15325371160 .subtitle{
+		display:block;
+		margin: 10px 0;
+		font-size: 1.3rem;
+}
+	.highcharts-tooltip span {
+		height: auto;
+		min-width: 170px;
+		z-index: 9998!important;
+		overflow: auto;
+		opacity: 1;
+		white-space: normal !important;
+	}
+	#container_15325371160.highcharts-xaxis-labels text
+	{
+		font-size: 10px!important;
+}
+	#container_15325371160.highcharts-legend-item text
+	{
+		font-size: 11px!important;
+	}
+	.tooltiplarge {
+		width: 230px;
+	}
+	#container_15325371160 .credits{
+		text-align: right;
+		margin-right: 5px;
+		padding-bottom: 5px;
+	}
+
+
+
+Un taux de chômage en dents de scie depuis un an
+Taux de chômage trimestriel en France au sens du BIT, corrigé des variations saisonnières. Les données du premier trimestre 2018 sont provisoires.
+
+Source : Insee
+
+
+
+require(['highcharts/4.1.9','highcharts-standalone'], function() {
+	Highcharts.setOptions({
+		lang: {
+			decimalPoint: ',',
+			thousandsSep: ' ',
+			months: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin',  'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
+			shortMonths: [ 'jan.' , 'fév.' , 'mars' , 'avr.' , 'mai' , 'juin' , 'juil.' , 'août' , 'sept.' , 'oct.' , 'nov.' , 'déc.'],
+			weekdays: ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'],
+			noData: 'Pas de données à afficher', 
+			numericSymbols: [null, 'M', 'G', 'T', 'P', 'E']
+		}
+	});
+	var annotation_spe = [];
+
+	var chart = new Highcharts.Chart({
+	chart:{
+		renderTo:"graphe_15325371160",
+		backgroundColor: "rgba(255,255,255,0)",
+		borderRadius: 0,
+		alignTicks:false,
+		type: "line",
+		spacingBottom: 10
+	},
+	colors:["#0386c3","#FFc832","#ff3232","#F19300","#28beaa","#285a82","#821400","#191919"],
+	credits:{
+		enabled:false},
+	title: {
+		text: ""
+	},
+	subtitle: {
+		text: ""
+	},
+	plotOptions: {
+		series: {
+			dataLabels: {
+				inside: false,
+				allowOverlap: true,
+useHTML:true,
+				format: "{y} ",
+				style: {
+					textShadow: 'none',
+					color: '#333'
+				}
+			},
+			connectNulls:true,
+			stacking:null,
+			marker:{
+				symbol:"circle",
+				fillColor:"#FFF",
+				lineWidth: 2,
+				radius:3,
+				lineColor:null
+			},
+			states:{
+				hover:{
+					lineWidthPlus : 0
+				}
+			}
+		},
+		pie:{
+			dataLabels:{
+				distance:30, 
+				softConnector:false
+			}
+		}
+	},
+	yAxis:[{
+		id:"0",
+		allowDecimals:false,
+		type:"linear",
+		title: {
+			text:""
+		},
+		labels: {
+			useHTML: false,
+			format: "{value} ",
+			zIndex: -1
+		},
+		min: 0.1,
+		max: null,
+		startOnTick: true,
+		endOnTick:true,
+		reversed:false,
+		plotLines: [{
+			color: "#cccccc",
+			width: "",
+			value: "" ,
+			label: {
+				useHTML: false,
+				text:"",
+				align: "left",
+				x: -3
+			}
+		}],
+		plotBands: [{
+			color: "#cccccc",
+			from: "",
+			to: "",
+			label: {
+				useHTML: false,
+				text: "",
+				textAlign: "",
+				align: "left",
+				verticalAlign: "top",
+				x: "",
+				y: -5
+			}
+		}]
+	},{
+		id:"1",
+		allowDecimals:false,
+		type:"linear",
+		title: {
+			text:""
+		},
+		labels: {
+			useHTML: false,
+			format: "{value} ",
+			zIndex: -1
+		},
+		min: null,
+		max: null,
+		startOnTick: true,
+		endOnTick:true,
+		reversed:false,
+		opposite:true
+	}],
+	xAxis: {
+		type: "linear",
+		 categories:["2015-T1","2015-T2","2015-T3","2015-T4","2016-T1","2016-T2","2016-T3","2016-T4","2017-T1","2017-T2","2017-T3","2017-T4","2018-T1 (p)"],
+		title: {
+			text: ""
+		},
+		labels: {
+			useHTML: false,
+			step: "",
+			format: "{value}"
+		},
+		plotLines: [{
+			color: "#cccccc",
+			width: "",
+			value: "",
+			label: {
+				useHTML: false,
+				text: "",
+				textAlign: "",
+				verticalAlign: "top",
+				x: 5,
+				y: ""
+			}
+		}],
+		plotBands: [{
+			color: "rgba(0,0,0,.05)",
+			from: 9,
+			to: 13,
+			label: {
+				useHTML: false,
+d'Emmanuel Macron",
+				textAlign: "center",
+				align: "center",
+				verticalAlign: "top",
+				x: "",
+				y: 15
+			}
+		}]
+	},
+	legend:{
+		enabled:"",
+		layout:"horizontal", 
+		verticalAlign:"bottom", 
+		align:"center",
+		y:-10
+	},
+
+	series:[
+  {
+    "name": "France métropolitaine",
+    "color": "#0386c3",
+    "data": [
+      [
+        "",
+        10
+      ],
+      [
+        "",
+        10.1
+      ],
+      [
+        "",
+        10.1
+      ],
+      [
+        "",
+        9.9
+      ],
+      [
+        "",
+        9.9
+      ],
+      [
+        "",
+        9.7
+      ],
+      [
+        "",
+        9.7
+      ],
+      [
+        "",
+        9.7
+      ],
+      [
+        "",
+        9.3
+      ],
+      [
+        "",
+        9.1
+      ],
+      [
+        "",
+        9.4
+      ],
+      [
+        "",
+        8.6
+      ],
+      [
+        "",
+        8.9
+      ]
+    ],
+    "type": "",
+    "lineWidth": 2,
+    "yAxis": 0,
+    "stack": "null",
+    "visible": true,
+    "dataLabels": {
+      "enabled": 0
+    }
+  },
+  {
+    "name": "France entière",
+    "color": "#FFc832",
+    "data": [
+      [
+        "",
+        10.3
+      ],
+      [
+        "",
+        10.5
+      ],
+      [
+        "",
+        10.4
+      ],
+      [
+        "",
+        10.2
+      ],
+      [
+        "",
+        10.2
+      ],
+      [
+        "",
+        10
+      ],
+      [
+        "",
+        10
+      ],
+      [
+        "",
+        10
+      ],
+      [
+        "",
+        9.6
+      ],
+      [
+        "",
+        9.4
+      ],
+      [
+        "",
+        9.7
+      ],
+      [
+        "",
+        9
+      ],
+      [
+        "",
+        9.2
+      ]
+    ],
+    "type": "",
+    "lineWidth": 2,
+    "yAxis": 0,
+    "stack": "null",
+    "visible": true,
+    "dataLabels": {
+      "enabled": 0
+    }
+  }
+],
+	tooltip: {
+		useHTML: true,
+		shared: true,
+		valueDecimals: 1,
+		valuePrefix: "",
+		valueSuffix: " %",
+		backgroundColor: '#FFF',
+		borderColor: '#ccd0d3',
+		borderRadius: 8,
+		borderWidth: 0,
+		dateTimeLabelFormats: {
+			hour: "",
+		},
+		shadow: false,
+		style: {"padding":"15px", "font-family":"Helvetica,Arial!important", "color":"#16212c"},
+{point.key}',
+\u25CF {series.name} : {point.y}',
+		hideDelay: 200,
+		borderWidth: 1,
+		borderColor: "#AAA",
+		formatter: function(tooltip) {
+			return tooltip.defaultFormatter.call(this, tooltip);
+		},
+	}
+});
+
+	function findLength(str) {
+ 100) {
+			el = document.getElementsByClassName('highcharts-tooltip')[1].firstChild;
+			if (el.classList) {el.classList.add('tooltiplarge');}
+			else {el.className += ' ' + 'tooltiplarge';}
+		}	
+	}
+
+});
+
+
+
+        Lire aussi :
+         
+
+                Chômage : pourquoi les chiffres de l’Insee et de Pôle emploi diffèrent
+
+
+
+
+        Lire aussi :
+         
+
+                Un an après son élection, Emmanuel Macron tient-il ses promesses de campagne ?
+
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-4">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-4"> ¤ Les salariés de la firme irlandaise se battent pour de meilleures conditions salariales et pour l’application du droit du travail du pays où ils sont employés.
+<filname="PROF-0,2-3234,1-0,0-4"> ¤                     
+                                                
+
+Ryanair : une forte mobilisation pour une grève sans précédent
+
+Les salariés de la firme irlandaise se battent pour de meilleures conditions salariales et pour l’application du droit du travail du pays où ils sont employés.
+
+
+
+Le Monde
+ |    26.07.2018 à 14h33
+   
+
+
+
+
+
+                        
+
+
+Les syndicats du personnel de cabine de Ryanair se sont félicités jeudi 26 juillet du succès de leur grève dans quatre pays européens, d’une ampleur sans précédent pour la compagnie aérienne, et poursuivaient le mouvement en dépit de menaces de suppression d’emplois.
+Le personnel de cabine employé par la compagnie à bas coût en Belgique, en Espagne et au Portugal mène une grève de deux jours, mercredi et jeudi, pour réclamer que lui soit appliqué le droit du travail national, et non celui de l’Irlande. En Italie, le débrayage s’est limité à mercredi mais il a eu un impact plus important qu’attendu.
+
+        Lire aussi :
+         
+
+                La compagnie à bas coûts Ryanair confrontée à deux grèves européennes
+
+
+
+Au Portugal, dix-sept vols avaient déjà été annulés jeudi 9 heures du matin, selon Luciana Passo, présidente du Syndicat national du personnel de vol de l’aviation civile (SNPVAC). « Il y a une très forte adhésion à cette grève, s’est-elle félicitée. Rien qu’à Lisbonne, le taux d’adhésion mercredi a été de près de 80 %. Pour aujourd’hui, nous prévoyons une mobilisation similaire voire plus importante, d’après les données dont nous disposons. »
+Une douzaine de liaisons avec l’Italie annulées
+En Italie, le syndicat Uiltrasporti s’est vanté d’un « résultat extraordinaire » du mouvement, en demandant à Ryanair « de dialoguer pour éviter de nouvelles grèves ». « La très forte participation du personnel navigant basé en Italie a démontré le poids réel de notre syndicat parmi les travailleurs », affirme Uiltrasporti dans un communiqué diffusé mercredi soir.
+La compagnie avait tenté de limiter l’impact de la grève en annulant préventivement six cents vols et en transférant les passagers des vols annulés sur d’autres vols ou en leur proposant un remboursement. Mais elle n’avait pas annoncé les mesures prises pour l’Italie.
+
+        Lire aussi :
+         
+
+                Face aux grèves de pilotes, Ryanair annonce une réduction de sa flotte à Dublin
+
+
+
+En Espagne, où les autorités avaient exigé de Ryanair qu’elle assure un service minimal, l’activité de la compagnie a été peu affectée mercredi, et la journée s’est déroulée sans incident notable, a annoncé le ministère des transports. Mais une douzaine de liaisons avec l’Italie ont été annulées, en « raison du fort suivi de la grève » dans ce pays, a ajouté le ministère.
+Trois cents emplois en jeu
+En Belgique, où Ryanair emploie quelque sept cents personnes, dix des onze vols prévus jeudi au départ de Bruxelles ont été annulés, selon la porte-parole de Brussels Airport, Nathalie Pierard. A l’aéroport de Charleroi, principale plate-forme belge du transporteur, 60 % des vols prévus ne sont pas partis, a annoncé Yves Lambot, secrétaire permanent de la Centrale nationale des employés.
+Les syndicats ont défié les avertissements de Ryanair, qui avait annoncé mardi, en présentant des résultats trimestriels en baisse, que la poursuite des grèves l’obligerait à supprimer des vols et des emplois. Le lendemain, la compagnie mettait ses menaces à exécution en supprimant des vols au départ de Dublin pour l’hiver 2018, après une grève des pilotes basés en Irlande, prévenant que jusqu’à trois cents emplois, cent de pilotes et deux cents de personnel de cabine, étaient en jeu.
+
+        Lire aussi :
+         
+
+                Grève à Ryanair : 600 vols annulés en Europe, 100 000 passagers affectés
+
+
+
+Les grèves se multiplient au sein du personnel de Ryanair, alors qu’elles avaient été quasi inexistantes depuis la création de la compagnie, au milieu des années 1980. Ryanair a longtemps refusé de reconnaître les syndicats, mais elle a pris un virage à 180 degrés en fin d’année dernière en engageant des négociations avec des syndicats dans plusieurs pays. La compagnie à bas coût est parvenue à signer des accords avec des syndicats, mais les discussions restent difficiles dans plusieurs pays.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-5">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-5"> ¤ Tsinghua Unigroup serait en négociations afin de racheter le français Linxens pour 2,2 milliards d’euros.
+<filname="PROF-0,2-3234,1-0,0-5"> ¤                     
+                                                   
+édition abonné
+
+
+La Chine à l’assaut de l’électronique européenne
+
+Tsinghua Unigroup serait en négociations afin de racheter le français Linxens pour 2,2 milliards d’euros.
+
+
+
+Le Monde
+ |    26.07.2018 à 13h21
+    |
+
+            Sandrine Cassini et 
+Marie de Vergès
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+La Chine se prépare-t-elle à prendre d’assaut l’électronique européenne ? Une première opération sonne comme un avertissement sur les intentions de l’empire du Milieu. Tsinghua Unigroup serait en passe de racheter au fonds CVC Capital Partners le discret Linxens, une société française spécialisée dans les microconnecteurs pour les cartes SIM et bancaires, et les antennes RFID, ont rapporté Reuters et Bloomberg, mercredi 25 juillet.
+Avec 3 000 salariés et 500 millions d’euros de chiffre d’affaires en 2017, Linxens est un Petit Poucet de l’industrie des semi-conducteurs. Montant de l’opération : 2,2 milliards d’euros. Le rachat, qui pourrait aboutir ces prochaines semaines, nécessite encore l’approbation des autorités réglementaires françaises et européennes.
+Pour Tsinghua, aux ambitions débordantes dans l’industrie, cette acquisition mineure pourrait-elle en annoncer d’autres ? En quelques années, le groupe chinois est devenu le porte-drapeau des ambitions de Pékin en matière de semi-conducteurs. Au cours de la prochaine décennie, le pays entend s’imposer comme un géant mondial du secteur. Un objectif érigé en priorité nationale, alors que la Chine importe la quasi-totalité de ces composants électroniques équipant les smartphones et ordinateurs fabriqués sur son sol. Depuis 2012, le géant asiatique dépense même plus pour ses importations de semi-conducteurs que de pétrole.
+« Cette dépendance se traduit par un manque de valeur ajoutée. C’est pourquoi ils investissent à la fois dans les mémoires flashs et DRAM. Pour l’instant, sans grand résultat. Mais dans les écrans LCD, ils sont désormais bien présents. Et on dit même que sur l’OLED [une nouvelle technologie d’écran], un fabricant chinois pourrait travailler pour Apple », souligne Benoit Flamant, gérant de fonds high tech chez Finaltis.
+Le développement de cette industrie-clé est l’un des piliers du plan « Made in China 2025 », qui vise à soutenir la montée en...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-6">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-6"> ¤ La Titan Security Key a pour but d’authentifier la personne qui se connecte à un compte, en plus du mot de passe.
+<filname="PROF-0,2-3234,1-0,0-6"> ¤                     
+                                                
+
+Google lance une clé physique pour renforcer la sécurité de ses utilisateurs
+
+La Titan Security Key a pour but d’authentifier la personne qui se connecte à un compte, en plus du mot de passe.
+
+
+
+Le Monde
+ |    26.07.2018 à 11h25
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Comme on dispose d’une clé pour entrer chez soi, Google propose désormais une clé physique pour se connecter à ses comptes en ligne. Le dispositif, qui permet une sécurité plus forte que le simple mot de passe, n’est pas nouveau. Mais il n’est pas très répandu, et cette fois, c’est un acteur majeur du secteur des nouvelles technologies qui le propose. Mercredi 25 juillet, Google a donc annoncé le lancement de sa Titan Security Key. Elle sera dans un premier temps accessible aux professionnels clients de son service Cloud, avant d’être disponible pour tous.
+Le mot de passe connaît en effet certaines limites. Piratable, il ne permet pas à lui seul d’authentifier avec certitude le propriétaire d’un compte. Les campagnes d’hameçonnage, ou « phishing », qui trompent l’internaute afin d’obtenir frauduleusement ses mots de passe, ont par exemple fait preuve de leur efficacité et sont devenues monnaie courante.
+Pour pallier ce problème, de nombreux services ont développé un système de double authentification où l’utilisateur, après avoir entré son mot de passe, doit passer une étape supplémentaire d’authentification avant de pouvoir accéder à son compte. Le service lui transmet alors un code, par SMS ou sur une application, qui lui permettra de s’identifier.
+Difficile pour un pirate d’accéder à la clé physique
+Mais ce système a lui aussi ses limites, puisque des pirates ont mis en place différents stratagèmes pour pouvoir récupérer, dans certains cas, ce code. La clé physique proposée par Google — et d’autres, comme Yubico — permet de se passer de code. Et rend très difficile pour un pirate d’accéder frauduleusement à un compte, puisqu’il devra accéder à la fois au mot de passe et à la clé physique.
+Celle de Google est disponible dans deux versions, l’une fonctionnant par USB, l’autre par bluetooth, a appris de Google le site spécialisé CNet, au prix de 50 dollars (42,7 euros) les deux. Elle permettra de se connecter à des comptes Google, mais pas seulement. L’entreprise, qui teste le système en interne depuis plus d’un an, s’était vantée il y a quelques jours de n’avoir repéré aucun cas d’hameçonnage au cours de cette période sur les comptes de ses 85 000 employés protégés par ce dispositif.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-7">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-7"> ¤ Le géant européen de l’hôtellerie abandonne son projet de rachat de la participation de 14,3 % détenue par l’Etat dans le capital de la compagnie aérienne franco-néerlandaise.
+<filname="PROF-0,2-3234,1-0,0-7"> ¤                     
+                                                
+
+AccorHotels renonce à entrer au capital d’Air France-KLM
+
+Le géant européen de l’hôtellerie abandonne son projet de rachat de la participation de 14,3 % détenue par l’Etat dans le capital de la compagnie aérienne franco-néerlandaise.
+
+
+
+Le Monde
+ |    26.07.2018 à 11h01
+ • Mis à jour le
+26.07.2018 à 15h22
+    |
+
+            Guy Dutheil
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+AccorHotels a finalement jeté l’éponge. Le géant européen de l’hôtellerie a annoncé, jeudi 26 juillet, qu’il abandonnait son projet de prise de participation dans le capital d’Air France-KLM. Début juin, Sébastien Bazin, son PDG, avait confirmé sa volonté de racheter la participation de 14,3 % détenue par l’Etat dans le capital de la compagnie franco-néerlandaise. Depuis, le groupe hôtelier tardait à concrétiser sa démarche. « A-t-on été capables de se mettre d’accord avec Air France et d’avoir des conditions qui, à ce stade, nous permettent d’avancer ? La réponse est non », a déclaré le directeur financier, Jean-Jacques Morin.
+A en croire certains proches du dossier, les dirigeants d’AccorHotels ne seraient pas parvenus à réunir un pool d’investisseurs français et européens pour racheter la part de l’Etat, qui est évaluée à environ 450 millions d’euros. Or le mastodonte de l’hôtellerie, détenu par des actionnaires chinois, qataris et saoudiens, ne pouvait effectuer ce rachat seul. De surcroît, la réglementation de Bruxelles impose que 50 % des actionnaires d’une société européenne soient européens.
+
+        Lire aussi :
+         
+
+                AccorHotels candidat au rachat de la part de l’Etat dans Air France-KLM
+
+
+
+Liens rompus avec la compagnie aérienne
+En mettant le pied chez Air-France-KLM, AccorHotels ciblait surtout le très gros portefeuille de membres du programme de fidélité Flying Blue de la compagnie franco-néerlandaise. Au moment où s’opère un vaste mouvement de consolidation dans le secteur de l’hôtellerie, les programmes de fidélité sont plus que jamais le nerf de la guerre.
+Avec cette manœuvre d’approche de la compagnie aérienne, AccorHotels souhaitait en outre « développer notamment des projets digitaux communs et une plate-forme commune de fidélisation et de services qui permettraient aux clients des deux groupes, leaders mondiaux du voyage, de bénéficier d’une offre enrichie de services autour de la mobilité à travers le monde », fait savoir un proche du groupe. Après l’échec de la prise de participation, il semble qu’AccorHotels ait rompu tous les liens avec Air France. « Nous avons arrêté l’étude avec Air France », a insisté M. Morin.
+En juin, les investisseurs s’interrogeaient sur la pertinence de l’opération. Ces derniers mois, les jours de grève se multiplient au sein de la compagnie aérienne. Depuis la démission de son PDG, Jean-Marc Janaillac, le 4 mai, après le rejet d’un accord salarial, le conflit n’est pas terminé, seulement suspendu. L’intersyndicale qui regroupe dix organisations rassemblant toutes les catégories de personnels n’a pas renoncé à ses revendications. Elle réclame toujours des augmentations générales de rémunération pour compenser l’inflation intervenue pendant les six années de blocage des salaires. La compagnie, de son côté, est actuellement dirigée par une présidente non exécutive, Anne-Marie Couderc, qui a pour mission principale de recruter une nouvelle direction.
+Enfin, certains observateurs murmurent que l’opération Air France-KLM menée par AccorHotels aurait eu aussi pour objet – Bruxelles oblige – de mettre le groupe hôtelier à l’abri des appétits de certains de ses actionnaires, notamment chinois.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-8">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-8"> ¤ Le fonds néerlandais PGGM acquiert 20 % de Suez Water Resources Inc. pour 601 millions de dollars.
+<filname="PROF-0,2-3234,1-0,0-8"> ¤                     
+                                                   
+édition abonné
+
+
+Le groupe Suez ouvre le capital de sa filiale américaine
+
+Le fonds néerlandais PGGM acquiert 20 % de Suez Water Resources Inc. pour 601 millions de dollars.
+
+
+
+Le Monde
+ |    26.07.2018 à 10h44
+    |
+
+            Isabelle Chaperon
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+La vie des affaires représente un éternel ajustement. En 1999, le groupe Suez avait acquis pour 1 milliard de dollars les 67 % du capital de son affilié américain United Water qu’il ne détenait pas. Jeudi 26 juillet, l’entreprise hexagonale a annoncé avoir signé un accord avec le fonds d’infrastructure néerlandais PGGM afin de lui céder 20 % de Suez Water Resources Inc., qui regroupe les activités d’eau régulée du français aux Etats-Unis, pour 601 millions de dollars (environ 514 millions d’euros).
+Une vingtaine de prétendants s’étaient présentés à la mise aux enchères organisée par Suez. « Ces actifs ont été très bien valorisés. Nous avons vendu bien au-dessus de la valeur qui est inscrite dans nos comptes », souligne Jean-Louis Chaussade, directeur général du géant de l’environnement depuis décembre 2007.
+Le rachat d’United Water – devenu Suez Water – avait permis à l’ancienne Lyonnaise des eaux de prendre la seconde place sur un marché américain de l’eau particulièrement fragmenté, derrière le leader American Water. Implanté dans quinze Etats, surtout dans le Midwest et le Nord-Est – de l’Idaho au New Jersey –, Suez fournit des services d’eau potable et d’assainissement à 7,4 millions d’Américains dans le cadre d’accords passés avec des municipalités.
+
+Alléger la dette du groupe
+Ce marché présente l’avantage d’offrir une rentabilité définie à l’avance en fonction des investissements. Mais les efforts financiers nécessaires pour moderniser des réseaux vieillissants se montrent très élevés. Cet enjeu a été illustré par le scandale de Flint, cette ville du Michigan où les habitants ont été contaminés au plomb et n’ont toujours pas d’eau du robinet potable en raison de canalisations rongées par la corrosion.
+D’où l’importance, pour Suez, de reconstituer des marges de manœuvre financières. « Le produit de cette cession va servir à nous désendetter », précise M. Chaussade, qui avait promis d’alléger la dette...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-9">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-9"> ¤ Le réseau social de Mark Zuckerberg a perdu 125 milliards de dollars de capitalisation boursière, mais sa marge brute reste de 44 %.
+<filname="PROF-0,2-3234,1-0,0-9"> ¤                     
+                                                   
+édition abonné
+
+
+Le ralentissement de Facebook sévèrement sanctionné par les marchés
+
+Le réseau social de Mark Zuckerberg a perdu 125 milliards de dollars de capitalisation boursière, mais sa marge brute reste de 44 %.
+
+
+
+Le Monde
+ |    26.07.2018 à 10h32
+ • Mis à jour le
+26.07.2018 à 11h09
+    |
+
+            Alexandre Piquard
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+En quelques heures, 125 milliards de dollars de capitalisation se sont évaporés – l’équivalent de la valeur boursière d’IBM ou de quatre fois celle de Twitter. Avec Facebook, les proportions sont souvent effarantes. Le réseau social de Mark Zuckerberg a été durement puni par les investisseurs pour avoir fait état, mercredi 25 juillet, de signes de ralentissement de la croissance du nombre de ses utilisateurs et de son chiffre d’affaires. La sanction est à la hauteur des attentes, stratosphérique.
+
+Beaucoup de gens s’attendaient à ce que Facebook continue à croître insolemment, malgré les polémiques sur les données personnelles ou les fake news (fausses informations) à l’image de Google. La firme de Mountain View (Californie) avait en effet publié la veille des résultats impressionnants : 8,3 milliards de dollars de résultat net pour 32,2 milliards de chiffre d’affaires au deuxième trimestre, contre « seulement » 3,5 milliards et 26 milliards un an plus tôt. Un tel excédent lui a permis d’avaler en deux mois l’amende historique de 5 milliards de dollars que vient de lui infliger la Commission européenne pour pratiques anticoncurrentielles.
+Les chiffres publiés par Facebook pour le deuxième trimestre ont toujours de quoi faire pâlir la quasi-totalité des entreprises de la planète : un chiffre d’affaires en hausse de 42 %, à 13 milliards de dollars, et un résultat net en croissance de 31 %, à 5,1 milliards de dollars. Soit une marge brute de 44 %.
+Même le cours de Bourse reste, à 173 dollars, proche de ce qu’il était début mars, avant la révélation du scandale d’exploitation indue de données par le prestataire britannique Cambridge Analytica. Le titre a perdu 20 % en une soirée, mais il avait atteint son record historique quelques heures plus tôt, à 217,5 dollars.
+
+Un ralentissement des revenus se profile
+Toutefois, les investisseurs ont des motifs d’inquiétude. Certains sont liés aux reproches faits à Facebook...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-10">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-10"> ¤ L’emblématique administrateur, qui aura spectaculairement redressé un constructeur automobile au bord de la faillite, est décédé à 66 ans.
+<filname="PROF-0,2-3234,1-0,0-10"> ¤                     
+                                                   
+édition abonné
+
+
+Mort du patron de Fiat Sergio Marchionne
+
+L’emblématique administrateur, qui aura spectaculairement redressé un constructeur automobile au bord de la faillite, est décédé à 66 ans.
+
+
+
+Le Monde
+ |    26.07.2018 à 07h52
+ • Mis à jour le
+26.07.2018 à 08h52
+    |
+
+            Jérôme Gautheret (Rome, correspondant)
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Depuis plusieurs jours, l’issue ne faisait plus aucun doute. Victime de complications alors qu’il se remettait d’une opération à l’épaule, fin juin, l’ancien administrateur délégué du groupe Fiat-Chrysler (FCA) et président de Ferrari, Sergio Marchionne, 66 ans, est mort mercredi 25 juillet à l’hôpital universitaire de Zurich.
+Samedi, l’annonce de son départ précipité de la tête des diverses branches du groupe Agnelli, après quatorze années de direction opérationnelle où il aura spectaculairement redressé un groupe au bord de la faillite, avait été suivie de nouvelles de plus en plus alarmantes sur son état de santé, qualifié d’« irréversible » depuis plusieurs jours par les médecins.
+Dans un communiqué publié mercredi matin, John Elkann, le président d’Exor – la holding patrimoniale de la famille Agnelli, actionnaire de référence de l’empire industriel –, a salué sa mémoire : « Malheureusement, ce que nous craignions s’est produit. Sergio, l’hôte et l’ami, s’en est allé ».
+Sa dernière apparition publique aura donc été le 27 juin, quelques heures avant d’être hospitalisé : il était venu offrir une Jeep à une équipe de carabiniers de Rimini et s’était livré, pour ce qui devait être son dernier discours public, à un éloge de son père, carabinier dans les Abruzzes, parsemé de souvenirs d’enfance.
+Redressement spectaculaire
+A la tête de la plus emblématique des entreprises industrielles italiennes, Sergio Marchionne était bien un enfant du pays. Mais ce n’est pas en Italie qu’il s’est formé. A 14 ans, la famille Marchionne est partie au Canada, et ce changement d’univers aura une influence décisive sur le parcours du jeune Sergio. Après avoir étudié la philosophie, le droit et le management, il commence une carrière de dirigeant d’entreprise qui le conduit à rentrer en Europe en 2002, pour prendre la tête du groupe suisse de certification SGS, qu’il redresse en deux ans. C’est à ce moment-là que les Agnelli, actionnaires...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-11">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-11"> ¤ Des hôtesses et stewards basés en Belgique, en Espagne, en Italie et au Portugal veulent que la compagnie applique la législation du pays où ils sont employés. En Irlande, des pilotes réclament des hausses de salaire.
+<filname="PROF-0,2-3234,1-0,0-11"> ¤                     
+
+
+Article sélectionné dans La Matinale du 25/07/2018
+Découvrir l’application
+
+
+                           
+édition abonné
+
+
+La compagnie à bas coûts Ryanair confrontée à deux grèves européennes
+
+Des hôtesses et stewards basés en Belgique, en Espagne, en Italie et au Portugal veulent que la compagnie applique la législation du pays où ils sont employés. En Irlande, des pilotes réclament des hausses de salaire.
+
+
+
+Le Monde
+ |    26.07.2018 à 06h38
+ • Mis à jour le
+26.07.2018 à 10h06
+    |
+
+            Guy Dutheil
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                
+
+
+                            
+
+Cette fois, Ryanair n’a pas évité le conflit. Malgré une négociation de la dernière chance, menée, mardi 24 juillet, sous l’égide des autorités espagnoles, les syndicats d’hôtesses et de stewards établis en Belgique, au Portugal, en Espagne et en Italie ont maintenu leurs appels à deux journées de grève, mercredi 25 et jeudi 26 juillet.
+Les personnels de cabine réclament l’intégration des intérimaires au même titre que les salariés. Ils exigent aussi de la compagnie irlandaise à bas coûts qu’elle applique la législation du pays où sont employés ses personnels.
+De son côté, Ryanair ne jure que par la réglementation irlandaise, bien moins favorable aux salariés. Outre les personnels navigants commerciaux (PNC), elle doit aussi affronter une grève de ses pilotes en Irlande, qui réclament des augmentations de salaire. Deux conflits distincts, mais qui illustrent un profond malaise social au sein de la compagnie low cost.
+En raison de ces deux grèves, la direction de Ryanair a été obligée d’annuler des centaines de vols. Plus de 100 000 passagers ont été affectés. Des coupes claires dans les programmes de vols qui pourraient s’amplifier. En effet, Michael O’Leary, le PDG de la compagnie, s’est montré pessimiste quant à l’avenir. « Même si nous maintenons des contacts actifs avec les syndicats de pilotes et de personnels navigants à travers l’Europe, nous nous attendons à de nouvelles grèves au moment du pic de la période estivale », a-t-il déclaré.
+Trou d’air en Bourse
+Pour Philippe Evain, président du Syndicat national des pilotes de ligne (SNPL) d’Air France, ces mouvements sociaux sont une réalité pour toutes les compagnies. « Les salariés malmenés ces dix dernières années commencent à trouver anormal de ne pas avoir de retour sur investissement », relève-t-il. De fait, les personnels qui avaient dû accepter nombre de plans sociaux et de blocages des salaires pendant les années de crise réclament à présent d’être...
+
+
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-12">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-12"> ¤ Le président des Etats-Unis et le patron de la Commission européenne se sont, en outre, engagés en faveur de davantage de libre-échange.
+<filname="PROF-0,2-3234,1-0,0-12"> ¤                     
+
+
+Article sélectionné dans La Matinale du 25/07/2018
+Découvrir l’application
+
+
+                        
+
+Trump et Juncker signent un armistice commercial, à la surprise générale
+
+Le président des Etats-Unis et le patron de la Commission européenne se sont, en outre, engagés en faveur de davantage de libre-échange.
+
+
+
+Le Monde
+ |    26.07.2018 à 03h35
+ • Mis à jour le
+26.07.2018 à 10h24
+    |
+
+            Arnaud Leparmentier (Washington, envoyé spécial)
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+La conférence fut convoquée à la dernière minute dans la roseraie de la Maison Blanche… pour annoncer un armistice commercial entre l’Union européenne (UE) et les Etats-Unis.
+Le président de la Commission européenne, Jean-Claude Juncker, a certes fait comme si l’affaire était jouée d’avance : « j’avais l’intention de parvenir à un accord aujourd’hui. Et nous avons un accord aujourd’hui », a-t-il déclaré ce mercredi 25 juillet. En réalité nul ne tablait réellement sur un compromis, lequel a fait dire à Donald Trump qu’« aujourd’hui est un très grand jour pour le commerce libre et équitable ». « Super d’être à nouveau sur la bonne voie avec l’UE », s’est réjoui le locataire de la Maison Blanche sur Twitter.
+
+Great to be back on track with the European Union. This was a big day for free and fair trade!— realDonaldTrump (@Donald J. Trump)
+
+
+require(["twitter/widgets"]);
+
+Dans le détail, les Américains et les Européens se sont engagés à mettre en place un groupe de travail en faveur de plus de libre-échange transatlantique. « Nous nous sommes mis d’accord pour travailler vers l’objectif d’avoir zéro droit de douane, zéro barrière non tarifaire et zéro subvention sur les biens industriels hors automobile », a expliqué M. Trump en lisant le communiqué commun européo-américain.
+En attendant, la menace de taxer jusqu’à 25 % les importations aux Etats-Unis d’automobiles européennes est suspendue tandis que les deux parties travailleront à mettre fin à la guerre de l’acier et de l’aluminium même si les droits imposés par Washington et les représailles décidées par Bruxelles ne sont pas suspendus. Les Européens s’engagent de leur côté à acheter plus de gaz naturel et de soja américains. Les deux ensembles économiques vont œuvrer aussi à une réforme de l’Organisation mondiale du commerce (OMC).
+Trump l’a joué à la « nord-coréenne »
+Quels sont les enseignements à tirer de l’affaire ? D’abord, les Européens ont obtenu l’essentiel : la menace immédiate de droits de douane sur l’automobile est repoussée. « Nous nous sommes entendus pour qu’aucun droit additionnel ne soit décidé tant que nous négocions », a assuré après la réunion M. Juncker. Le communiqué ne détermine aucun délai à la négociation, ce qui satisfait les Européens.
+Les ultimatums successifs lancés par les Américains sur l’acier et l’aluminium ont mis ces derniers dans une seringue et ont conduit, in fine, à l’imposition des droits. L’automobile est exclue de l’objectif zéro droit de douane, ce qui fait que l’Europe ne capitule pas par avance sur le sujet.
+Pourquoi Donald Trump a-t-il bougé ? L’explication, toujours plus facile ex post, semble largement interne.
+La grogne monte chez les constructeurs automobiles américains mais aussi chez les industriels les plus protectionnistes et anciens chouchous du locataire de la Maison Blanche, tels le fabricant de motocycles Harley Davidson ou celui de lave-linge Whirlpool qui ont annoncé cette semaine de mauvais résultats en raison de la guerre commerciale. Les républicains sont aussi de plus en plus remontés, à l’approche des élections de mi-mandat, surtout dans les terres agricoles du Midwest, frappées par les représailles chinoises et mexicaines qui taxent le soja et le porc. En conséquence, Donald Trump a dû annoncer, mardi, 12 milliards de dollars (10,2 milliards d’euros) d’aides aux agriculteurs, qui n’ont pas convaincu, les élus estimant que la meilleure manière de corriger les effets des guerres commerciales n’est pas de renflouer ses victimes mais d’arrêter ces guerres.
+S’y ajoutent les jeux d’influence sans cesse mouvants à la Maison Blanche : le très protectionniste conseiller commercial Peter Navarro était absent lundi et c’est le conseiller économique, Larry Kudlow, ancien des équipes Reagan et libre-échangiste, qui semble avoir eu l’oreille du président. L’ancien commentateur de télévision avait préparé mardi soir un projet de communiqué avec les équipes de M. Juncker. Résultat : Donald Trump, plutôt que de la jouer « à l’iranienne » l’a joué à la « nord-coréenne », et il a effectué un retournement spectaculaire.
+Les Européens lui ont donné quelques gages symboliques : l’objectif « zéro droit de douane » était un défi lancé depuis longtemps par M. Trump à l’UE. L’achat de soja, dont le cours baisse et qui n’est pas soumis à droits à l’importation en Europe, pourra offrir un débouché aux « farmers » frappés par les contre-sanctions chinoises – « je vous remercie pour cela, Jean-Claude », a déclaré M. Trump ; l’acquisition de gaz naturel liquéfié, qui plaira aux amis pétroliers du locataire de la Maison Blanche et va dans le sens d’une moindre imbrication géostratégique entre l’UE – en particulier l’Allemagne, via le pipeline à travers la baltique Northstream – et la Russie.
+Unité sur le dos des Chinois
+Dans la négociation, les Américains se sont contredits entre eux devant M. Trump et la délégation européenne étonnée. Les plus durs – le représentant au commerce Robert Lighthizer, voire le secrétaire au Trésor Steve Mnuchin – auraient voulu inclure les produits agricoles dans l’objectif zéro droit de douane. M. Juncker a fait savoir qu’il n’avait pas de mandat des Vingt-Huit et il a laissé entendre que, dans ce cas, les Européens exigeraient la fin du « Buy American Act », vache sacrée aux Etats-Unis, qui protège les entreprises du pays dans l’attribution des marchés publics.
+Enfin, l’unité s’est refaite sur le dos des Chinois. La réforme de l’OMC implique, selon les mots du communiqué lu par Donald Trump, de « traiter le problème des pratiques commerciales inéquitables, notamment le vol de propriété intellectuelle, le transfert forcé de technologie, les subventions industrielles, les distorsions créées par les entreprises possédées par l’Etat et les surcapacités ». Ainsi, Washington et Bruxelles font-ils désormais bloc, à en croire M. Trump : « Les Etats-Unis et l’UE comptent ensemble plus de 850 millions de citoyens et représentent la moitié du PIB [produit intérieur brut] mondial. En d’autres termes, ensemble, nous formons plus de 50 % du commerce. Si nous faisons équipe, nous pouvons rendre notre planète meilleure, plus sûre et plus prospère. » Un mouvement qui a satisfait M. Juncker, lequel avait offert à M. Trump une photo du cimetière militaire du Luxembourg où est enterré le général George Patton, libérateur de l’Europe en 1944-1945: « Cher Donald, rappelons-nous notre histoire commune », a écrit M. Juncker.
+Subsistent deux interrogations. D’abord la réaction au sein de l’UE à cette négociation avec l’Amérique de Trump à moins d’un an des élections européennes.
+M. Juncker estime qu’il ne s’agit pas d’une relance du traité de libre-échange transatlantique, vivement contesté par les opinions publiques, notamment française et allemande. Il estime qu’il n’a pas besoin de mandat de négociation et que celui-ci sera demandé, si nécessaire, aux Etats membres de l’UE, une fois que le groupe de travail, présidé par la commissaire européenne au commerce, Cecilia Malmström, et le représentant américain au commerce, Robert Lighthizer, sera parvenu à la fin de ses travaux – « d’ici à quelques mois », espère M. Juncker.
+Deuxième interrogation, Donald Trump fera-t-il avec l’UE ce qu’il a fait au printemps avec la Chine : annoncer un armistice dans la guerre commerciale et repartir de plus belle à l’attaque après avoir été critiqué par son opinion publique et ses propres conseillers ? Mais pour l’instant, les Européens n’ont guère de meilleure option que de lui faire confiance. Ils espèrent en avoir fini des négociations par invectives et tweets interposés. La réponse viendra rapidement.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-13">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-13"> ¤ La capitalisation boursière du groupe a perdu 114 milliards de dollars, jeudi, en réaction à un ralentissement de la croissance de son chiffre d’affaires.
+<filname="PROF-0,2-3234,1-0,0-13"> ¤                     
+
+
+Article sélectionné dans La Matinale du 25/07/2018
+Découvrir l’application
+
+
+                        
+
+Facebook s’effondre de 18 % à l’ouverture de Wall Street
+
+La capitalisation boursière du groupe a perdu 114 milliards de dollars, jeudi, en réaction à un ralentissement de la croissance de son chiffre d’affaires.
+
+
+
+Le Monde
+ |    26.07.2018 à 01h49
+ • Mis à jour le
+26.07.2018 à 16h54
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Le titre Facebook a plongé de 18 %, jeudi 26 juillet, à l’ouverture de Wall Street, un effondrement qui a fait baisser la capitalisation boursière du groupe d’environ 114 milliards de dollars (98 milliards d’euros), après une première chute de 24 % à la clôture de la Bourse de New York, la veille.
+Rattrapé par les polémiques des derniers mois, le réseau social a déçu au deuxième trimestre, en nombre d’utilisateurs comme en chiffre d’affaires, et a prévenu que le ralentissement se poursuivrait.
+Après avoir perdu jusqu’à 19,6 % en tout début de séance, le titre de l’entreprise a dévissé vers 13 h 50 (heure de Paris) de 18,34 % à 177,61 dollars.
+Les responsables du groupe ont prévenu pendant une conférence téléphonique que ces tendances au ralentissement de la croissance devraient se poursuivre au deuxième semestre, amplifiant le recul du titre. « C’est une année cruciale » pour Facebook, a commenté son patron, Mark Zuckerberg.
+
+        Lire aussi :
+         
+
+                Le ralentissement de Facebook sévèrement sanctionné par les marchés
+
+
+
+Des résultats moins bons qu’espéré
+Désinformation, manipulations politiques venues de Russie, gestion des données personnelles : l’entreprise connaît en effet des polémiques à répétition, mauvaises pour son image et susceptibles de refroidir le public et les annonceurs.
+
+        Lire aussi :
+         
+
+                Facebook cherche encore la bonne solution contre les « fake news »
+
+
+
+Facebook n’avait, au 30 juin, « que » 2,23 milliards d’utilisateurs mensuels actifs (+ 11 %), moins que les 2,25 milliards anticipés par les marchés, qui scrutaient tout signe de faiblesse du titan. La déception concerne aussi le nombre d’utilisateurs quotidiens actifs, qui étaient 1,47 milliard (+ 11 %) quand les marchés en attendaient 1,49 milliard. Mark Zuckerberg a expliqué que le nombre d’utilisateurs avait pâti notamment de la mise en œuvre du règlement général de protection des données entré en vigueur en mai dans l’Union européenne (UE) et qui renforce les droits des usagers.
+Le chiffre d’affaires, constitué presque uniquement des recettes publicitaires du site, a lui aussi déçu, à 13,23 milliards de dollars (+ 42 %), moins que les 13,36 milliards de dollars espérés par les analystes. Facebook a pourtant vu son bénéfice net bondir de 31 % à 5,1 milliards de dollars, un peu mieux qu’attendu.
+Des investissements massifs sur la sécurité
+Le groupe a aussi vu ses dépenses, en partie dues au besoin de mieux contrôler ce qui circule sur le réseau, croître de 50 % à 7,4 milliards de dollars. Et la tendance devrait continuer, a prévenu le groupe. « Nous investissons tellement dans nos systèmes de sécurité que cela va commencer à avoir un effet sur notre rentabilité, nous commençons à le voir ce trimestre », a assuré Mark Zuckerberg.
+Facebook tente en effet par tous les moyens de redorer son image et ne regarde pas à la dépense, en particulier depuis le scandale retentissant autour de Cambridge Analytica. Cette firme britannique d’analyse de données avait récupéré des informations sur des dizaines de millions d’utilisateurs du réseau social sans leur consentement, avant de travailler pour la campagne présidentielle du républicain Donald Trump en 2016.
+
+        Lire aussi :
+         
+
+                Facebook a dépensé des sommes record en lobbying après le scandale Cambridge Analytica
+
+
+
+Ce scandale ou les ingérences étrangères dans les élections valent à Facebook plaintes et enquêtes dans le monde entier et M. Zuckerberg a dû s’expliquer longuement devant les parlementaires états-uniens et européens. La dernière polémique en date remonte à quelques jours : M. Zuckerberg s’est fait violemment critiquer pour son refus de bannir les négationnistes du réseau social.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-14">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-14"> ¤ Le programme « Paid Off », diffusé depuis le 10 juillet, promet aux étudiants de rembourser leurs dettes.
+<filname="PROF-0,2-3234,1-0,0-14"> ¤ 
+<article-nb="2018/07/26/19-15">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-15"> ¤ Une tromperie consistant à « gonfler » les émissions de CO2 permettrait aux constructeurs de satisfaire aux futurs objectifs de réduction sans risquer des sanctions.
+<filname="PROF-0,2-3234,1-0,0-15"> ¤                     
+                                                
+
+Pollution: la Commission européenne soupçonne les constructeurs automobiles de nouvelles manipulations
+
+Une tromperie consistant à « gonfler » les émissions de CO2 permettrait aux constructeurs de satisfaire aux futurs objectifs de réduction sans risquer des sanctions.
+
+
+
+Le Monde
+ |    25.07.2018 à 15h10
+ • Mis à jour le
+26.07.2018 à 06h39
+    |
+
+            Stéphane Mandard
+
+
+
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Les constructeurs automobiles sont décidément plein de ressources. Le scandale du « dieselgate » avait révélé en 2015 que Volkswagen (VW), notamment, avait truqué ses moteurs afin de minorer les rejets d’oxyde d’azote, un gaz très toxique, lors des tests d’homologation. Cette fois, ils sont soupçonnés, au contraire, de « gonfler » les émissions de dioxyde de carbone (CO2) de leurs flottes afin de satisfaire aux futures normes.
+L’alerte a été donnée par la Commission européenne. Dans un courrier daté du 18 juillet que Le Monde a pu consulter, les commissaires chargés respectivement du climat et de l’énergie (Miguel Canete) et de l’industrie (Elzbieta Bienkowska) révèlent que « des données collectées par les autorités des Etats membres » ont mis en évidence que des constructeurs avaient volontairement « gonflé » leurs niveaux d’émissions.
+
+        Lire aussi :
+         
+
+                Nouvelles normes d’émissions de CO2 : Bruxelles cède au lobby automobile
+
+
+
+A partir de 2021, voitures et utilitaires seront soumis à un nouveau test harmonisé au niveau mondial appelé « WLPT » (Worldwide Harmonised Light Vehicle Test Procedure), en lieu et place de l’actuel protocole dit « NEDC ». Principal changement, les réductions de CO2 des voitures seront désormais mesurées en pourcentage et non plus en valeur absolue (gramme par kilomètre) comme c’est le cas aujourd’hui.
+L’Union européenne (UE) a imposé aux constructeurs un objectif de réduction des émissions de CO2 de 30 % d’ici à 2030, et de 15 % en 2025. Or ces objectifs seront calculés par rapport aux niveaux d’émissions déclarés par les fabricants en 2020 dans le cadre de l’actuel cycle NEDC. D’où l’intérêt de la tromperie.
+Des émissions « gonflées » jusqu’à 13 %
+Bruxelles assure avoir accumulé des « preuves ». Selon les données collectées, les rejets de CO2 seraient gonflés en moyenne de 4,5 % et jusqu’à 13 %. Concrètement, lors des contrôles en laboratoire, les constructeurs auraient par exemple fait tester leurs voitures avec des batteries déchargées (nécessitant donc de consommer plus, et d’émettre davantage de CO2 pour qu’elle se recharge) ou en désactivant le système « start & stop ».
+« Les objectifs de 2025 et 2030 seraient fragilisés par un point de départ gonflé », conclut la Commission, qui recommande de ne plus baser les calculs sur les valeurs déclarées par les constructeurs, mais sur les niveaux mesurés par des organismes indépendants dans le cadre du nouveau protocole WLTP.
+« Après le dieselgate, les constructeurs automobiles avaient promis de changer et que les nouveaux tests étaient la solution. Maintenant, il est clair qu’ils sont en train de les utiliser pour saper les nouveaux standards de CO2, estime William Todts, directeur de l’ONG Transport & Environment. Ils veulent s’y conformer avec un minimum d’efforts pour pouvoir continuer à vendre des diesels et retarder la transition vers les voitures électriques. »
+Les constructeurs seront sanctionnés s’ils ne respectent pas les objectifs de réduction fixés pour 2025 et 2030. Ils sont soupçonnés de s’être mis d’accord pour ne pas être pénalisés les uns par rapport aux autres, estime-t-on à Transport & Environment.
+Interrogé par l’AFP, le constructeur allemand BMW a affirmé « faire tout son possible » pour parvenir à l’objectif ambitieux fixé par l’UE tout en assurant se conformer aux outils de mesures réglementaires. En France, PSA assure effectuer ces mesures « en toute transparence » sous le contrôle d’organismes indépendants.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-16">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-16"> ¤ Les conclusions de la commission d’enquête sont rendues publiques mercredi. Le thème de la santé au travail figure à l’agenda social qu’Emmanuel Macron veut traiter à partir de la rentrée.
+<filname="PROF-0,2-3234,1-0,0-16"> ¤                     
+                                                
+
+Un « malus » pour lutter contre les maladies professionnelles
+
+Les conclusions de la commission d’enquête sont rendues publiques mercredi. Le thème de la santé au travail figure à l’agenda social qu’Emmanuel Macron veut traiter à partir de la rentrée.
+
+
+
+Le Monde
+ |    25.07.2018 à 13h00
+    |
+
+            Bertrand Bissuel
+
+
+
+
+
+
+
+
+                        
+
+
+Pour réduire les maladies causées par le travail, il faut frapper au portefeuille des chefs d’entreprise en leur appliquant un « malus » s’ils restent passifs face au problème. C’est l’une des préconisations les plus marquantes de la commission d’enquête pilotée par le député (LRM) Julien Borowczyk et son collègue communiste Pierre Dharréville – le premier en tant que président, le second rapporteur. Rendues publiques mercredi 25 juillet, leurs conclusions sont centrées sur les « pathologies professionnelles dans l’industrie » et sur les « moyens à déployer pour leur élimination ». De ce « panorama » ressort la conviction que « le nombre de victimes » peut être diminué, à condition de provoquer « une prise de conscience massive » et de faire émerger « une culture de la prévention ».
+Les maladies professionnelles s’avèrent tenaces dans le secteur industriel. Premier point à avoir en tête : les ouvriers sont davantage concernés « que les autres salariés » par des « contraintes physiques intenses » (activité en position debout, manutention manuelle de charges, gestes répétitifs…). Les statistiques de l’Assurance-maladie montrent également que, parmi les cancers ayant pu être associés à un domaine d’activité, près d’un quart « sont rattachables » à la métallurgie, sur la période 2011-2015. Une « spécificité » liée au fait que la part des « travailleurs de l’industrie » en contact avec « au moins un produit chimique cancérogène » est plus élevée que la moyenne : 18 % pour les premiers contre 10 % pour l’ensemble des salariés, en 2010 – le pourcentage atteignant un peu plus de 31 % dans la mécanique et le travail des métaux.
+
+        Lire aussi :
+         
+
+                Faire reconnaître une maladie professionnelle : un parcours du combattant
+
+
+
+Même chose, s’agissant de l’exposition « longue ou importante à au moins un risque chimique » : la moitié des ouvriers qualifiés des secteurs du métal, du bois et de l’ameublement sont dans cette situation (contre 8 %, si on raisonne sur tous les salariés). Enfin, d’autres problématiques émergent, avec la diffusion « d’agents nouveaux » comme les nanomatériaux ou les perturbateurs endocriniens.
+Des maladies sous-évaluées
+Dès la fin du XIXe siècle, des lois ont été adoptées pour combattre le phénomène. Elles ont débouché sur la mise en place d’un système d’indemnisation dont l’objectif est double : réparer les préjudices et inciter les employeurs à agir avant que le mal soit fait. Ainsi, le travailleur peut être dédommagé sans avoir à prouver le lien entre son problème de santé et l’activité qu’il occupe, dès l’instant où la maladie « entre dans les critères définis par des tableaux ». Un dispositif complémentaire a été créé afin d’assurer la prise en charge des affections non inscrites dans ces tableaux.
+Mais cet édifice demeure imparfait, les maladies professionnelles étant sous-évaluées. De très nombreux facteurs jouent : « pressions » de la hiérarchie sur les salariés « pour qu’ils ne procèdent pas aux déclarations », méconnaissance des droits, procédures longues et complexes, non-respect des obligations de prévention dans certaines sociétés, etc. S’y ajoutent les faiblesses du monde la santé, pris dans la globalité : les médecins généralistes sont très peu formés à ces sujets, tandis que la médecine du travail, elle, est en crise, avec un « manque d’effectifs » criant.
+M. Dharréville formule quarante-trois recommandations très concrètes qui visent à renouveler la politique de prévention des risques professionnels dans l’industrie. Leur but est d’améliorer « la traçabilité des expositions », par le biais – entre autres – d’un « dossier médical personnel de santé au travail » qui suivrait le salarié tout au long de sa carrière. Les entreprises qui recourent à des sous-traitants et à des intérimaires auraient des devoirs accrus à l’égard de cette main-d’œuvre ponctuelle. Et sitôt qu’une maladie professionnelle serait reconnue, le patron aurait l’obligation de prendre des mesures sur « le poste de travail en cause ». Autant de propositions susceptibles de retenir l’attention de l’exécutif, le thème de la santé au travail figurant dans l’agenda social qu’Emmanuel Macron veut traiter à partir de la rentrée.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-17">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-17"> ¤ Le nombre de demandeurs d’emploi sans aucune activité (catégorie A) s’est accru de 4 600 au deuxième trimestre, en métropole (+ 0,1 %), pour s’établir à 3,44 millions.
+<filname="PROF-0,2-3234,1-0,0-17"> ¤                     
+                                                
+
+Pourquoi le chômage n’a pas baissé au deuxième trimestre
+
+Le nombre de demandeurs d’emploi sans aucune activité (catégorie A) s’est accru de 4 600 au deuxième trimestre, en métropole (+ 0,1 %), pour s’établir à 3,44 millions.
+
+
+
+Le Monde
+ |    25.07.2018 à 11h59
+ • Mis à jour le
+26.07.2018 à 11h12
+    |
+
+            Sarah Belouezzane et 
+Bertrand Bissuel
+
+
+
+
+
+
+
+
+                        
+
+
+Il est des nouvelles dont un président de la République se passerait volontiers. La hausse, même très modeste, du chômage en fait partie. Selon les données publiées, mercredi 25 juillet, par le ministère du travail, le nombre de demandeurs d’emploi sans aucune activité (catégorie A) s’est accru de 4 600 au deuxième trimestre, en métropole (+ 0,1 %), pour s’établir à 3,44 millions (3,702 millions en tenant compte des outre-mer).
+
+        Lire aussi :
+         
+
+                Le taux de chômage remonte de 0,2 point au premier trimestre selon les chiffres de l’Insee
+
+
+
+Si l’on raisonne sur un an, la tendance s’avère meilleure, puisque les personnes relevant de la catégorie A ont vu leurs effectifs baisser de 1,3 % au cours des douze mois écoulés. Toutefois, d’autres signaux restent préoccupants. Ainsi, les « bataillons » d’inscrits à Pôle emploi depuis au moins un an (sans aucune activité ou ayant travaillé de façon réduite) se sont étoffés de 1,6 %, de début avril à fin juin – et de 7,2 % en douze mois. Autre indicateur frappant : l’accroissement (+ 1,9 % en trois mois) du nombre de jeunes à la recherche d’un poste (toujours en catégorie A).
+Enfin, la courbe des demandeurs d’emploi qui exercent une activité occasionnelle ou à temps partiel poursuit son ascension : + 0,1 % pendant le deuxième trimestre et + 5,9 % depuis un an (dans l’Hexagone). Plusieurs syndicats y voient la preuve d’une précarisation croissante du marché du travail.
+Les résultats auraient pu être plus mauvais s’ils n’avaient pas été contrebalancés par un mouvement de forte ampleur : celui lié au « défaut d’actualisation ». Beaucoup de personnes ont, en effet, « quitté » les listes de Pôle emploi, car elles n’ont pas mis à jour leur dossier (certaines parce qu’elles ont oublié de le faire, d’autres parce qu’elles ont retrouvé du travail). Au deuxième trimestre, ces sorties ont atteint un niveau record pour la période 2010-2018.
+Les chiffres diffusés mercredi « sont un peu décevants par rapport à ce que l’on pouvait attendre », commente Philippe Martin, professeur à Sciences Po Paris. « Mais il ne faut pas paniquer, nuance-t-il. Ils montrent une interruption de la baisse du chômage. » Un coup d’arrêt qu’il impute à plusieurs facteurs. La croissance est moins soutenue qu’à la fin du dernier trimestre 2017, « qui était exceptionnel ».
+« Incertitudes »
+La diminution du nombre de contrats aidés a aussi eu un « impact mécanique » sur le flux des inscriptions à Pôle emploi. « Mais, à moins d’un gros choc sur le commerce mondial – qui n’est pas le scénario le plus probable –, le PIB devrait progresser à un rythme annuel de 1,7 %, ce qui peut laisser espérer une reprise, modérée, du reflux du chômage au deuxième semestre », juge M. Martin.
+
+        Lire notre compte-rendu de tchat :
+         
+
+          La publication trimestrielle des chiffres du chômage « semble plus pertinente »
+
+
+
+« La croissance, aujourd’hui, reste inférieure à celle qui a prévalu durant la période 1975-2007, avec un taux de 2,1 % par an en moyenne », observe de son côté Yannick L’Horty, professeur à l’université Paris-Est - Marne-la-Vallée. Pour autant, elle permet de faire progresser les effectifs salariés dans le secteur privé, « de sorte que le chômage va probablement repartir à la baisse, à un rythme très mesuré ».
+Reste un gros bémol : des « incertitudes » subsistent sur le cours des matières premières, la parité de l’euro et les menaces protectionnistes, « ce qui est susceptible de remettre en cause la hausse du PIB ». D’après la dernière note de conjoncture de l’Insee, l’économie tricolore devrait créer moins d’emplois en 2018 (+ 183 000 « au total » contre + 340 000 en 2017).
+Les statistiques dévoilées mercredi laissent, en tout cas, songeur : le chômage cesse, au moins momentanément, de reculer alors même que de plus en plus d’employeurs se plaignent de ne pas trouver la main-d’œuvre dont ils ont besoin. Plusieurs secteurs sont affectés : la viticulture, le transport routier, la métallurgie... Selon l’enquête de conjoncture semestrielle de Bpifrance, publiée lundi, 41 % des petites et moyennes entreprises (PME) signalent des difficultés de recrutement, soit une hausse de sept points sur un an. Cet indicateur n’avait jamais été aussi élevé depuis 2002.
+Cette situation témoigne de l’inadaptation de l’offre et de la demande d’emploi. Le gouvernement veut y remédier, à travers son plan d’investissement dans les compétences (PIC), qui prévoit de former d’ici à 2022 deux millions de personnes peu qualifiées ou éloignées du monde du travail. Mais, comme le fait remarquer M. Martin, ce programme « n’a pas encore produit ses effets » puisqu’il n’en est qu’à ses prémices.
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-18">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-18"> ¤ Le groupe FCA a annoncé, mercredi, la mort de l’ancien administrateur délégué du groupe Fiat et président de Ferrari. Hospitalisé depuis une opération à l’épaule à la fin de juin, il avait souffert de complications.
+<filname="PROF-0,2-3234,1-0,0-18"> ¤                     
+                                                
+
+L’emblématique patron de Fiat Sergio Marchionne est mort à 66 ans
+
+Le groupe FCA a annoncé, mercredi, la mort de l’ancien administrateur délégué du groupe Fiat et président de Ferrari. Hospitalisé depuis une opération à l’épaule à la fin de juin, il avait souffert de complications.
+
+
+
+Le Monde
+ |    25.07.2018 à 11h53
+ • Mis à jour le
+25.07.2018 à 15h48
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+L’Italo-Canadien Sergio Marchionne, qui a été le patron du grand groupe automobile Fiat Chrysler (FCA) pendant quatorze ans, est mort mercredi 25 juillet. Il y a quelques jours encore, il était l’administrateur délégué du groupe automobile italien Fiat et le président de Ferrari.
+M. Marchionne, 66 ans, était hospitalisé à Zurich, en Suisse, depuis une opération à la fin de juin, officiellement à une épaule. Mais il a souffert de « complications inattendues » la semaine dernière et FCA avait annoncé samedi qu’il ne reviendrait pas à la tête du plus important employeur privé d’Italie.
+
+        Lire aussi :
+         
+
+                « Fin d’une époque » en Italie avec le départ du patron de Fiat
+
+
+
+« Humanité, responsabilité et ouverture morale »
+« Malheureusement, ce que nous craignions est arrivé. Sergio Marchionne, l’homme et l’ami, est parti. Je pense que le meilleur moyen d’honorer sa mémoire est de construire sur l’héritage qu’il nous a laissé, cultiver les valeurs d’humanité, de responsabilité et d’ouverture morale dont il a toujours été le promoteur le plus convaincu », a déclaré le patron de la holding Exor, John Elkann, petit-fils de Gianni Agnelli, la figure historique de Fiat.
+« Ma famille et moi-même serons toujours reconnaissants de ce qu’il a fait, et nos pensées vont à Manuela [sa compagne] et à ses fils, Alessio et Tyler. Je renouvelle ma demande de respecter la vie privée de la famille de Sergio », a-t-il ajouté.
+Le groupe FCA avait annoncé le 21 juillet que M. Marchionne serait « dans l’incapacité de reprendre ses activités professionnelles ». Plusieurs sources hospitalières décrivaient son état de santé comme « irréversible », sans plus de précisions.
+Mike Manley, jusqu’ici PDG de Jeep, a été nommé à la tête du groupe Fiat-Chrysler, tandis que la présidence de Ferrari a été confiée à John Elkann.
+Redressement de Fiat depuis 2004
+Les députés italiens ont observé mercredi une minute de silence à sa mémoire, qui s’est terminée par des applaudissements. « Merci pour le travail, la fatigue, les résultats. C’est l’orgueil italien porté dans le monde », a écrit sur Twitter l’ancien président du conseil italien, Paolo Gentiloni. « Que la terre lui soit légère », a commenté son prédécesseur, Matteo Renzi.
+« L’annonce de sa disparition nous peine et laisse un vide en tous ceux qui ont connu et apprécié ses qualités humaines, intellectuelles et professionnelles », a salué le président italien, Sergio Mattarella. « Marchionne a écrit une page importante de l’histoire de l’industrie italienne (…), en montrant au monde la capacité et la créativité de la réalité manufacturière de notre pays. » 
+Le manageur italo-canadien aux éternels pulls ou polos noirs, qui avait pris les commandes de Fiat en 2004, prévoyait initialement de passer les rênes de FCA dans le courant de l’année 2019. En quatorze ans, il a profondément remodelé le groupe, d’abord en redressant Fiat, en l’alliant en 2014 à l’américain Chrysler, tout en détachant d’une part les activités gros engins-camions en 2011 pour créer CHN Industrial et d’autre part le joyau Ferrari en janvier 2016.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-19">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-19"> ¤ Depuis le scandale Cambridge Analytica, qui secoue Facebook, ce type d’applications, qui se connectent à ces grandes plates-formes, est scruté.
+<filname="PROF-0,2-3234,1-0,0-19"> ¤                     
+                                                
+
+Twitter bannit 143 000 applications tierces douteuses
+
+Depuis le scandale Cambridge Analytica, qui secoue Facebook, ce type d’applications, qui se connectent à ces grandes plates-formes, est scruté.
+
+
+
+Le Monde
+ |    25.07.2018 à 10h51
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Le réseau social Twitter a annoncé mardi 24 juillet qu’il avait révoqué l’accès de 143 000 applications tierces à sa plate-forme entre avril et juin. Ces applications sont des programmes qui se connectent à Twitter pour différentes raisons. Par exemple, si un utilisateur souhaite tweeter automatiquement ses photos Instagram, il faut que cette application puisse avoir l’autorisation d’accéder à Twitter. Un laissez-passer accordé par l’utilisateur, mais aussi par Twitter.
+Or, au milieu des innombrables programmes demandant ainsi à accéder au réseau social se trouvent des applications aux objectifs moins clairs. Twitter est resté relativement évasif sur les raisons exactes pour lesquelles ces 143 000 applications avaient été révoquées, disant, dans un billet de blog, qu’elles violaient son règlement. « Nous ne tolérons pas que l’on puisse utiliser notre API [le système permettant à ces applications d’accéder à Twitter] pour produire du spam, manipuler les conversations ou nuire à la vie privée des utilisateurs de Twitter », peut-on lire dans ce message, qui n’apporte pas plus de détails sur ce que faisaient concrètement ces applications.
+L’entreprise a également annoncé que le processus permettant aux développeurs de soumettre des applications à Twitter serait renforcé. Il leur sera demandé plus de détails sur leur projet, et le nombre d’applications qu’ils pourront enregistrer sera limité à dix.
+Les applications tierces, qui se connectent à des plates-formes très utilisées comme Twitter, sont observées de près depuis le scandale Cambridge Analytica. Au printemps, on avait appris que cette entreprise spécialisée dans l’influence politique, et proche de Donald Trump, avait récolté à travers une application de quiz les données de 83 millions d’utilisateurs de Facebook.
+
+
+
+                            
+
+
+                        
+
+                        
+
+
+<article-nb="2018/07/26/19-20">
+<filnamedate="20180726"><AAMM="201807"><AAMMJJ="20180726"><AAMMJJHH="2018072619">
+<filname="SURF-0,2-3234,1-0,0-20"> ¤ La compagnie irlandaise justifie cette décision, qui menace 300 emplois, par les baisses de réservations du fait des grèves de pilotes en Irlande.
+<filname="PROF-0,2-3234,1-0,0-20"> ¤                     
+                                                
+
+Face aux grèves de pilotes, Ryanair annonce une réduction de sa flotte à Dublin
+
+La compagnie irlandaise justifie cette décision, qui menace 300 emplois, par les baisses de réservations du fait des grèves de pilotes en Irlande.
+
+
+
+Le Monde
+ |    25.07.2018 à 10h39
+   
+
+
+
+
+
+                        
+
+
+
+   
+
+
+Après trois jours de grève d’une partie de ses pilotes en Irlande, la compagnie aérienne à bas coûts Ryanair a annoncé mercredi 25 juillet la réduction de 20 % de sa flotte à Dublin cet hiver, menaçant 300 emplois. L’entreprise irlandaise justifie cette décision par les baisses de réservations du fait des grèves.
+Le groupe ajoute vouloir donner la priorité à ses activités en Pologne, qui sont en plein essor. Ryanair n’aura plus que 24 avions à Dublin contre 30 jusqu’à présent, ce qui pourrait entraîner des pertes d’emplois pour 100 pilotes et 200 membres du personnel de cabine à partir du 28 octobre, selon un communiqué.
+Cette annonce est faite au sortir d’une grève qui s’est déroulée sur trois jours depuis la mi-juillet en Irlande par des pilotes réclamant de meilleures conditions de travail. Ryanair, qui ne cesse de fustiger les motifs des grèves, fait face en outre mercredi et jeudi à une action de plus grande ampleur du personnel de cabine de la compagnie en Espagne, au Portugal, en Belgique et en Italie, avec 600 vols annulés, affectant 100 000 passagers.
+
+        Lire aussi :
+         
+
+                Grève à Ryanair : 600 vols annulés en Europe, 100 000 passagers affectés
+
+
+
+Une menace mise à exécution
+La compagnie met ainsi sa menace à exécution après avoir averti lors de la présentation de ses résultats trimestriels, lundi, marqués par une baisse de son bénéfice net, que les grèves pourraient la contraindre à revoir ses prévisions de trafic pour l’hiver, avec à la clé moins d’avions et des pertes d’emplois.
+Ryanair explique avoir observé une baisse des réservations et des prix en Irlande, en partie en raison des grèves récentes des pilotes irlandais, qui ont, selon le groupe, plombé la confiance des clients dans la fiabilité de ses programmes de vol. La compagnie s’attend à fermer peu de destinations proposées à Dublin mais va plutôt réduire la fréquence des vols.
+Le groupe irlandais assure que d’éventuels licenciements seront déterminés en fonction de plusieurs facteurs comme la productivité et les demandes de transfert vers d’autres bases. Elle proposera des emplois en Pologne et peut-être sur d’autres bases.
+
+        Lire aussi :
+         
+
+                Ryanair fait face à la grogne des pilotes
+
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
