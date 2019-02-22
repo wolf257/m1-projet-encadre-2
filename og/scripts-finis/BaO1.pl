@@ -1,5 +1,7 @@
 #!/usr/bin/env/ perl -w
 
+# TODO : récupérer les dates pour le fichier XML
+
 use XML::RSS;
 
 # VAR ===========================================================

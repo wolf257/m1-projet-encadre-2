@@ -39,9 +39,31 @@ Pour atteindre notre objectif, nous allons utilisé différentes BAO.
 
 * Plan de travail
 
-** BaO 1 : script perl
+** BaO 1 : script perl (sans module / avec XML:RSS)
 
-** BaO 2 : étiquettage
+Après avoir reçu en argument le nom d'un dossier, et demandé à l'utilisateur la rubrique à traiter parmi les 17 possible, le script va procéder comme suit :
+- Parcours de l'arborescence du dossier entré en argument à la recherche de fichiers xml contenant l'indice fourni par la rubrique choisie.
+- Pour chaque fichier, en extraire les items (qui correspondent aux articles).
+- Pour chaque item :
+    * nettoyer le titre et la description, 
+    * vérifier qu'on ne l'a pas déjà noté. Si oui, passer. 
+    * Si non:
+         - enrichir les informations (index, date...).
+         - l'écrire dans nos fichiers (txt et xml).
+
+À la fin, nous aurons donc un fichier txt contenant les titres et descriptions, et un fichier XML avec ces articles, mais aussi légérement enrichi.
+
+** BaO 2 : étiquettage (treetagger et talismane)
+
+La BaO2 va fonctionner un peu comme la première, mais en ajoutant un élément supplémentaire : l'étiquettage.
+
+Pour cela, il faut :
+- Tokeniser nos fichiers (XML ou txt?), ce que l'on fera grâce au script tokenise-utf8 (fourni par Mr Fleury, modifié par nous). 
+- Étiquetter parallélement par Treetagger et Talismane, cela nous permettra de comparer les deux approche.
+- Dans le cas de treetager, utiliser le script treetagger2xml-utf8 pour récupérer l'étiquettage et l'écrire en xml.
+
+À la fin, nous aurons un fichier XML entièrement étiqueté.
+
 
 ** BaO 3 : Extraction de patrons
 
