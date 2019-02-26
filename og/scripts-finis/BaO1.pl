@@ -2,6 +2,8 @@
 
 # TODO : récupérer les dates pour le fichier XML
 
+# Syntaxe : perl BaO1.pl <lien-vers-repertoire>
+
 use XML::RSS;
 
 # VAR ===========================================================

@@ -1,4 +1,4 @@
-* Le projet
+# Le projet
 
 Bienvenue. Ceci est un site créé dans le cadre du cours de projet encadré du second semestre de M1 Traitement Automatique du Langage.
 
@@ -10,7 +10,7 @@ Dans celui-ci, il s'agira, comme mentionné dans la page du cours, de :
 Ce cours posera d'abord la question des objectifs linguistiques à atteindre (lexicologie, recherche d'information, traduction...) et fera appel aux méthodes et outils informatiques nécessaires à leur réalisation (récupération de corpus, normalisation des textes, segmentation, étiquetage, extraction, structuration et présentation des résultats...).
 Ce cours sera aussi l'occasion d'une évaluation critique des résultats obtenus, d'un point de vue quantitatif et qualitatif.`
 
-* Les données
+# Les données
 
 Nos données consisteront en fils RSS issus du journal Le Monde. Les fils ont été récupérés par les soins du Pr Fleury en grande partie, grâce à un script bash et perl, activité par cron (/lien/) chaque jour de l'année 2018, à 19h. Ainsi, il a mis à notre disposition un dossier contenant les 17 fils d'actualité du journal (/img/).
 
@@ -26,7 +26,7 @@ Nous avons décidé, en tant que groupe de nous concentrer sur trois fils :
 Pour atteindre notre objectif, nous allons utilisé différentes BAO.
 
 
-* Quelques définitions
+# Quelques définitions
 
 - Bao : Boite à outils
 
@@ -37,9 +37,9 @@ Pour atteindre notre objectif, nous allons utilisé différentes BAO.
 -- à remplir --
 
 
-* Plan de travail
+# Plan de travail
 
-** BaO 1 : script perl (sans module / avec XML:RSS)
+## BaO 1 : script perl (sans module / avec XML:RSS)
 
 Après avoir reçu en argument le nom d'un dossier, et demandé à l'utilisateur la rubrique à traiter parmi les 17 possible, le script va procéder comme suit :
 - Parcours de l'arborescence du dossier entré en argument à la recherche de fichiers xml contenant l'indice fourni par la rubrique choisie.
@@ -53,7 +53,11 @@ Après avoir reçu en argument le nom d'un dossier, et demandé à l'utilisateur
 
 À la fin, nous aurons donc un fichier txt contenant les titres et descriptions, et un fichier XML avec ces articles, mais aussi légérement enrichi.
 
-** BaO 2 : étiquettage (treetagger et talismane)
+NB : Les fichiers finaux seront écrits dans le même dossier que celui où se trouve le script bao1.pl.
+
+Syntaxe : perl BaO1.pl <lien-vers-repertoire>
+
+## BaO 2 : étiquettage (treetagger et talismane)
 
 La BaO2 va fonctionner un peu comme la première, mais en ajoutant un élément supplémentaire : l'étiquettage.
 
@@ -64,6 +68,32 @@ Pour cela, il faut :
 
 À la fin, nous aurons un fichier XML entièrement étiqueté.
 
+### tokenise-utf8
+
+Syntaxe tokenise-utf8 : 
+    perl <lien-tokenise-utf8> -f <lien-input-txt> 
+        > <lien-output.txt>
+
+On peut enchainer les commandes :
+
+perl <lien-tokenise-utf8.pl> -f <lien-input-txt> 
+    | tree-tagger <lien-fichier-par> -token -lemma -no-unknown 
+    > <lien-output-txt>
+
+On aura un fichier txt, dans le dossier d'où on appelle le script.
+Ce fichier contiendra sur chaque ligne TOKEN - POS - LEMME.
+C'est ce fichier que devra utiliser treetagger2xml-utf8.
+
+### treetagger2xml-utf8
+
+Syntaxe :
+
+perl <lien-treetagger2xml-utf8> <lien-input-txt> <encodage (utf8 ici)> 
+    
+On aura un fichier xml, dans le dossier d'où on appelle le script.
+Il aura exactement le même nom, avec .xml rajouter en fin.
+
+    
 
 ** BaO 3 : Extraction de patrons
 
