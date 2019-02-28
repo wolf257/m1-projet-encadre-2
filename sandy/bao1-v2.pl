@@ -24,7 +24,7 @@ print FICOUTXML "<?xml version=\"1.0\" encoding=\"utf8\" ?>\n";
 print FICOUTXML "<racine>\n";
 #----------------------------------------
 
-&parcoursarborescencefichiers($rep);	#recurse!
+&parcoursarbre($rep);	#recurse!
 
 #----------------------------------------
 print FICOUTXML "</racine>";
@@ -33,7 +33,7 @@ close(FICOUTXML);
 exit;
 
 #---------------FONCTIONS-----------------
-sub parcoursarborescencefichiers {
+sub parcoursarbre {
     my $path = shift(@_);
     opendir(DIR, $path) or die "can't open $path: $!\n";
     my @files = readdir(DIR);
@@ -42,7 +42,7 @@ sub parcoursarborescencefichiers {
         next if $file =~ /^\.\.?$/; #on s'assure que $file n'est pas un des répertoire cachés . ou ..
         $file = $path."/".$file;
         if (-d $file) { #"si $file est un répertoire"
-            &parcoursarborescencefichiers($file);	#recurse!
+            &parcoursarbre($file);	#recurse!
         }
         if (-f $file) { #si $file est un fichier
     #       TRAITEMENT à réaliser sur chaque fichier
