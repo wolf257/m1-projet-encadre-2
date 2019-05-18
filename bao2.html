@@ -1,0 +1,257 @@
+<!DOCTYPE HTML>
+<!--
+Forty by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <title>BaO2</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript>
+        <link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+
+<body class="is-preload">
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+
+        <!-- Header -->
+        <!-- Note: The "styleN" class below should match that of the banner element. -->
+        <header id="header" class="alt style2">
+            <a href="index.html" class="logo"><strong>Projet encadré M1</strong> <span>par DUCHEMIN Sandy et GUEYE
+                    Ousseynou</span> <strong> BaO2 </strong> </a>
+            <nav>
+                <a href="#menu">Menu</a>
+            </nav>
+        </header>
+
+        <!-- Menu -->
+        <nav id="menu">
+            <ul class="links">
+                <li><a href="index.html"> Accueil </a></li>
+                <li><a href="bao1.html"> BaO1 </a></li>
+                <li><a href="bao2.html"> BaO2 </a></li>
+                <li><a href="bao3.html"> BaO3 </a></li>
+                <li><a href="bao4.html"> BaO4 </a></li>
+
+            </ul>
+            <!-- <ul class="actions stacked">
+<li><a href="#" class="button primary fit">Get Started</a></li>
+<li><a href="#" class="button fit">Log In</a></li>
+</ul> -->
+        </nav>
+
+        <!-- Banner -->
+        <!-- Note: The "styleN" class below should match that of the header element. -->
+        <section id="banner" class="style2">
+            <div class="inner">
+                <span class="image">
+                    <img src="images/pic07.jpg" alt="" />
+                </span>
+                <header class="major">
+                    <h1> Boite à Outils 2</h1>
+                </header>
+                <div class="content">
+                    <p> Étiquettage grâce à treetagger et talismane (nouveau au programme). </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main -->
+        <div id="main">
+
+            <!-- One -->
+            <section id="one">
+                <div class="inner">
+                    <header class="major">
+                        <h2> Objectif et déroulement : </h2>
+                    </header>
+                    <p> La BaO2 va fonctionner un peu comme la première, mais en ajoutant un élément supplémentaire :
+                        l'étiquettage. </p>
+
+                    <p> Pour cela, il faut : </p>
+                    <ul>
+                        <li> Tokeniser nos fichiers (XML ou txt?), ce que l'on fera grâce au script tokenise-utf8
+                            (fourni par Mr Fleury, modifié par nous). </li>
+                        <li> Étiquetter parallélement par Treetagger et Talismane, cela nous permettra de comparer les
+                            deux approches. </li>
+                        <li> Dans le cas de treetager, utiliser le script treetagger2xml-utf8 pour récupérer
+                            l'étiquettage et l'écrire en xml. </li>
+                    </ul>
+
+                    <p>À la fin, nous aurons un fichier XML entièrement étiqueté.</p>
+                </div>
+            </section>
+
+            <!-- Two -->
+            <section id="two" class="spotlights">
+
+                <!-- Code -->
+                <section>
+                    <a href="bao2.html" class="image">
+                        <!-- img si voulu -->
+                        <img src="datas/img-bao/bao2.png" alt="" data-position="center center" />
+                    </a>
+                    <div class="content">
+                        <div class="inner">
+                            <header class="major">
+                                <h3> Code : </h3>
+                            </header>
+                            <ul class="actions">
+                                <li><a href="datas/codes-bao/bao2.pl" class="button" target="_blank"> Télécharger le code </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- AUTRES SCRIPTS -->
+
+                <section>
+                    <a href="#" class="image">
+                        <img src="" alt="" data-position="top center" />
+                    </a>
+
+                    <div class="content">
+                        <div class="inner">
+                            <header class="major">
+                                <h3> Autres scripts utilisés pour cette phase </h3>
+                            </header>
+
+                            <h3 style="color : green;"> tokenise-utf8 </h3>
+
+                            <h5> Syntaxe : </h5>
+
+                            <code> perl &lt; lien-tokenise-utf8 &gt; -f &lt; lien-input-txt &gt;
+                                &gt; lien-output.txt </code>
+
+                            <p> <br> On peut enchainer les commandes : </p>
+
+                            <code> perl &lt; lien-tokenise-utf8.pl &gt; -f &lt; lien-input-txt &gt;
+                                | tree-tagger &lt; lien-fichier-par &gt; -token -lemma -no-unknown
+                                &gt; &lt; lien-output-txt &gt; </code>
+
+                            <p> <br> On aura un fichier txt, dans le dossier d'où on appelle le script.
+                                Ce fichier contiendra sur chaque ligne TOKEN - POS - LEMME.
+                                C'est ce fichier que devra utiliser treetagger2xml-utf8. <p>
+
+                                    <h3 style="color : green;"> treetagger2xml-utf8 </h3>
+
+                                    <h5> Syntaxe : </h5>
+
+                                    <code> perl &lt; lien-treetagger2xml-utf8 &gt; &lt; lien-input-txt &gt; &lt;
+                                        encodage (utf8 ici) &gt; </code>
+
+                                    <p> <br> On aura un fichier xml, dans le dossier d'où on appelle le script.
+                                        Il aura exactement le même nom, avec .xml rajouter en fin. </p>
+
+
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Results -->
+
+                <section>
+                    <a href="#" class="image">
+                        <img src="datas/img-bao/results-bao2.png" alt="" data-position="top center" />
+                    </a>
+
+                    <div class="content">
+                        <div class="inner">
+                            <header class="major">
+                                <h3> Résultats obtenus </h3>
+                            </header>
+
+                            <ul class="actions">
+                                <li><a href="datas/sorties-bao/bao2/sortie-talismane-3234.txt" class="button" target="_blank">
+                                        Talismane-3234 </a></li>
+
+                                <li><a href="datas/sorties-bao/bao2/sortie-talismane-3260.txt" class="button" target="_blank">
+                                        Talismane-3260 </a></li>
+
+                                <li><a href="datas/sorties-bao/bao2/sortie-talismane-651865.txt" class="button" target="_blank">
+                                        Talismane-651865 </a></li>
+                            </ul>
+
+                            <ul class="actions">
+                                <li><a href="datas/sorties-bao/bao2/TTsortie-texte-3234.txt" class="button" target="_blank"> Texte-3234
+                                    </a></li>
+
+                                <li><a href="datas/sorties-bao/bao2/TTsortie-texte-3260.txt" class="button" target="_blank"> Texte-3260
+                                    </a></li>
+
+                                <li><a href="datas/sorties-bao/bao2/TTsortie-texte-651865.txt" class="button" target="_blank">
+                                        Texte-651865 </a></li>
+                            </ul>
+
+                            <ul class="actions">
+                                <li><a href="datas/sorties-bao/bao2/TTsortie-xml-3234.xml" class="button" target="_blank"> Xml-3234 </a>
+                                </li>
+
+                                <li><a href="datas/sorties-bao/bao2/TTsortie-xml-3260.xml" class="button" target="_blank"> Xml-3260 </a>
+                                </li>
+
+                                <li><a href="datas/sorties-bao/bao2/TTsortie-xml-651865.xml" class="button" target="_blank"> Xml-651865
+                                    </a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </section>
+
+                <section></section>
+
+                <!-- Vers bao -->
+                <section>
+                    <div class="content">
+                        <div class="inner">
+                            <header class="major">
+                                <h3> Vers BaO : </h3>
+                            </header>
+
+                            <ul class="actions">
+                                <li><a href="index.html" class="button"> vers Accueil </a></li>
+                                <li><a href="bao1.html" class="button"> vers BaO1 </a></li>
+                                <li><a href="bao2.html" class="button"> vers BaO2 </a></li>
+                                <li><a href="bao3.html" class="button"> vers BaO3 </a></li>
+                                <li><a href="bao4.html" class="button"> vers BaO4 </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+
+            </section>
+
+        </div>
+
+
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="inner">
+                <ul class="copyright">
+                    <li>&copy; </li>
+                    <li>Design : Duchemin et Gueye en se basant sur <a href="https://html5up.net" target="_blank">HTML5 UP</a>.</li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

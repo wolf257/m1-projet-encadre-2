@@ -1,0 +1,2525 @@
+3149 éléments trouvés
+
+Type de pattern: [^ ]+/NC [^ ]+/P [^ ]+/NC [^ ]+/P [^ ]+/NC 
+
+1	formes de vente en ligne
+1	architecture de fond en comble
+1	recommandations en matière de culture
+1	besoin de raconteurs d' histoires
+1	réputation de brûleur d' embargos
+1	littérature de jeunesse comme genre
+1	publication d' allégations de harcèlement
+1	religion en cellule de déradicalisation
+1	chahut d' œuvres d' art
+1	auteur en veine de confidences
+1	Soupirs de bêtes en rut
+1	offre de livres en provenance
+1	sélection d' essais en poche
+1	up de livres en streaming
+1	minute de danse par jour
+1	crise depuis novembre à cause
+1	jeu de massacre entre collégiens
+1	couverture de millions de 10
+1	cours d' errances sans fin
+1	fondateur de Solidarité en 1980
+1	portraits de femmes en lutte
+1	personnages en quête de sens
+1	trentaine d' auteurs de polars
+1	fratrie d' enfants d' immigrés
+1	monde à portée de main
+1	lien entre sentence de mort
+1	sélection de livres de poche
+1	codes de mangas de football
+1	films de guerre en mer
+1	jeunesse comme genre à part
+1	centaines de milliers de dollars
+1	peintre en mal d' inspiration
+1	parc d' attractions en projet
+
+Type de pattern: [^ ]+/V [^ ]+/DET [^ ]+/NC 
+
+23	publie un strip
+11	dresse la liste
+6	publie chaque samedi
+6	a la parole
+4	publie chaque mardi
+3	livre le roman
+3	est un roman
+3	dessinent des paysages
+3	publie chaque vendredi
+3	inspirent des images
+3	partage ses conseils
+3	est le pays
+3	publie deux recueils
+3	est l' occasion
+3	est votre livre
+3	nourrissent des mondes
+3	est un univers
+3	interroge une personnalité
+2	normalisent l' absence
+2	voici une sélection
+2	raconte son père
+2	a cinquante ans
+2	fait le point
+2	affronte la violence
+2	est l' auteur
+2	reflète une tendance
+2	fait l' objet
+2	voit l' auteure
+2	était l' invitée
+2	inspire des écrivains
+2	a un siècle
+2	publie un livre
+2	raconte la rencontre
+2	offre la genèse
+2	fait le djihadiste
+2	suit une bande
+2	porte un regard
+2	évoque la place
+2	raconte le périple
+2	joue des codes
+2	propose ses coups
+2	a vingt ans
+2	a trente ans
+2	décime les populations
+2	abordait son histoire
+2	trempent la plume
+2	est un acte
+2	est une compilation
+2	interroge les usages
+2	articulait sa philosophie
+2	touche sa cible
+2	ouvre le salon
+2	évoque la violence
+2	retrace l' histoire
+1	raconte les désillusions
+1	abandonne la polémique
+1	parcourent deux Américains
+1	sort ce vendredi
+1	revisite les contes
+1	évoque la genèse
+1	livre le récit
+1	interroge l' art
+1	fait le portrait
+1	approfondit ses réflexions
+1	ouvre un œil
+1	dessine la biographie
+1	ouvre une brèche
+1	publie sa correspondance
+1	est l' objet
+1	voici notre sélection
+1	ouvrit la voie
+1	forgent la réussite
+1	lançaient la bataille
+1	profile la rentrée
+1	témoignent des inquiétudes
+1	analyse les sources
+1	évoque le sex
+1	cotoient les archives
+1	est une maladie
+1	interroge cette semaine
+1	résume ses réflexions
+1	quitte le milieu
+1	signe un livre
+1	récolte les fruits
+1	consacre un texte
+1	raconte le sevrage
+1	explorent le quartier
+1	remet le feu
+1	récusait l' étiquette
+1	négocie l' achat
+1	suscitent des créations
+1	montrent la guerre
+1	examine la rivalité
+1	ai un rapport
+1	ferment l' accès
+1	chasse le proxénète
+1	imagine la prise
+1	crée la matière
+1	annoncent la bande
+1	est le prix
+1	détricote le mystère
+1	est l' â
+1	sont des créatures
+1	fut le lauréat
+1	suscite le malaise
+1	analyse les difficultés
+1	livre ses souvenirs
+1	prend l' aérotrain
+1	joue les méchants
+1	souligne les dérives
+1	prend le cannibalisme
+1	partagent leur vision
+1	est une histoire
+1	devient la norme
+1	pousse cette obsession
+1	révèle la diversité
+1	publions le manifeste
+1	rencontre l' amour
+1	fait la bête
+1	livre une approche
+1	propose une sélection
+1	livre un récit
+1	naquit la vérité
+1	met l' esprit
+1	fut une militante
+1	porte son nom
+1	préférait les femmes
+1	possède le fils
+1	fait des rois
+1	offre une immersion
+1	cernent le germe
+1	livre ses coups
+1	enténèbrent la réputation
+1	exhume la mémoire
+1	pourfend les clichés
+1	ouvre ses portes
+1	écoute les habitants
+1	dépeint la chute
+1	entourent l' enseignement
+1	questionne notre rapport
+1	publie son livre
+1	avoue son admiration
+1	explore un fait
+1	raconte les musiques
+1	brosse le tableau
+1	écarte des voies
+1	use sa plume
+1	manque sa cible
+1	autopsie l' amour
+1	démontre le lien
+1	célèbrent le retour
+1	suscite les polémiques
+1	décrédibilise sa raison
+1	quitte son mari
+1	prêtent les éditions
+1	passionne les Danois
+1	aime cette idée
+1	est un anti
+1	racontent six mois
+1	évoque son itinéraire
+1	croise les apports
+1	fait l' archéologue
+1	brode un texte
+1	accentuent leur pression
+1	dénonce l' intolérance
+1	est la capitale
+1	dénoncent les faillites
+1	explique le choix
+1	montre la réédition
+1	est l' invité
+1	voit sa conception
+1	fait le procès
+1	raconte le destin
+1	montre les conditions
+1	procède la philosophie
+1	salue la réédition
+1	utilise ses charmes
+1	obsèdent le héros
+1	mêle l' enquête
+1	est un conte
+1	analyse un travers
+1	sont ces Celtes
+1	évoque les rencontres
+1	propose une histoire
+1	étudie la place
+1	tint l' été
+1	préside l' édition
+1	redécouvre l' écrivain
+1	mène le chœur
+1	pensent les autistes
+1	dénoncent les exactions
+1	comblera les amateurs
+1	prendra la succession
+1	traverse le ciel
+1	attend la résurrection
+1	exerce l' auteur
+1	retrace le sort
+1	raconta son expérience
+1	évoque leurs liens
+1	continue son marathon
+1	furent la clé
+1	brosse une histoire
+1	laisse une œuvre
+1	rend son humanité
+1	est une tragédie
+1	cosignent un ouvrage
+1	publie chaque mardhi
+1	publie des extraits
+1	a un impact
+1	démonte le roman
+1	signe une adaptation
+1	suspend son projet
+1	fut un auteur
+1	arpente sa mémoire
+1	raconte le cancer
+1	est le contraire
+1	est les monstres
+1	était un héros
+1	ouvre un livre
+1	publions ce mercredi
+1	cherchent des origines
+1	vote la confiance
+1	orchestre un chahut
+1	accomplissent une tâ
+1	aborde le sujet
+1	endosse la peau
+1	remet sa mère
+1	explique les ficelles
+1	transcende l' ordinaire
+1	a la tendresse
+1	est un pays
+1	relate une enfance
+1	publie un ouvrage
+1	suit le périple
+1	structurent son œuvre
+1	louent une chambre
+1	retrace la généalogie
+1	propose une approche
+1	raconte une femme
+1	expose le quotidien
+1	démêle le fait
+1	retrace mille ans
+1	publie un manifeste
+1	racontent ces années
+1	dessine son odyssée
+1	analyse les expériences
+1	partagent les Européens
+1	publie un extrait
+1	pourfend les fantasmes
+1	réinvente l' esprit
+1	offre ses recommandations
+1	annoncent l' effondrement
+1	remporte le Fauve
+1	connut un succès
+1	concevaient le désir
+1	habite l' espace
+1	baigne les amis
+1	retrace la vie
+1	secoue l' Académie
+1	demande le retrait
+1	ai une énergie
+1	aborde son rapport
+1	livre un adieu
+1	accusent le mari
+1	commet un meurtre
+1	publions ce vendredi
+1	a le pouvoir
+1	incite ses lecteurs
+1	saisit la cohérence
+1	fut l' antisémitisme
+1	réinventent l' œuvre
+1	suscite l' immigration
+1	bouscule l' histoire
+1	publie ce dimanche
+1	renvoie le fascisme
+1	est l' amour
+1	consacre un essai
+1	imitent les dessins
+1	raconte le siège
+1	laisse un vide
+1	est un instrument
+1	marque le secteur
+1	embrasse l' histoire
+1	reste un territoire
+1	faut des romans
+1	évoque l' horreur
+1	fait une ode
+1	attribue le prix
+1	interroge ce geste
+1	reprend la recette
+1	faisaient l' objet
+1	arpente les malls
+1	est un sujet
+1	est l' invitée
+1	rappelle la récurrence
+1	rend un hommage
+1	dégage l' écrivaine
+1	permet la vie
+1	multiplia les projets
+1	nourrissent ses récits
+1	a le don
+1	fait la généalogie
+1	fait des livres
+1	traversent la bande
+1	viendront les jours
+1	consacre la vitalité
+1	pose son sac
+1	repose l' industrie
+1	est le récit
+1	raconte un fils
+1	fabrique des formats
+1	traverse le temps
+1	embrasse le parcours
+1	met la vie
+1	entourent ce phénomène
+1	inspire la bande
+1	est l' adresse
+1	raconte la relation
+1	proposent deux strips
+1	signe une étude
+1	estime le sociologue
+1	trace un tableau
+1	a cent ans
+1	est un gage
+1	suit le parcours
+1	oppose le pluralisme
+1	sont les querelles
+1	conteste la menace
+1	apprend le livre
+1	jette un mari
+1	éclaire notre monde
+1	creuse la boue
+1	met le cap
+1	fait une épopée
+1	examine la place
+1	raconte un coin
+1	rend un bel
+1	sont les instruments
+1	marque un tournant
+1	signe le récit
+1	offre une illustration
+1	sont les faits
+1	estime le critique
+1	défie le destin
+1	soutient les séparatistes
+1	racontent une chanson
+1	retrace la saga
+1	installe une famille
+1	partagent les opinions
+1	parait une série
+1	tisse des quiproquos
+1	renvoient leurs héros
+1	brosse un portrait
+1	subvertit le centenaire
+1	décrit son approche
+1	apporte des preuves
+1	écrit les vies
+1	recherche le mot
+1	abordent les traditions
+1	dresse une fresque
+1	dédie sa vie
+1	est le pari
+1	démantèle la colonie
+1	décrivent le défi
+1	embrasse la vie
+1	conte sa jeunesse
+1	décrit l' histoire
+1	est une caractéristique
+1	embrasse les monstres
+1	fête ses noces
+1	donne des couleurs
+1	affirme le directeur
+1	compose un hymne
+1	pousse ses personnages
+1	inventent des personnages
+1	restituent la place
+1	acquiert le numéro
+1	recherche cette économie
+1	évoque ses thèmes
+1	était une fatwa
+1	assainirait la situation
+1	conjure la perte
+1	mettent leurs dons
+1	convoque ses souvenirs
+1	montre sa foi
+1	est la bête
+1	raconte l' exil
+1	mène l' enquête
+1	suis le genre
+1	livrent une photographie
+1	évoque ces instants
+1	ouvre la porte
+1	indigne le Syndicat
+1	est le dialogue
+1	accueille cette année
+1	cultive son pessimisme
+1	raconte son éveil
+1	remporte le Prix
+1	raconte la vie
+1	crée la nuit
+1	rafraîchissent nos connaissances
+1	est un manuel
+1	menez la découverte
+1	embauche l' auteure
+1	place une mère
+1	garde des sceaux
+1	analysent les mécanismes
+1	accompagnent le cinquantenaire
+1	faisaient les grammairiens
+1	suscite l' attente
+1	prend la mesure
+1	rompt la glace
+1	livre l' histoire
+1	examine les apports
+1	éclairent la personnalité
+1	imagine une ville
+1	montre la complexité
+1	a la possibilité
+1	chante le corps
+1	raconte le monde
+1	vrille le cœur
+1	décrit l' expropriation
+1	méritent le détour
+1	poursuit la femme
+1	hisse le polar
+1	Défions l' augure
+1	marque le retour
+1	évoque les années
+1	cultive le rejet
+1	prévoit une tournée
+1	ravive une enfance
+1	démonte nos visions
+1	permet la philosophie
+1	marquent cet événement
+1	raconte son retour
+1	est la famille
+1	prônait l' épanouissement
+1	fut l' éditeur
+1	raconte son avant
+1	raconte son amitié
+1	lance ses personnages
+1	peint l' amour
+1	propose un choix
+1	décrit un système
+1	convoque le roman
+1	signe un récit
+1	montre le physicien
+1	représente le gouffre
+1	remet son prix
+1	découvrent les neurosciences
+1	raconte l' enfance
+1	suscite l' épouvante
+1	déploie deux récits
+1	apporte des éléments
+1	tisse un portrait
+1	crée un supplément
+1	évoque sa vie
+1	suggère cinq parutions
+1	divise l' opinion
+1	explore la métaphysique
+1	est l' illustration
+1	gêne le pouvoir
+1	libère sa discipline
+1	globalise l' étude
+1	prône la souplesse
+1	apprend le rôle
+1	a l' air
+1	rend le lecteur
+1	racontait son parcours
+1	explorent l' évolution
+1	décrit leur étape
+1	parcourt treize siècles
+1	retrace sa descente
+1	dénonce la culture
+1	corrèle l' engouement
+1	propose une version
+1	met l' humanité
+1	raconte des personnages
+1	est le fruit
+1	prononçait un discours
+1	proposent un bilan
+1	suspend la réédition
+1	raconte une enfance
+1	passe l' émoi
+1	libère les désirs
+1	sonde la folie
+1	ravira les amateurs
+1	raconte son aventure
+1	accompagne des adolescents
+1	est la tâ
+1	réclame le retrait
+1	traque le secret
+1	inventa la Fraction
+1	rouvre une vespasienne
+1	est un bijou
+1	ai deux cultures
+1	chante la démesure
+1	décrypte les représentations
+1	explique l' historienne
+1	poursuit le feuilleton
+1	publions ce mardi
+1	est un mur
+1	renouvelle la biographie
+1	considère l' éducation
+1	analyse la contribution
+1	est une forme
+1	cherchent un oiseau
+1	attendaient la fin
+1	rappelle la force
+1	découvre un monde
+1	propose une synthèse
+1	est la preuve
+1	remémore ses années
+1	signent un polar
+1	poursuit sa quête
+
+Type de pattern: [^ ]+/NC [^ ]+/ADJ 
+
+20	Pop corn
+16	écrivain américain
+9	rentrée littéraire
+7	écrivaine américaine
+6	écrivain russe
+6	sélection littéraire
+5	écrivain italien
+5	prix littéraires
+5	pamphlets antisémites
+5	dimanche 7
+5	roman autobiographique
+5	romancier américain
+4	écrivain israélien
+4	Interprétation sociologique
+4	parutions récentes
+4	chronique hebdomadaire
+4	philosophe allemand
+4	écrivaine nigériane
+3	épisode 17
+3	épisode 19
+3	moment décisif
+3	supplément littéraire
+3	Académie française
+3	guerre mondiale
+3	épisode 15
+3	épisode 21
+3	contrainte étatique
+3	réseaux sociaux
+3	langue française
+3	Académie suédoise
+3	phénomène littéraire
+3	Festival international
+3	épisode 20
+3	bête noire
+3	Révolution française
+3	histoire familiale
+3	textes antisémites
+3	écrivain français
+3	guerre civile
+3	écrivain britannique
+3	Cahiers noirs
+3	épisode 18
+3	femme libre
+3	leçon inaugurale
+3	écrivain allemand
+3	épisode 16
+2	essai novateur
+2	romancière américaine
+2	chronique sociale
+2	fait divers
+2	littérature israélienne
+2	épisode 28
+2	idée nationale
+2	épisode 22
+2	écrivaine britannique
+2	président américain
+2	Etat français
+2	Passions intellectuelles
+2	livres autobiographiques
+2	h 30
+2	écrivaines francophones
+2	écrivain norvégien
+2	agente secrète
+2	vendredi 23
+2	critique littéraire
+2	violences policières
+2	livre audio
+2	famille française
+2	enclave américaine
+2	compilation hétéroclite
+2	villages reculés
+2	Figures libres
+2	construction européenne
+2	Collège international
+2	essayiste américain
+2	synthèse bienvenue
+2	lundi 12
+2	sources bibliques
+2	gouvernement français
+2	espionnage industriel
+2	ouvrage collectif
+2	manga français
+2	an dernier
+2	épisode 30
+2	voix révisionnistes
+2	qualificatif infamant
+2	aventure littéraire
+2	romancier britannique
+2	historien britannique
+2	histoire contemporaine
+2	livre inédit
+2	mardi 2
+2	histoire intellectuelle
+2	capitale française
+2	littératures policières
+2	jeudi 4
+2	séries télévisées
+2	édition bilingue
+2	épisode 25
+2	mouvement #
+2	Livre 2
+2	BD japonaise
+2	épisode 14
+2	femme noire
+2	écrivain algérien
+2	polar historique
+2	journaliste sportif
+2	épisode 23
+2	récits autobiographiques
+2	chose publique
+2	académie suédoise
+2	agent secret
+2	périple kafkaïen
+2	Dictionnaire amoureux
+2	monde entier
+2	livre 1
+2	rigueur historienne
+2	mercredi 3
+2	histoire littéraire
+2	migrant guinéen
+2	dossiers judiciaires
+2	création littéraire
+2	vote populaire
+2	Œuvres complètes
+2	photoreporter corse
+2	épisode 27
+2	littérature russe
+2	prix littéraire
+2	épisode 31
+2	écrivains 2
+2	histoire vraie
+2	récit intime
+2	héros adolescents
+2	historiens français
+2	amnésique errant
+2	société américaine
+2	écrivain mexicain
+2	épisode 24
+2	épisode 33
+2	plaisanteries sexistes
+2	puissance invaincue
+2	Traquet kurde
+2	samedi 6
+1	expérience psychologique
+1	Note américaine
+1	enseignement primaire
+1	passion ancienne
+1	épisode 115
+1	Histoire militaire
+1	maître néerlandais
+1	figuration narrative
+1	douleur fantôme
+1	fiction francophone
+1	Intelligence artificielle
+1	ogre paternel
+1	sources lacunaires
+1	écrivain prolifique
+1	exposition genevoise
+1	hommes politiques
+1	inégalité concrète
+1	dépôt légal
+1	épisode 70
+1	marché noir
+1	mythologie cérébrale
+1	Celtes insaisissables
+1	critique méprisante
+1	cavalier seul
+1	Homme invisible
+1	romans noirs
+1	suffragistes radicales
+1	image dégradante
+1	dessins originaux
+1	déliquescence sociale
+1	questions économiques
+1	contexte social
+1	lapin rose
+1	livres essentiels
+1	habitants amers
+1	écrans français
+1	meurtre sauvage
+1	impact écologique
+1	révolution philosophique
+1	rancœur américaine
+1	restauration rapide
+1	fervents patriotes
+1	cité turque
+1	beauté irrésistibles
+1	roman orphelin
+1	énergie créatrice
+1	roman national
+1	roman américain
+1	origine kurde
+1	spasmes visuels
+1	édition français
+1	chronique judiciaire
+1	console nomade
+1	auteur francophile
+1	philosophes antiques
+1	Ordure lyrique
+1	fait social
+1	up américain
+1	régimes autocratiques
+1	valeur inestimable
+1	cœur littéraires
+1	créations fascinantes
+1	part sombre
+1	militant palestinien
+1	expression allemande
+1	directeur éditorial
+1	actualité permanente
+1	société meilleure
+1	bourgeoise parisienne
+1	écrivaine californienne
+1	critique radicale
+1	rentrée 2
+1	journalisme littéraire
+1	ventes moyennes
+1	roman spirituel
+1	littérature polonaise
+1	librairie imprévu
+1	devenir tumultueux
+1	douleurs anciennes
+1	comics populaires
+1	écrivaine tunisienne
+1	ascension fulgurante
+1	électron libre
+1	inspiration majeure
+1	tamis tous
+1	racisme institutionnel
+1	idée médiévale
+1	figure majeure
+1	sphère médiatique
+1	écrivain portugais
+1	écrivaine célèbre
+1	système tragique
+1	affaires judiciaires
+1	écrivaine ukrainienne
+1	esclavage sexuel
+1	faculté biologique
+1	écrivaine franco
+1	révolution numérique
+1	tableau terrifiant
+1	dictature militaire
+1	identité fixe
+1	coloristes pionniers
+1	journaliste parlant
+1	anarchiste russo
+1	médias radiophoniques
+1	famille convenable
+1	chroniqueuse judiciaire
+1	projet humaniste
+1	tradition littéraire
+1	traces réelles
+1	mystère français
+1	romancière franco
+1	écrivains français
+1	bouleversant premier
+1	expériences culinaires
+1	rencontre passionnante
+1	surenchère conservatrice
+1	monarque écervelé
+1	Ecce homo
+1	King of
+1	fait juif
+1	lecture publique
+1	étang médiatique
+1	période coloniale
+1	jeudi 12
+1	roman policier
+1	santé publique
+1	désordre bouillonnant
+1	question sensible
+1	essayiste britannique
+1	épisode 90
+1	robes extravagantes
+1	2 1
+1	société contemporaine
+1	historien américain
+1	journaliste musical
+1	philosophe italien
+1	écrivaine turque
+1	écrivain hongkongais
+1	écrivain franco
+1	amour secret
+1	écrivaine allemande
+1	valeurs sûres
+1	Prytanée militaire
+1	accord parfait
+1	guerre intime
+1	bullshit métaphysique
+1	roman saisissant
+1	expressions musicales
+1	hommage anthropologique
+1	auteur américain
+1	piste littéraire
+1	réalisatrice italienne
+1	dandy provocateur
+1	Versets sataniques
+1	contes occidentaux
+1	épisode 26
+1	librairies indépendantes
+1	projet démocratique
+1	trouble officine
+1	famille écolo
+1	pop américaine
+1	œuvres complètes
+1	style incroyable
+1	détournement fécond
+1	œuvre culte
+1	série sombre
+1	écrivain marocain
+1	apologie mystique
+1	sauvagerie américaine
+1	romans russes
+1	Ecorces vives
+1	erreurs factuelles
+1	voyageur français
+1	sensibilité mystique
+1	thriller rythmé
+1	contradictions politiques
+1	rythme hebdomadaire
+1	nation amérindienne
+1	théorie mathématique
+1	chevaux calmes
+1	autorité masculine
+1	élévation sociale
+1	militant trentenaire
+1	gauche française
+1	discours antisémite
+1	côté obscur
+1	réalisateur franco
+1	peloton franquiste
+1	fois philosophe
+1	ouvrages modernes
+1	société française
+1	monde arabe
+1	texte poétique
+1	écrivain romantique
+1	mètres dix
+1	romancière israélienne
+1	récompense littéraire
+1	philosophe mort
+1	romancier anglais
+1	écrivains 5
+1	ville silencieuse
+1	discours historique
+1	lien vital
+1	cause sociale
+1	joie tragique
+1	codes graphiques
+1	corps naturel
+1	résurrection nostalgique
+1	musicien paumé
+1	roman étincelant
+1	écrivaine nigérian
+1	injustices sociales
+1	acte militant
+1	dramaturge anglais
+1	bourreaux potentiels
+1	terrorisme séparatiste
+1	critique musical
+1	univers professionnel
+1	réalisateur américain
+1	Assemblée nationale
+1	fiction crépusculaire
+1	professeur émérite
+1	sexualité joyeuse
+1	nation combattante
+1	débat intellectuel
+1	livres ouverts
+1	politique sentimentale
+1	jury britannique
+1	pluralisme linguistique
+1	essai éclairant
+1	hommage exemplaire
+1	livres rares
+1	approches faciles
+1	Armée imaginaire
+1	ouvrières britanniques
+1	personnage historique
+1	effusion chromatique
+1	Totalitarisme fasciste
+1	œuvre considérable
+1	livres incontournables
+1	capitale haïtienne
+1	dessinateur suisse
+1	récit riche
+1	Ethique protestante
+1	Antiquités nationales
+1	métropole américaine
+1	sourire dissident
+1	remake rock
+1	militant nationaliste
+1	films noir
+1	exploration libératrice
+1	évidences grossières
+1	rapport compliqué
+1	dit long
+1	banlieue parisienne
+1	anthropologue islandais
+1	femme ordinaire
+1	épisode 43
+1	corps meurtri
+1	auteur chinois
+1	famille américaine
+1	série psychologique
+1	épisode 103
+1	informations pratiques
+1	droite antidreyfusarde
+1	polar américain
+1	loteries noires
+1	digressions troublantes
+1	écrivaine canadienne
+1	épisode 100
+1	maison américaine
+1	gauche radicale
+1	ogre musical
+1	comportements sociaux
+1	Part sauvage
+1	écrivain congolais
+1	Bouées jaunes
+1	movie carolingien
+1	violence sociale
+1	procès drôle
+1	romancier danois
+1	époque parfaite
+1	romancière japonaise
+1	destins divergents
+1	lecture neuve
+1	pourfendeur méticuleux
+1	animal domestique
+1	voix haute
+1	chimères destructrices
+1	légende occidentale
+1	violence omniprésente
+1	sciences cognitives
+1	couverture parfaite
+1	épisode 109
+1	BD nippone
+1	libraires furieux
+1	entreprise éditoriale
+1	place singulière
+1	réussite commerciale
+1	rachat probable
+1	milieu hostile
+1	romans monstrueux
+1	terreurs sanglantes
+1	auteur israélien
+1	sacrifices ordinaires
+1	pays étranger
+1	communions humaines
+1	palmarès complet
+1	écrivaine prolifique
+1	parcours immobile
+1	conditions expresses
+1	souffle puissant
+1	tiroir fatal
+1	auteure emblématique
+1	novembre 2015
+1	société civile
+1	action clandestine
+1	bonheur suprême
+1	auteur ibère
+1	philosophe américain
+1	part animale
+1	enfance chaotique
+1	représentation populaire
+1	expression française
+1	guerres civiles
+1	saxons influents
+1	Révolution antispéciste
+1	grandeur nature
+1	peluches géantes
+1	aventure initiatique
+1	Prince brûlante
+1	roman indonésien
+1	monarchie française
+1	emploi critique
+1	processus législatif
+1	version courte
+1	figuiers japonais
+1	ornière antisémite
+1	air rock
+1	prépublication japonaise
+1	émotion rapide
+1	veld polyphonique
+1	roman noir
+1	critique lucide
+1	destin politique
+1	univers galactique
+1	personnages japonais
+1	édition publique
+1	pays natal
+1	secrétaire perpétuelle
+1	prix alternatif
+1	Révolution russe
+1	culture politique
+1	désir mystique
+1	livre polémique
+1	artiste italienne
+1	lieux sauvages
+1	thématiques multiples
+1	développements technologiques
+1	oiseau rare
+1	académicienne suédoise
+1	Classe verte
+1	vacances normandes
+1	personnages similaires
+1	Attachement féroce
+1	agitation perpétuelle
+1	femmes violentées
+1	intellectuels suédois
+1	souvenir amer
+1	amours tumultueuses
+1	langues nationales
+1	taupe bourrée
+1	fièvre arctique
+1	moines bénédictins
+1	essais surprenants
+1	reconnaissance européenne
+1	parcours singulier
+1	travaux classiques
+1	politique française
+1	acte philanthropique
+1	écrivaine anglaise
+1	écrivain hongrois
+1	hommage drôle
+1	vendredi 9
+1	essai récent
+1	violence politique
+1	mécanismes étatiques
+1	entretiens envoûtant
+1	langue kafkaïenne
+1	sauvagerie intacte
+1	Sagesse animale
+1	succès insolent
+1	littérature classique
+1	version audio
+1	vie commune
+1	ton juste
+1	traduction contestable
+1	romancier québécois
+1	chaos libanais
+1	roman crûment
+1	droits humains
+1	labyrinthes intérieurs
+1	inspiration jubilatoire
+1	phénomène culturel
+1	scènes tranchantes
+1	commémoration familiale
+1	Allemands dociles
+1	officier quelconque
+1	terres ancestrales
+1	manga original
+1	destin foisonnant
+1	désir inconnu
+1	horreur classique
+1	autobiographie politique
+1	écrivain antillais
+1	écrivain libano
+1	Révolution matérielle
+1	romancier algérien
+1	Etats généraux
+1	auteur burlesque
+1	fresque historique
+1	frère aîné
+1	enjeux centraux
+1	savoir gai
+1	jury littéraire
+1	colons blancs
+1	noceur public
+1	788 descendants
+1	lundi 3
+1	Etat fort
+1	études littéraires
+1	muse savante
+1	origine polonaise
+1	littérature africaine
+1	éditeur flamboyant
+1	exercice périlleux
+1	boue sanglante
+1	rythmique incomparable
+1	pluralisme propre
+1	sujets interdits
+1	lieu privilégié
+1	épisode 107
+1	écrivaine afro
+1	10 -14
+1	militante infatigable
+1	intermédiaire idéal
+1	agressions sexuelles
+1	origine albanaise
+1	neurosciences cognitives
+1	Bibliothèque nationale
+1	servitude volontaire
+1	débats passionnés
+1	recherches scientifiques
+1	livre dix-sept
+1	espèce rare
+1	adieu solaire
+1	lectorat local
+1	spécialistes français
+1	cinéaste belge
+1	faits réels
+1	geste micropolitique
+1	enfer carcéral
+1	samouraï noir
+1	histoire coloniale
+1	transgression sexuelle
+1	quadragénaire quitte
+1	roman fougueux
+1	attachant rebelle
+1	Tonneau magique
+1	case noire
+1	critique sociale
+1	place centrale
+1	épisode 104
+1	fois réaliste
+1	écrivain autrichien
+1	enquête fouillée
+1	femme insaisissable
+1	vie aquatique
+1	réchauffement climatique
+1	vérité artificielle
+1	vie critique
+1	mort accidentelle
+1	terre silésienne
+1	symboles féministes
+1	détective calamiteux
+1	cases noires
+1	traite transatlantique
+1	visite illégale
+1	vie privée
+1	rentrée 4
+1	art contemporain
+1	société hongkongaise
+1	série spécial
+1	photographie contemporaine
+1	manifeste exubérant
+1	Terre promise
+1	violence religieuse
+1	horizons sauvages
+1	écrin mémoriel
+1	expression catalane
+1	auteure américaine
+1	périple funèbre
+1	littérature francophone
+1	sortie mondiale
+1	intégration silencieuse
+1	auteur prolifique
+1	recueil testamentaire
+1	round gagnant
+1	sociétés humaines
+1	Sagesse espiègle
+1	auteure charnelle
+1	éditeur français
+1	enquête policière
+1	critiques littéraires
+1	ressources inépuisables
+1	lettres effrénées
+1	écrivaine syrienne
+1	famille corse
+1	rendez-vous français
+1	gardes littéraires
+1	roman familial
+1	populations locales
+1	récit islandais
+1	angle futuriste
+1	œil neuf
+1	épisode 111
+1	art brut
+1	enquête exemplaire
+1	générosité intellectuelle
+1	vision incisive
+1	journaliste français
+1	désarroi physique
+1	récit captivant
+1	citoyen français
+1	territoire israélien
+1	conflit sanglant
+1	romancier russe
+1	fascination universelle
+1	succès planétaire
+1	Angle mort
+1	discours anti
+1	directeur général
+1	écrivain irlandais
+1	écriture somptueuse
+1	roman réaliste
+1	livre américain
+1	édition originale
+1	mariages blancs
+1	témoignage incandescent
+1	classe moyenne
+1	noirceurs ordinaires
+1	interprétation générale
+1	roman fiévreux
+1	création artistique
+1	militant noir
+1	rentrée 3
+1	déliquescence politique
+1	ville natale
+1	joie iconoclaste
+1	épisode 67
+1	cité précolombienne
+1	illustrations inédites
+1	enjeux modernes
+1	rêverie amoureuse
+1	maître américain
+1	dame coriace
+1	société britannique
+1	édition russe
+1	conglomérat français
+1	publication posthume
+1	geeks japonais
+1	séries télé
+1	aristocratie financière
+1	mangaka spécialiste
+1	immersion complète
+1	manga beau
+1	géographie imaginaire
+1	régime actuel
+1	idées politiques
+1	identité sexuelle
+1	regard égrillard
+1	roman significatif
+1	mythes fondateurs
+1	monde habitable
+1	Tragédie brune
+1	archéologie française
+1	épisode 102
+1	épisode 35
+1	vendredi 5
+1	orchestre russe
+1	messe annuelle
+1	voix poignante
+1	ambiances métropolitaines
+1	antiroman américain
+1	tirailleur courageux
+1	Révolution culturelle
+1	Fraction armée
+1	nationalisme intégral
+1	démocraties occidentales
+1	individualisme contemporain
+1	pays esclavagistes
+1	entrée prochaine
+1	histoire initiatique
+1	écrivain salvadorien
+1	province espagnole
+1	restes humains
+1	tournée spectaculaire
+1	paroles haineuses
+1	dissident kurde
+1	polar français
+1	adieux pétaradants
+1	total vingt-sept
+1	tirailleur sénégalais
+1	succès littéraire
+1	tomes indispensables
+1	audio récents
+1	littérature mexicaine
+1	édition française
+1	étude ambitieuse
+1	Coût freudien
+1	village natal
+1	crise migratoire
+1	auteur génial
+1	compléments érudits
+1	questions sociales
+1	amours délicates
+1	histoire ordinaire
+1	monde finissant
+1	archives judiciaires
+1	polar brutal
+1	groupe français
+1	journaux favorables
+1	albums islandais
+1	crimes antisémites
+1	commentaires inédits
+1	variations érudites
+1	vocation littéraire
+1	mardi 6
+1	épisode 39
+1	éditions scientifiques
+1	auteur anglais
+1	yéménite homosexuel
+1	réseau social
+1	bilan sensible
+1	écrivain anglais
+1	café existentialiste
+1	façon élégante
+1	voix joyeuse
+1	égard éloquent
+1	éducation sentimentale
+1	exercice ambitieux
+1	mort sociale
+1	art narratif
+1	console japonaise
+1	lettres russes
+1	barreaux turcs
+1	richesse narrative
+1	magazine américain
+1	Terres promises
+1	muse terminale
+1	dissolution morale
+1	écrivain finlandais
+1	originaux européens
+1	mère debout
+1	version intégrale
+1	corps féminin
+1	violence contemporaine
+1	origine indienne
+1	psychologue suisse
+1	chef indien
+1	régime fasciste
+1	dessinateur français
+1	femme excessive
+1	critique cinématographique
+1	historiens enthousiastes
+1	poésie 2017
+1	texte majeur
+1	plumes vertes
+1	Organisation internationale
+1	époque monstrueuse
+1	origine colombienne
+1	combattants africains
+1	débats spirituels
+1	œuvres capitales
+1	Faux calme
+1	oraison funèbre
+1	instants heureux
+1	liberté littéraire
+1	air vrai
+1	idée folle
+1	épisode 101
+1	existence humaine
+1	parcours migratoire
+1	influence littéraire
+1	romancière néerlandaise
+1	dictionnaire amoureux
+1	écrivaine argentine
+1	économie mixte
+1	livre premier
+1	relations internationales
+1	ghetto roumain
+1	quartier miséreux
+1	romancier mauritanien
+1	dates marquantes
+1	échanges amoureux
+1	star britannique
+1	héros classique
+1	réalisateur prolifique
+1	classiques étrangers
+1	version française
+1	rentrée 1
+1	enfants incapables
+1	abus moderne
+1	sources religieuses
+1	2_000 jeunes
+1	épisode 29
+1	élément constituant
+1	baie fauve
+1	littérature afro
+1	choc radical
+1	cours élémentaire
+1	épanouissement communautaire
+1	surproduction éditoriale
+1	roman épistolaire
+1	manga contemplatif
+1	épisode 44
+1	classe ouvrière
+1	archipel écossais
+1	fruits amers
+1	Syndicat national
+1	sens proche
+1	symbole féministe
+1	amateurs indéfectibles
+1	espions français
+1	littérature européenne
+1	poète météorique
+1	voies classiques
+1	intellectuels proches
+1	jeunesse allemande
+1	scandale sexuel
+1	milieux intellectuel
+1	fraude fiscale
+1	vie fidèle
+1	Action catholique
+1	épisode 108
+1	livre italien
+1	poète chilien
+1	idéologie panslaviste
+1	photographes américains
+1	automne inquiet
+1	chaînes pornographiques
+1	réformisme centriste
+1	histoire naturelle
+1	période totalitaire
+1	scénarios dérangeants
+1	penseurs antiques
+1	vie sensible
+1	45e festival
+1	saga française
+1	Exposition universelle
+1	années 1960
+1	vidéo adaptés
+1	Œuvres philosophiques
+1	vocation universelle
+1	approche sociale
+1	saisonniers agricoles
+1	écrivains allemands
+1	manga cyberpunk
+1	romancier roumain
+1	épisode 116
+1	philosophie contemporaine
+1	zones tues
+1	lecteur actif
+1	fournaise athénienne
+1	appropriation coloniale
+1	étape érotique
+1	immigrant suédois
+1	portrait caustique
+1	faiblesse humaine
+1	harcèlement sexuel
+1	prix 2018
+1	républicains espagnols
+1	épisode 112
+1	destin exceptionnel
+1	écrivain suédois
+1	fresque sociale
+1	bush australien
+1	célébration joyeuse
+1	écrivaine polonaise
+1	littérature française
+1	romancier écossais
+1	mangaka atypique
+1	pensée mondiale
+1	situation économique
+1	écrivaine japonaise
+1	enfant malade
+1	enfants juifs
+1	Série noire
+1	développement impersonnel
+1	roman fantôme
+1	antre secret
+1	ode brutale
+1	castes autoritaire
+1	accès exclusif
+1	fils cadet
+1	dessinateur américain
+1	culte national
+1	exil américain
+1	héros ordinaires
+1	ordre social
+1	série fantastique
+1	récit autobiographique
+1	parcours politique
+1	élection ­présidentielle
+1	lundi 14
+1	4 3
+1	société protectrice
+1	appartement londonien
+1	créatures sociales
+1	droite américaine
+1	genres journalistiques
+1	implantations juives
+1	chambre noire
+1	doutes contemporains
+1	thriller religieux
+1	polar japonais
+1	virgule chorégraphique
+1	tortionnaires argentins
+1	style rugueux
+1	points cardinaux
+1	éditeur canadien
+1	mémoire dangereuse
+1	côte normande
+1	vie banale
+1	dissident polonais
+1	possession irrémédiable
+1	romancier islandais
+1	chronique littéraire
+1	Coopération pédagogique
+1	texte gigogne
+1	dédale sentimental
+1	sursaut final
+1	portrait lacunaire
+1	carte blanche
+1	histoire chinoise
+1	territoire ­à
+1	homme blanc
+1	philosophie naturelle
+1	écrivain humaniste
+1	flic antisémite
+1	conséquences profondes
+1	monstre diabolique
+1	dessinatrice belge
+1	valeurs occidentales
+1	tortionnaire chilien
+1	artiste total
+1	livres marquants
+1	art pariétal
+1	univers viticole
+1	Muséum national
+1	événement mondial
+1	effet esthétique
+1	Terre humaine
+1	romans français
+1	saga sanglante
+1	regard morose
+1	discrétion ­persistante
+1	écrivain argentin
+1	récit admirable
+1	pages littéraires
+1	écrivain intercontinental
+1	auteure anglaise
+1	ségrégation raciale
+1	figure féministe
+1	blizzard propice
+1	astrophysicien mort
+1	sujet passionnant
+1	peintures murales
+1	regard incisif
+1	romancier italien
+1	trait minimaliste
+1	luttes féministes
+1	yorkais sombre
+1	Cœur blanc
+1	criminel inéluctable
+1	société ibériques
+1	vie mystérieuse
+1	musée assassin
+1	romancière anglaise
+1	Monstre poilu
+1	Massif central
+1	manière divine
+1	esprit libertaire
+1	enfance patiente
+1	livre mythique
+1	tentation communautaire
+1	Origine religieuse
+1	questions diplomatiques
+1	sort douloureux
+1	essai original
+1	éditeur outrageux
+1	cinq_cents nouvelles
+1	béatitude molle
+1	photographe franco
+1	Homo sapienne
+1	saison dernière
+1	maltraitance enfantine
+1	milieu hospitalier
+1	BD contemporaine
+1	auteurs surréalistes
+1	écrivaine malaise
+1	réfugié afghan
+1	terre française
+1	fois limpide
+1	numéro deux
+1	histoire sociale
+1	relations franco
+1	connaissances scientifiques
+1	insufflation anale
+1	République démocratique
+1	étonnamment actuel
+1	contexte instable
+1	illustrateur polonais
+1	dépouilles mortelles
+1	Assises internationales
+1	fois exotique
+1	art nippon
+1	régime communiste
+1	Action française
+1	radicalisme gauchiste
+1	auteur antique
+1	sommeil léger
+1	autoportrait sceptique
+1	aéroport parisien
+1	Cap tragique
+1	ville fantôme
+1	ravissement esthétique
+1	capitale soudanaise
+1	part entière
+1	passion française
+1	succès fou
+1	santé vacillante
+1	force vitale
+1	observation patiente
+1	kanak ordinaire
+1	famille royale
+1	ciel normand
+1	livres collectifs
+1	déclin culturel
+1	sélection beaux
+1	système soviétique
+1	trio français
+1	figure centrale
+1	imaginaires sexuels
+1	écrivain migrateur
+1	rentrées littéraires
+1	vignettes monochromes
+1	intellectuels afro
+1	dessinateur belge
+1	évolution politique
+1	sexisme social
+1	île volcanique
+1	manga romantique
+1	dérive autoritaire
+1	imaginaire algérien
+1	vie nouvelle
+1	écrivain combattant
+1	thriller rural
+1	thèses racistes
+1	600 nouveaux
+1	cyberguerre française
+1	édition suisse
+1	univers cohérent
+1	figures majeures
+1	raison commune
+1	succès posthume
+1	vague migratoire
+1	courant philosophique
+1	livres obsédants
+1	études visuelles
+1	peluche géante
+1	preuves supplémentaires
+1	connaissances actuelles
+1	art juif
+1	collection pornographique
+1	épisode unique
+1	novembre 2018
+1	pensée anti
+1	conflits modernes
+1	santé éditoriale
+1	écrivain chilien
+1	univers ruiné
+1	exception française
+1	écrivain guatémaltèque
+1	journaliste américain
+1	épisode 40
+1	mémoire espagnole
+1	culture japonaise
+1	chaman coréen
+1	écrivain juif
+1	cercle maternelle
+1	sevrage impossible
+1	matière grise
+1	monde chevaleresque
+1	sujets douloureux
+1	livre dix-huit
+1	écrivain brésilien
+1	régime mussolinien
+1	Nobel alternatif
+1	samedi 27
+1	sociétés occidentales
+1	livre dense
+1	littérature comparée
+1	dossiers administratifs
+1	auteur japonais
+1	imaginaire national
+1	prose judiciaire
+1	texte implacable
+1	influence mondiale
+1	flic solitaire
+1	éditeur subjectif
+1	langue finnoise
+1	veine sociale
+1	quartier noir
+1	textes inédits
+1	images puissantes
+1	ouvrage spectaculaire
+1	art urbain
+1	poète russe
+1	romancier libanais
+1	scénaristes anonymes
+1	livre culte
+1	anthologie complaisante
+1	place idéale
+1	séparatistes prorusses
+1	rentrée 5
+1	antisémitisme tranquille
+1	n° 1
+1	traducteur assidu
+1	traits constants
+1	héros inquiets
+1	œuvre pleine
+1	éthologue américain
+1	physicien suisse
+1	points chauds
+1	écrivaine russe
+1	scène tous
+1	chou blanc
+1	enseignement supérieur
+1	bureau idéal
+1	écrivaine burkinabé
+1	commerçants juifs
+1	écrivain égyptien
+1	récit tragique
+1	pouvoir russe
+1	tabous groenlandais
+1	puissance lucide
+1	correspondance inédite
+1	arme comique
+1	maîtres flamands
+1	idéologie nationaliste
+1	intellectuels catholiques
+1	regard tendre
+1	BD américaine
+1	écrivaine danoise
+1	fresque subtile
+1	comédie humaine
+1	enquête historique
+1	littérature chinoise
+1	feuilleton littéraire
+1	Documentation française
+1	movie fatal
+1	activité sexuelle
+1	histoire fantastique
+1	Forêt obscure
+1	épisode 106
+1	femmes célèbres
+1	compagnie maritime
+1	amour maternel
+1	essai introductif
+1	Front criminel
+1	Urgences pastorales
+1	littérature allemande
+1	exil familial
+1	vie numérique
+1	climat économique
+1	angle italien
+1	dramaturge italien
+1	Rat noir
+1	thriller fantastique
+1	power littéraire
+1	années 1900
+1	concitoyennes noires
+1	histoire culturelle
+1	patronyme fictif
+1	intellectuels français
+1	écrivaine italienne
+1	choix littéraires
+1	artiste belge
+1	temps forts
+1	comédie romantique
+1	Journal inédit
+1	livres passionnants
+1	classes populaires
+1	Fureurs invisibles
+1	synthèse nouvelle
+1	fiction historique
+1	condition noire
+1	marché hexagonal
+1	série emblématique
+1	impact réel
+1	nature humaine
+1	festin amoureux
+1	culture franco
+
+Type de pattern: [^ ]+/ADJ [^ ]+/NC 
+
+32	premier roman
+23	grand reporter
+12	nouveau livre
+11	première fois
+11	nouveau roman
+10	nouveau poème
+9	XIXe siècle
+9	brèves critiques
+9	7 livres
+7	forts bâ
+7	1_800 km
+7	7 octobre
+6	deuxième roman
+5	grand écrivain
+5	jeune femme
+5	dernier strip
+5	28 mars
+4	nouvel essai
+4	XVIIIe siècle
+4	extrême droite
+4	dernier homme
+4	6 octobre
+4	2 janvier
+4	XXe siècle
+3	nouveau manga
+3	13 novembre
+3	grand roman
+3	dernières années
+3	16 mars
+3	11 novembre
+3	XVIe siècle
+3	premier livre
+3	troisième roman
+3	récentes parutions
+3	grand rendez-vous
+3	50 ans
+3	dernier livre
+3	ancien président
+3	11 septembre
+3	beaux livres
+3	XXIe siècle
+2	12 septembre
+2	21 décembre
+2	vingt-sept ans
+2	567 nouveautés
+2	jeunes années
+2	mort vendredi
+2	jeunes criminels
+2	premier tome
+2	petits riens
+2	9 novembre
+2	jeune migrant
+2	vieille femme
+2	5 ans
+2	vingt-cinq ans
+2	4 janvier
+2	deux côtés
+2	nombreux écrivains
+2	66 ans
+2	petit manuel
+2	14 ans
+2	25 ans
+2	18 juin
+2	meurtrier virus
+2	troisième tome
+2	nouvelle série
+2	grand philosophe
+2	18 h
+2	dernier tome
+2	premiers chapitres
+2	21 septembre
+2	littéraire 2018
+2	20 juillet
+2	trois textes
+2	anti -68
+2	dark fantasy
+2	beau récit
+2	troisième journée
+2	terrifiant roman
+2	nouveau prix
+2	première inspectrice
+2	difficile décennie
+2	première ligne
+2	première guerre
+2	petit écran
+2	jeune fille
+2	14 octobre
+2	XVIIe siècle
+2	17 h
+2	mystérieux archéologue
+2	5 février
+2	vieil homme
+2	5 septembre
+2	9 mai
+2	grand prix
+2	présumés djihadistes
+2	nombreux mangas
+2	grands noms
+2	grande écrivaine
+2	9e art
+2	petite fille
+2	21 mars
+2	deuxième groupe
+2	5 janvier
+2	troisième livre
+2	20 ans
+2	discret débat
+1	meilleurs connaisseurs
+1	nouvelles traductions
+1	vingt-trois ans
+1	productives années
+1	excellente lecture
+1	charnelle visionnaire
+1	féroce chronique
+1	grande majorité
+1	grave opération
+1	autre côté
+1	quatre maux
+1	génial auteur
+1	premier chef
+1	autres livres
+1	-11 septembre
+1	remarquable personnage
+1	célèbre jeu
+1	vifs débats
+1	nouvelles manières
+1	24 octobre
+1	même eau
+1	vives critiques
+1	sportif brasse
+1	beau livre
+1	première édition
+1	belle bande
+1	argentin signe
+1	autres républicains
+1	100 ans
+1	premier album
+1	ancien flic
+1	forfait langage
+1	spécial poches
+1	efficaces techniques
+1	Fugitive parce
+1	petites gens
+1	rare écrivain
+1	italien signe
+1	ancienne résidence
+1	vive controverse
+1	insaisissable génitrice
+1	premier accroc
+1	sainte bénédictine
+1	10 avril
+1	ancien journaliste
+1	festive Foire
+1	premières expériences
+1	célèbre musée
+1	célèbre éditeur
+1	grands entretiens
+1	24 mars
+1	nouveau regard
+1	9 décembre
+1	beau rôle
+1	autre vie
+1	grande guerre
+1	marocaine lauréate
+1	neuvième tome
+1	big data
+1	grand ami
+1	court reportage
+1	sinistres aventures
+1	belle réussite
+1	policiers quai
+1	trois séries
+1	premiers romans
+1	autres ouvrages
+1	68_000 livres
+1	30 ans
+1	prestigieux prix
+1	Grands Poèmes
+1	petites affaires
+1	4 points
+1	public vieillit
+1	derniers auteurs
+1	24 août
+1	nouvel antisémitisme
+1	112 lettres
+1	grand peintre
+1	grand éditeur
+1	récentes autour
+1	ample histoire
+1	Nouvelle Académie
+1	gros jeu.
+1	autre révolution
+1	longues cornes
+1	ancien PDG
+1	12 février
+1	rural romances
+1	grave blessure
+1	quatrième édition
+1	étonnant parcours
+1	dernier festival
+1	célèbre écrivain
+1	vaine chose
+1	célèbre astrophysicien
+1	célèbre Club
+1	petit étang
+1	8,50 €
+1	même chose
+1	dernier ouvrage
+1	15 octobre
+1	nouvelles pages
+1	intenses entretiens
+1	européenne autour
+1	impeccable poétique
+1	second roman
+1	jeune écrivain
+1	adolescent victime
+1	long hiver
+1	immense sensation
+1	grand passage
+1	principal traducteur
+1	nouveaux médias
+1	beau fémur
+1	nouveaux acteurs
+1	petit bout
+1	goûteuse version
+1	deux rives
+1	21e édition
+1	condescendant vis
+1	grand show
+1	premières phrases
+1	22 janvier
+1	nouveaux romans
+1	génial dramaturge
+1	beau rêve
+1	bons sentiments
+1	7 mars
+1	étonnante histoire
+1	faux désordre
+1	nombreux travaux
+1	gros piranha
+1	étrange secte
+1	nouvelles autour
+1	grand retour
+1	festival angoumoisin
+1	nouveaux frais
+1	nouveau record
+1	bon samaritain
+1	autres mages
+1	immense plateau
+1	incroyables aventures
+1	derniers jours
+1	12 juillet
+1	immense biographie
+1	85 ans
+1	nouvel appartement
+1	trois enfants
+1	73 ans
+1	plein désarroi
+1	prodigieux souffle
+1	riches volumes
+1	3 décembre
+1	400 débats
+1	grande anarchiste
+1	nouveau monde
+1	belle réflexion
+1	nouvelle version
+1	77 ans
+1	superbe ode
+1	122 pages
+1	autre ville
+1	grande vitalité
+1	robuste colonie
+1	nouvelle faculté
+1	27 janvier
+1	XXe siècles
+1	riche biographie
+1	­à ­conquérir
+1	26 ans
+1	Saufs riverains
+1	récent veuvage
+1	comparée livre
+1	vrai sujet
+1	4 avril
+1	deux idées
+1	critique mode
+1	cinq livres
+1	Grande Guerre
+1	jeunes auteurs
+1	75 ans
+1	puissant roman
+1	excellentes bandes
+1	beau piège
+1	britannique signe
+1	saisissante lucidité
+1	grandes écoles
+1	seul homme
+1	bonne surprise
+1	grand antiroman
+1	futur empereur
+1	cinq_cent_mille soldats
+1	9 juin
+1	classique dramaturge
+1	nombreuses questions
+1	21 mai
+1	meilleur album
+1	36e album
+1	excellents romans
+1	incontestable force
+1	5 octobre
+1	11 février
+1	français signe
+1	jeune fermière
+1	poétique autour
+1	grand oral
+1	nombreux livres
+1	petite bibliothèque
+1	130_000 personnes
+1	quatrième tome
+1	fragile marché
+1	10 février
+1	jeune auteur
+1	vraie réussite
+1	grande sœur
+1	merveilleux pouvoir
+1	rude épreuve
+1	fantastique équipe
+1	sixième fois
+1	prochain film
+1	ancien titulaire
+1	vieille histoire
+1	précieuses notes
+1	véritable histoire
+1	grande métropole
+1	onze prix
+1	jeune séminariste
+1	Gai Savoir
+1	intenses témoignages
+1	4 juin
+1	courte fiction
+1	charmante histoire
+1	pauvres types
+1	28 septembre
+1	double culture
+1	­fulgurante ascension
+1	libre adaptation
+1	bons mots
+1	60 photographies
+1	étonnant détour
+1	ambitieuse interprétation
+1	japonaise 8
+1	illustre directeur
+1	belles études
+1	riche monographie
+1	autres langues
+1	ancienne directrice
+1	nouvelles connaissances
+1	lumineux roman
+1	petit groom
+1	beau roman
+1	belle édition
+1	beaux draps
+1	superbe redécouverte
+1	première heure
+1	mort mercredi
+1	ancien ministre
+1	inépuisables questions
+1	gigantesque succès
+1	19 juin
+1	grande voix
+1	propres histoires
+1	12 avril
+1	fascinante autobiographie
+1	premier volume
+1	12 juin
+1	grande rancœur
+1	antisémite opiniâ
+1	vénérable oulipien
+1	Grande Dépression
+1	9 juillet
+1	deux chercheurs
+1	délicieux roman
+1	petit jeu.
+1	bonne fréquentation
+1	essayiste place
+1	4 octobre
+1	importants écrivains
+1	troisième â
+1	nouvelle fantastique
+1	douce déraison
+1	19 janvier
+1	Tous ­philosophes
+1	surprenante relation
+1	incroyable succès
+1	nombreuses parutions
+1	première théorie
+1	vraie histoire
+1	première journée
+1	vieille dame
+1	autres super
+1	autre pas
+1	moderne écrivain
+1	autre vérité
+1	mauvaise réputation
+1	nouvelle collection
+1	dernier roman
+1	belle rêverie
+1	jeune homme
+1	autres penseurs
+1	cinquante-six ouvrages
+1	morte lundi
+1	premier round
+1	seule critique
+1	noire remise
+1	jeune homosexuel
+1	nouvelle sélection
+1	autre versant
+1	troublante expérience
+1	grand public
+1	23 mars
+1	sexuels coloniaux
+1	nombreuses nouveautés
+1	long compagnonnage
+1	long travail
+1	103 ans
+1	45e édition
+1	passionnante enquête
+1	américaine Heritage
+1	82 ans
+1	nouveau fossé
+1	belle invitation
+1	70 ans
+1	XVe siècles
+1	soft power
+1	autre visage
+1	jeunes enfants
+1	bonne dame
+1	26 janvier
+1	Petit Pays
+1	3 août
+1	30 octobre
+1	381 romans
+1	10 %
+1	3_200 ans
+1	même temps
+1	autre fin
+1	premier amour
+1	grands blessés
+1	immense poète
+1	formidable mutation
+1	ancien champion
+1	première apparition
+1	grand fauve
+1	nouvelle édition
+1	Ier siècle
+1	stupéfiante clarté
+1	nouveaux tomes
+1	deuxième livre
+1	deux écrivains
+1	intense récit
+1	commandant divisionnaire
+1	23 août
+1	jeunes voix
+1	dernières parutions
+1	ancienne caricaturiste
+1	petite fraction
+1	nouvelle interprétation
+1	célèbre psychologue
+1	-14 octobre
+1	bon homosexuel
+1	86 ans
+1	15 millions
+1	12 mars
+1	3 fois
+1	premiers livres
+1	formidables Mémoires
+1	mangakas phares
+1	nouvelle académie
+1	première photo
+1	dernier essai
+1	terrible odyssée
+1	1,5 million
+1	futur Prix
+1	puissants romans
+1	grandes manœuvres
+1	secondes noces
+1	mauvaise année
+1	nouveaux croisés
+1	8 juin
+1	grands acteurs
+1	dernière trilogie
+1	incroyable crise
+1	hallucinante insurrection
+1	somptueux panorama
+1	deux puissances
+1	crûment gay
+1	grandes questions
+1	nombreux mythes
+1	discrètes apparitions
+1	étonnant cours
+1	ouvrageaux illustrations
+1	légendaire reine
+1	travel retail
+1	prestigieuse collection
+1	petit bijou
+1	ultimes mots
+1	incroyable lucidité
+1	implacable enquête
+1	ultimes désillusions
+1	nouveau relais
+1	nobles causes
+1	humble serviteur
+1	riches Indiens
+1	sixième opus
+1	ensorcelante déesse
+1	26 octobre
+1	joyeux maîtres
+1	plein mois
+1	grands explorateurs
+1	danseuses métisses
+1	iconoclaste nombre
+1	bouillant bagnard
+1	dernier opus
+1	27 mai
+1	fameux drame
+1	fameuse expérience
+1	190 jours
+1	16_000 euros
+1	11 juin
+1	4 novembre
+1	tibétaines grandeur
+1	Double fond
+1	14 mai
+1	premier opus
+1	premier ministre
+1	autres ficelles
+1	importante biographie
+1	rares dessins
+1	petit livre
+1	savant suspense
+1	immémoriale histoire
+1	jeune couple
+1	autres femmes
+1	grand succès
+1	grand romancier
+1	dixième roman
+1	nouvelles aventures
+1	ancienne ministre
+1	10 août
+1	grandes espérances
+1	indépendantiste kanak
+1	pleine déliquescence
+1	22 août
+1	nulle part
+1	5 août
+1	28 décembre
+1	même titre
+1	Baroque sarabande
+1	premier samouraï
+1	précieux volume
+1	Haute couture
+1	quatrième tentative
+1	vibrant plaidoyer
+1	30e édition
+1	jeunes écrivains
+1	nouvelle ère
+1	anciens peuples
+1	nouvelle fois
+1	nouvelle relation
+1	juste hommage
+1	funeste désir
+1	ancien maoïste
+1	nécessaire imperfection
+1	mort samedi
+1	road trip
+1	dernière année
+1	fameuse bataille
+1	première dame
+1	350 pages
+1	fameuse auteure
+1	islandais signe
+1	grand nettoyage
+1	premier lundi
+1	grosses gouttes
+1	deux scénaristes
+1	sixième prix
+1	éclairant portrait
+1	bon usage
+1	sensibles interprétations
+1	76 ans
+1	nouvelle biographie
+1	étrange mère
+1	petits soldats
+1	9 février
+1	dernier récit
+1	troisième album
+1	3 2
+1	même rage
+1	longue impatience
+1	épais ronciers
+1	23 novembre
+1	Nouvel Antisémitisme
+1	10 ans
+1	fort face
+1	premier plan
+1	jeunes gens
+1	grand chaos
+1	mystérieuse amie
+1	insoutenable beauté
+1	450_000 euros
+1	pleine bataille
+1	anciens chefs
+1	28 janvier
+1	pure tradition
+1	seconde femme
+1	petit rentier
+1	sinistre hôtel
+1	jeunes fils
+1	bonne distance
+1	900 millions
+1	haut lieu
+1	sensible récit
+1	lointaine terre
+1	deux adages
+1	lent thriller
+1	nombreuses sorties
+1	subtile autour
+1	importants groupes
+1	douloureuse question
+1	petite console
+1	gros manifeste
+1	meilleurs spécialistes
+1	9 janvier
+1	autre littéraire
+1	8 octobre
+1	12 novembre
+1	nombreuses reprises
+1	historien enquête
+1	vertigineuse introspection
+1	véritable édition
+1	mauvaise conscience
+1	petite princesse
+1	insatiable curiosité
+1	autres Pères
+1	5 Continents
+1	longue bataille
+1	riche exposition
+1	mauvais procès
+1	long chemin
+1	XVIIe siècles
+1	extravagant roman
+1	tue personne
+1	27 avril
+1	esthétique contestataire
+1	16 ans
+1	joyeuse irrévérence
+1	universitaire nantais
+1	grandes heures
+1	8 avril
+1	10 albums
+1	américain signe
+1	6 novembre
+1	iconoclaste auteur
+1	épatante enquête
+1	17 novembre
+1	saint ­François
+1	magnifique récit
+1	meilleurs albums
+1	grands classiques
+1	ancien directeur
+1	brûlante actualité
+1	perspicace témoin
+1	intrigante incursion
+1	étourdissant récit
+1	seconde guerre
+1	abyssal roman
+1	Le coin
+1	dix-sept portraits
+1	seul confident
+1	17 mars
+1	vrai succès
+1	dernière mère
+1	Irlandais solitaire
+1	derniers mois
+1	22 mai
+1	27 ans
+1	profonde amitié
+1	7 janvier
+1	première sélection
+1	aimable sagesse
+1	récents résultats
+1	deux héroïnes
+1	lente reconstruction
+1	nouvelle traduction
+1	vrais héros
+1	autre livre
+1	grand talent
+1	25 août
+1	mauvaises pensées
+1	vrai bonheur
+1	belle héroïne
+1	redoutable arme
+1	trois corps
+1	première série
+1	grands esprits
+1	difficiles négociations
+1	même univers

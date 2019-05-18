@@ -1,0 +1,357 @@
+377 éléments trouvés
+
+Type de pattern: [^ ]+/NC [^ ]+/P [^ ]+/NC [^ ]+/P [^ ]+/NC 
+
+1	société de conseil en commerce
+1	formes de vente en ligne
+1	dizaines de milliers de commerçants
+1	vente en ligne de chaussures
+1	euros de chiffre d' affaires
+1	chiffre d' affaires de 61,2
+1	projet de camion sans conducteur
+1	vente en ligne de tongs
+1	rachat de studios de création
+1	stratégie de rachat de studios
+1	milliards de dollars de capitalisation
+1	dollars de chiffre d' affaires
+1	milliards de dollars de chiffre
+1	forme de réservation de vols
+1	up de livraison de courses
+1	euros par an en deçà
+1	milliards d' euros de chiffre
+1	vente en ligne de mode
+1	construction de jouets en cartons
+1	milliards de dollars de valeur
+1	espèce en voie de disparition
+1	vente de mode en ligne
+1	chiffre d' affaires en 2017
+1	sites de vente de mode
+1	vidéo de construction de jouets
+
+Type de pattern: [^ ]+/NC [^ ]+/ADJ 
+
+8	éditorialiste économique
+4	intelligence artificielle
+4	groupe américain
+2	êtres humains
+2	siège social
+2	autorité allemande
+2	commerce électronique
+2	avis négatifs
+2	révolution numérique
+2	groupe japonais
+2	villes américaines
+1	voitures autonomes
+1	prétentions haut
+1	images nettes
+1	entreprise allemande
+1	raout annuel
+1	cinéma hollywoodien
+1	climat morose
+1	autorités américaines
+1	manière unilatérale
+1	personnel capable
+1	position dominante
+1	géant taïwanais
+1	menace chinoise
+1	partie déplacée
+1	Intelligence artificielle
+1	section musicale
+1	industrie électronique
+1	géant japonais
+1	version remasterisée
+1	recherche chinois
+1	productivité humaine
+1	mannequin interactif
+1	banques françaises
+1	censure chinoise
+1	formes chinoises
+1	qualité sonore
+1	PlayStation 2
+1	intention artistique
+1	assistant personnel
+1	up américaine
+1	distribution allemand
+1	traitement automatique
+1	violence physique
+1	réalités commerciales
+1	charme épique
+1	champions russes
+1	formes numériques
+1	sécurité domestique
+1	livre numérique
+1	technologies innovantes
+1	PlayStation 4
+1	touristes chinois
+1	formes collaboratives
+1	succès fracassant
+1	gilets jaunes
+1	portefeuille électronique
+1	patients fantômes
+1	franchement déconseillé
+1	stratégie gagnante
+1	données personnelles
+1	crise écologique
+1	culture marchande
+1	cadre juridique
+1	héritiers naturels
+1	performances boursières
+1	poids lourds
+1	société française
+1	plan social
+1	chirurgie dentaire
+1	vérité artificielle
+1	stocks importants
+1	XZ2 compact
+1	expansion spectaculaire
+1	régulateur chinois
+1	projecteur 4K
+1	leader mondial
+1	guerre commerciale
+1	péril jaune
+1	concurrents siglés
+1	équipements scientifiques
+1	classement infaillible
+1	activité professionnelle
+1	drapeau indien
+1	capitalisation boursière
+1	formes musicales
+1	simulation clinique
+1	ségrégation sociale
+1	festival francophone
+1	samedi 9
+1	choc explosif
+1	rivalité matérielle
+1	solution collaborative
+1	harcèlement sexuel
+1	puces électroniques
+1	équipement électronique
+1	couverture sociale
+1	groupe français
+1	forme américaine
+1	innovation technologique
+1	personnel chinois
+1	envoyés spéciaux
+1	livre audio
+1	streaming musical
+1	études cinématographiques
+1	monde industriel
+1	réseau social
+1	systèmes technologiques
+1	économie chinoise
+1	réglage spécial
+1	zone urbaine
+1	éditeur français
+1	partenaire local
+1	édition mondial
+1	débordements violents
+1	logiciels français
+1	importations automobiles
+1	idées progressistes
+1	sites étrangers
+1	compétition sociale
+1	dit long
+1	transactions publicitaires
+1	groupe sud
+1	capacités accrues
+1	mois précédents
+1	paiement chinoise
+1	président chinois
+1	réalité virtuelle
+1	ami chinois
+1	recherche russe
+1	usine américaine
+1	site français
+1	concept loufoque
+1	questions orales
+1	colis express
+1	commerce numérique
+1	entrepreneur allemand
+1	publicité traditionnels
+1	marché national
+1	produits alimentaires
+1	chercheurs hongrois
+1	filière bio
+1	passages forts
+1	directeur général
+1	géant informatique
+1	réseaux sociaux
+1	investisseurs étrangers
+1	géants mondiaux
+1	Salon mondial
+
+Type de pattern: [^ ]+/V [^ ]+/DET [^ ]+/NC 
+
+2	suspend ses projets
+2	dicte ses conditions
+1	multiplie les initiatives
+1	traduisent l' avènement
+1	élargissent leur offre
+1	accusent le coup
+1	exerce ce marché
+1	continue sa stratégie
+1	observe l' éditorialiste
+1	décortique les conférences
+1	pense des technologies
+1	changent leurs règles
+1	placent leurs pions
+1	dispose des technologies
+1	illustrent le dépeuplement
+1	quittait ses fonctions
+1	assigne les auteurs
+1	entrave la croissance
+1	accroît la ségrégation
+1	abandonne ce projet
+1	invite les consommateurs
+1	fixe un seuil
+1	a deux ans
+1	affirme le consultant
+1	diversifie tous azimuts
+1	abandonne la marque
+1	bouscule les modes
+1	représente des investisseurs
+1	inquiète les autorités
+1	tissent leur toile
+1	naquit la vérité
+1	promet une baisse
+1	relance sa vente
+1	multiplie les rencontres
+1	a aucune chance
+1	entraîne la suppression
+1	prépare l' entrée
+1	annonce la création
+1	revient ce mercredi
+1	postent des avis
+1	abandonne son projet
+1	restitue le cinéma
+1	serait un cauchemar
+1	sont l' avenir
+1	sortent ces jours
+1	redoutent un affablissement
+1	intéresse cette année
+1	achète l' éditeur
+1	donnent un coup
+1	acquiert la start
+1	domine le streaming
+1	ajoute la violence
+1	accélèrent sa chute
+1	fait son festival
+1	propose une solution
+1	inaugure un concept
+1	décortique les enjeux
+1	contrôle l' essentiel
+
+Type de pattern: [^ ]+/ADJ [^ ]+/NC 
+
+2	brève histoire
+2	petit smartphone
+2	second siège
+2	1_000 milliards
+2	2 octobre
+2	nouvelle superproduction
+2	prochaine génération
+2	XXIe siècle
+2	nouvelle taxe
+2	21 leçons
+1	28 millions
+1	big data
+1	seules voitures
+1	premiers industriels
+1	deux géants
+1	faux bras
+1	31 mars
+1	première fois
+1	premier magasin
+1	coûteux haut
+1	600 euros
+1	1er mars
+1	prochains mois
+1	grandes agglomérations
+1	350 millions
+1	45 milliards
+1	petite start
+1	importantes productions
+1	nouvelles banques
+1	véritable institution
+1	électronique face
+1	7_000 euros
+1	importante acquisition
+1	nouvelle culture
+1	9 juin
+1	deux spécialistes
+1	13 %
+1	vraie partie
+1	bas coût
+1	nouvelle fonctionnalité
+1	bonnes performances
+1	propres enceintes
+1	important festival
+1	première unité
+1	nouveau choc
+1	propres produits
+1	600 millions
+1	seule main
+1	nouvelle phase
+1	15 juin
+1	37,4 millions
+1	vieux monde
+1	plein temps
+1	50 millions
+1	responsable marketing
+1	nouvelle levée
+1	vingt-cinq ans
+1	premier trimestre
+1	nouvelle télé
+1	57,7 milliards
+1	180_000 salariés
+1	tel achat
+1	seconde jeunesse
+1	14 milliards
+1	nouveau concept
+1	irrésistible essor
+1	nouveau numéro
+1	nouveaux emplois
+1	4 %
+1	nouvelle usine
+1	nouvelle machine
+1	même charme
+1	trois mois
+1	première start
+1	nouveau partenaire
+1	4 septembre
+1	nombreux téléviseurs
+1	moyen terme
+1	seconde main
+1	1_300 euros
+1	22,3 milliards
+1	5 novembre
+1	principal fabricant
+1	nouvelle géopolitique
+1	meilleure qualité
+1	plein essor
+1	10 %
+1	grand raout
+1	premier actionnaire
+1	100_000 emplois
+1	faux patients
+1	nouveaux jeux
+1	meilleure utilisation
+1	fabuleux destin
+1	grand événement
+1	fake news
+1	grande distribution
+1	haute définition
+1	nouveau jeu.
+1	grandes villes
+1	deuxième acteur
+1	nouveau PDG
+1	81,7 milliards
+1	autres éditeurs
+1	numérique peine
+1	petites annonces
+1	grandes enseignes
+1	meilleurs jeux
+1	100 milliards
+1	nouveau terrain
+1	grands équipements
+1	méga hub

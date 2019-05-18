@@ -1,0 +1,4 @@
+NC P NC P NC
+V DET NC
+NC ADJ
+ADJ NC
